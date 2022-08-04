@@ -1,0 +1,37 @@
+---
+
+layout: recipe
+title: "Chipotle Sweet Potato Burgers"
+image: chipotle-sweet-potato-burgers.jpg
+imagecredit: https://lh4.googleusercontent.com/-TIZ-o4cbpPQ/UYLKvdmb9vI/AAAAAAAAKaI/upSkcmTuAQA/w640-h480/Chipotle+SP+Burger+dressed.jpg
+tags: dinner
+
+ingredients:
+- 1 sweet potato (1 lb.)
+- 1/2 cup frozen corn kernels
+- 15oz. can black beans
+- 1 whole chipotle pepper in adobo sauce
+- 1/2 cup cornmeal, divided
+- 1/4 tsp garlic powder
+- 1/2 tsp cumin
+- 1/2 tsp salt
+- 1/4 bunch cilantro (optional)
+- 1 Tbsp vegetable oil (for frying)
+- 4 wheat rolls
+- 1 avocado
+- 1/4 cup mayonnaise (optional)
+
+directions:
+- Wash the sweet potato well and then poke it several times with a fork so that steam can escape while it cooks.
+- To cook it in the microwave -- wrap it loosely with a paper towel, set it on a microwave safe plate, and microwave on high for five minutes. Carefully squeeze the potato to make sure it is soft all the way through. If it is not, microwave longer, in one minute increments, until it is soft all the way through (mine took 8 minutes).
+- Took cook it in the oven -- heat the oven to 400 degrees and then bake the potato for 45-60 minutes, or until it is soft all the way through (either directly on the oven rack or on a baking sheet).
+- While the sweet potato is cooling, prepare the rest of the ingredients. Place the frozen corn in a large bowl. Drain and rinse the black beans. Allow as much excess water to drain away as possible, and then add them to the bowl with the corn. Roughly chop the cilantro leaves and then add them to the bowl, along with half of the cornmeal (1/4 cup), garlic powder, cumin, and salt. Take one chipotle pepper out of the can, mince it, and then add it to the bowl along with about one teaspoon of the adobo sauce from the can.
+- Once the sweet potato is cool enough to handle, scoop out the flesh and add it to the bowl with the rest of the ingredients. Stir everything together and then either use a potato masher or the back of a fork to slightly mash the beans. Cover and chill the mixture for 30 minutes to allow the cornmeal to absorb some of the moisture.
+- Divide the sweet potato mixture into four (or six) portions and shape each into a patty, approximately 3/4 inch thick. Use the remaining 1/4 cup of cornmeal to coat the outside of the patties. This will provide a nice crunch to the burger.
+- To cook the patties in a skillet, heat 1/2 tablespoon of vegetable oil in a heavy bottomed skillet over a medium flame. When the oil is hot (it should look wavy on the surface), add two of the patties. Cook for about 5 minutes on each side or until the patties are golden brown. Add more oil and cook the remaining two patties. Remember to turn the patties carefully as they are quite soft and can fall apart.
+- To cook the patties in the oven, Preheat the oven to 400 degrees. Line a baking sheet with foil and then coat lightly with non-stick spray. Place the patties on the foil and then spritz the top of the patties lightly with non-stick spray (this will help it crisp up). Bake for 25 minutes, or until the patties are heated through and the bottoms are golden brown.
+- Spread one tablespoon of mayonnaise on each bun and top with a chipotle sweet potato patty. Slice the avocado and place 1/4 of the slices on top of each burger. Top with extra cilantro leaves, if desired.
+
+---
+
+From [Budget Bytes](https://www.budgetbytes.com/chipotle-sweet-potato-burgers/).
