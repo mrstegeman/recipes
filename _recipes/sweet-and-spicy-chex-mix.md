@@ -21,7 +21,7 @@ ingredients:
 - 1 Tbsp. Worcestershire sauce
 - 1/2 tsp. paprika
 - 1/4 tsp. garlic salt
-- **NOTE** -- If you want a little more "kick" then go ahead and add more hot sauce and spices!
+- NOTE -- If you want a little more "kick" then go ahead and add more hot sauce and spices!
 
 directions:
 - Preheat oven to 250 degrees.
