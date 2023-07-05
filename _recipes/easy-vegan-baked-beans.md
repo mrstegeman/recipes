@@ -22,7 +22,7 @@ ingredients:
 - 2 15-ounce cans navy beans or great northern beans drained and rinsed
 
 directions:
-Preheat oven to 350°F.
+- Preheat oven to 350°F.
 - Heat oil in a pot on medium heat.
 - Sauté the bell peppers in oil or water until soft. This takes about 5 minutes.
 - Add in the garlic and cook for an additional 2 minutes.
