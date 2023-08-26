@@ -30,7 +30,7 @@ directions:
 - Wrap the tofu block with absorbent paper and place it between two chopping boards, adding a few books on top of the top board to add pressure. Set aside 30 minutes to release all the tofu moisture.
 - Cut the tofu block into cubes of (about 0.4 inches/1cm) or roughly pull apart the tofu to create irregular pieces of tofu – this mimics chicken texture the best!
 - Preheat oven to 400°F (200°C). Line a baking tray with parchment paper. Set aside.
-- In a large mixing bowl, combine all the marinade ingredients: olive oil, cornstarch, garlic powder, orange zest, and salt.
+- In a large mixing bowl, combine all the marinade ingredients -- olive oil, cornstarch, garlic powder, orange zest, and salt.
 - Add the tofu chunks into the marinade and combine with a spoon.
 - Lay the tofu pieces onto the prepared baking sheet into a single layer, make sure the tofu pieces don't touch each other or overlap.
 - Bake on the center rack for 20-30 minutes, flipping them halfway. Meanwhile, prepare the curry sauce.
