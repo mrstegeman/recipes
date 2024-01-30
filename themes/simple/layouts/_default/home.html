@@ -1,0 +1,8 @@
+{{ define "main" }}
+  {{ .Content }}
+  <div class="recipe-list">
+  {{ range sort site.RegularPages "LinkTitle" }}
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+  {{ end }}
+  </div>
+{{ end }}

@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ if isset .Params "image" }}
+  <img src="{{ index .Params "image" }}">
+  {{ end }}
+
+  {{ .Content }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}

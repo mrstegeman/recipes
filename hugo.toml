@@ -1,0 +1,12 @@
+baseURL = 'https://recipes.stegeman.me/'
+languageCode = 'en-us'
+title = 'Recipes'
+theme = 'simple'
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 1
+
+[taxonomies]
+  tag = "tags"
