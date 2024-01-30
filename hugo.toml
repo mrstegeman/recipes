@@ -2,6 +2,7 @@ baseURL = 'https://recipes.stegeman.me/'
 languageCode = 'en-us'
 title = 'Recipes'
 theme = 'simple'
+enableRobotsTXT = true
 
 [[menu.main]]
 name = "Tags"
