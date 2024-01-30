@@ -3,6 +3,7 @@ title = "Pretzel Crusted Chicken Fingers"
 date = '2024-01-29T21:48:18-09:00'
 draft = false
 image = 'pretzel-crusted-chicken-fingers.jpg'
+archive = true
 tags = ['dinner']
 +++
 

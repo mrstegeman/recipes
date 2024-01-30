@@ -3,6 +3,7 @@ title = "Bacon-Wrapped Dates"
 date = '2024-01-29T21:48:01-09:00'
 draft = false
 image = 'bacon-wrapped-dates.jpg'
+archive = true
 tags = ['appetizers']
 +++
 

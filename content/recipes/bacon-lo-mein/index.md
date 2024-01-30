@@ -3,6 +3,7 @@ title = "Bacon Lo Mein"
 date = '2024-01-29T21:48:01-09:00'
 draft = false
 image = 'bacon-lo-mein.jpg'
+archive = true
 tags = ['pasta']
 +++
 

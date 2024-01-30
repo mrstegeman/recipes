@@ -3,6 +3,7 @@ title = "Sausage Hashbrown Breakfast Casserole"
 date = '2024-01-29T21:48:19-09:00'
 draft = false
 image = 'sausage-hashbrown-breakfast-casserole.jpg'
+archive = true
 tags = ['breakfast']
 +++
 

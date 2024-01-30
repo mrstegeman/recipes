@@ -2,6 +2,7 @@
 title = "Dump Maple Mustard Chicken"
 date = '2024-01-29T21:48:10-09:00'
 draft = false
+archive = true
 tags = ['freezer meals']
 +++
 

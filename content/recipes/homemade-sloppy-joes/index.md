@@ -3,6 +3,7 @@ title = "Homemade Sloppy Joes"
 date = '2024-01-29T21:48:14-09:00'
 draft = false
 image = 'homemade-sloppy-joes.jpg'
+archive = true
 tags = ['meat']
 +++
 

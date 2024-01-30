@@ -3,6 +3,7 @@ title = "Sesame Chicken Egg Roll in a Bowl"
 date = '2024-01-29T21:48:20-09:00'
 draft = false
 image = 'sesame-chicken-egg-roll-in-a-bowl.jpg'
+archive = true
 tags = ['chicken', 'asian']
 +++
 

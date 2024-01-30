@@ -8,5 +8,10 @@ name = "Tags"
 url = "/tags/"
 weight = 1
 
+[[menu.main]]
+name = "Archive"
+url = "/archive/"
+weight = 2
+
 [taxonomies]
   tag = "tags"

@@ -3,6 +3,7 @@ title = "Smoky Bacon Chili"
 date = '2024-01-29T21:48:22-09:00'
 draft = false
 image = 'smoky-bacon-chili.jpg'
+archive = true
 tags = ['soup']
 +++
 

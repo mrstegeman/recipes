@@ -3,6 +3,7 @@ title = "Chicken Fajitas"
 date = '2024-01-29T21:48:04-09:00'
 draft = false
 image = 'chicken-fajitas.jpg'
+archive = true
 tags = ['dinner']
 +++
 

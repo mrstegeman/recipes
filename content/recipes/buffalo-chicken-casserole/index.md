@@ -3,6 +3,7 @@ title = "Buffalo Chicken Casserole"
 date = '2024-01-29T21:48:03-09:00'
 draft = false
 image = 'buffalo-chicken-casserole.jpg'
+archive = true
 tags = ['dinner']
 +++
 

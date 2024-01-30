@@ -2,6 +2,7 @@
 title = "Smoked Chickens"
 date = '2024-01-29T21:48:22-09:00'
 draft = false
+archive = true
 tags = ['bbq', 'meat']
 +++
 

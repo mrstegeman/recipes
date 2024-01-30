@@ -2,6 +2,7 @@
 title = "Chicken Tacos"
 date = '2024-01-29T21:48:05-09:00'
 draft = false
+archive = true
 tags = ['mexican']
 +++
 

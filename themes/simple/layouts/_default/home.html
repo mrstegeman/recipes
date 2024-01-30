@@ -1,8 +1,10 @@
 {{ define "main" }}
   {{ .Content }}
   <div class="recipe-list">
-  {{ range sort site.RegularPages "LinkTitle" }}
+  {{ range where site.RegularPages.ByLinkTitle "Params.archive" "eq" nil }}
+    {{ if ne .LinkTitle "Archive" }}
     <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+    {{ end }}
   {{ end }}
   </div>
 {{ end }}

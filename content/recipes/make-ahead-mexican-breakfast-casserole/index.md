@@ -3,6 +3,7 @@ title = "Make Ahead Mexican Breakfast Casserole"
 date = '2024-01-29T21:48:16-09:00'
 draft = false
 image = 'make-ahead-mexican-breakfast-casserole.jpg'
+archive = true
 tags = ['breakfast']
 +++
 

@@ -3,6 +3,7 @@ title = "Slow Cooker Buffalo Chicken"
 date = '2024-01-29T21:48:22-09:00'
 draft = false
 image = 'slow-cooker-buffalo-chicken.jpg'
+archive = true
 tags = ['chicken']
 +++
 

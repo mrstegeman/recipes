@@ -3,6 +3,7 @@ title = "One Skillet Chicken Thighs with Butternut Squash"
 date = '2024-01-29T21:48:17-09:00'
 draft = false
 image = 'one-skillet-chicken-thighs-with-butternut-squash.jpg'
+archive = true
 tags = ['meat']
 +++
 

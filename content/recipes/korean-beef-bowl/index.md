@@ -3,6 +3,7 @@ title = "Korean Beef Bowl"
 date = '2024-01-29T21:48:15-09:00'
 draft = false
 image = 'korean-beef-bowl.jpg'
+archive = true
 tags = ['meat', 'asian']
 +++
 

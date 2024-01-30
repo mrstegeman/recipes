@@ -2,6 +2,7 @@
 title = "Beef Enchiladas"
 date = '2024-01-29T21:48:02-09:00'
 draft = false
+archive = true
 tags = ['mexican']
 +++
 

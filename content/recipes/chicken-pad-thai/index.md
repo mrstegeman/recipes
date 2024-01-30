@@ -3,6 +3,7 @@ title = "Chicken Pad Thai"
 date = '2024-01-29T21:48:05-09:00'
 draft = false
 image = 'chicken-pad-thai.jpg'
+archive = true
 tags = ['dinner', 'asian']
 +++
 

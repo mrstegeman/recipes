@@ -2,6 +2,7 @@
 title = "All Purpose Chicken"
 date = '2024-01-29T21:47:59-09:00'
 draft = false
+archive = true
 tags = ['meat']
 +++
 

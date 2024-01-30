@@ -2,6 +2,7 @@
 title = "White Bean Chicken Chili Verde"
 date = '2024-01-29T21:48:26-09:00'
 draft = false
+archive = true
 tags = ['dinner']
 +++
 

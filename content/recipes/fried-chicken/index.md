@@ -3,6 +3,7 @@ title = "Fried Chicken"
 date = '2024-01-29T21:48:12-09:00'
 draft = false
 image = 'fried-chicken.jpg'
+archive = true
 tags = ['chicken']
 +++
 

@@ -3,6 +3,7 @@ title = "30 Minute Chicken Tacos"
 date = '2024-01-29T21:47:59-09:00'
 draft = false
 image = '30-minute-chicken-tacos.jpg'
+archive = true
 tags = ['mexican']
 +++
 

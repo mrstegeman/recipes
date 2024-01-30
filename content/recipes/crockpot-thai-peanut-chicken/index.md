@@ -2,6 +2,7 @@
 title = "Crockpot Thai Peanut Chicken"
 date = '2024-01-29T21:48:09-09:00'
 draft = false
+archive = true
 tags = ['freezer meals']
 +++
 

@@ -3,6 +3,7 @@ title = "Cocoa & Chili Rubbed Pork Chops"
 date = '2024-01-29T21:48:06-09:00'
 draft = false
 image = 'cocoa-chili-rubbed-pork-chops.jpg'
+archive = true
 tags = ['meat']
 +++
 

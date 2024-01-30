@@ -3,6 +3,7 @@ title = "Crock Pot Northern Beans & Ham"
 date = '2024-01-29T21:48:08-09:00'
 draft = false
 image = 'crock-pot-northern-beans-and-ham.jpg'
+archive = true
 tags = ['soup']
 +++
 

@@ -3,6 +3,7 @@ title = "Savory Ham and Cheese Muffins"
 date = '2024-01-29T21:48:20-09:00'
 draft = false
 image = 'savory-ham-and-cheese-muffins.jpg'
+archive = true
 tags = ['breakfast']
 +++
 

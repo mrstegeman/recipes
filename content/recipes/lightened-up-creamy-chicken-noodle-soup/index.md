@@ -3,6 +3,7 @@ title = "Lightened-Up Creamy Chicken Noodle Soup"
 date = '2024-01-29T21:48:16-09:00'
 draft = false
 image = 'lightened-up-creamy-chicken-noodle-soup.jpg'
+archive = true
 tags = ['soup']
 +++
 

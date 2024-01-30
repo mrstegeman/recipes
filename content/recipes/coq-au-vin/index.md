@@ -3,6 +3,7 @@ title = "Coq au Vin"
 date = '2024-01-29T21:48:06-09:00'
 draft = false
 image = 'coq-au-vin.jpg'
+archive = true
 tags = ['dinner']
 +++
 
