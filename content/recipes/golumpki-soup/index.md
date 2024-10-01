@@ -9,4 +9,5 @@ tags = ['soup']
 
 * Cook 1 lb hamburger with onion
 * Made 2 cups of rice
-* Saute a head of cabbage, put it all in coup pot and added 3 cans of tomato soup, 1 cup beef broth, and Worcestershire sauce, salt and pepper.
+* Saute a head of cabbage, put it all in soup pot and added 3 cans of tomato soup, 1 cup beef broth, and Worcestershire sauce, salt and pepper.
+* Add more season of some sort to make it taste like something.
