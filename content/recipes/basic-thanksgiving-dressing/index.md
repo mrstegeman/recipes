@@ -33,5 +33,5 @@ From [The Pioneer Woman](https://thepioneerwoman.com/cooking/stuffing_dressing_m
 * Put all the bread cubes in a large bowl and slowly ladle in the broth mixture, tossing as you go until the dressing has the moisture level you want.
 * Taste and add more seasonings as needed.
 * Pour the dressing into a large casserole pan and/or the turkey cavity.
-* Bake the casserole for 20 to 30 minutes at 375 degrees until golden and crisp on top.
+* Bake the casserole for 20 to 30 minutes at 375° until golden and crisp on top.
 * Serve piping hot with a turkey and gravy!

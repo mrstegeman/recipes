@@ -24,7 +24,7 @@ From [my quiet kitchen](https://myquietkitchen.com/crustless-tofu-quiche/).
 * up to ½ cup water, for consistency
 
 ## Directions
-* Preheat oven to 350 degrees F. Oil a 9-inch pie plate or 10-inch quiche dish (not the type of pan with a removable bottom, as the quiche mixture would leak).
+* Preheat oven to 350°F. Oil a 9-inch pie plate or 10-inch quiche dish (not the type of pan with a removable bottom, as the quiche mixture would leak).
 * Preheat a saute pan over medium heat. Add 1 Tbsp oil to the pan. Cook until translucent, 3 to 5 minutes. Add the mushrooms, asparagus, and a pinch of salt. Stirring occasionally, cook until the asparagus is barely fork tender, about 5 minutes. Add the garlic, thyme, and onion powder to the pan. Stir and cook for 1 minute. Remove from heat.
 * Crumble the tofu into the bowl of a food processor. Add the tamari and nutritional yeast. Process until fully combined, stopping to scrape down the sides of the bowl as needed. With the food processor running, drizzle in just enough water so that the mixture becomes smooth, similar in texture to thick hummus (super-firm tofu will require more water than extra-firm). Drizzle in 1 Tbsp olive oil. Taste for salt keeping in mind that the cheese will also add saltiness, and add up to ½ teaspoon of salt. Add the shredded or chopped cheese, and pulse 5 or 6 times to incorporate it into the tofu mixture.
 * Spoon the quiche mixture into the sauté pan with the vegetables, and stir to combine. Transfer the mixture to the prepared pie plate, and smooth the top with a silicone spatula.

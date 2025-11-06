@@ -21,7 +21,7 @@ From [The Chunky Chef](https://www.thechunkychef.com/family-favorite-baked-mac-a
 * ¼ tsp. paprika
 
 ## Directions
-* Preheat oven to 325 degrees F and grease a 3 qt baking dish (9x13").  Set aside.
+* Preheat oven to 325°F and grease a 3 qt baking dish (9x13").  Set aside.
 * Bring a large pot of salted water to a boil.  When boiling, add dried pasta and cook 1 minute less than the package directs for al dente.  Drain and drizzle with a little bit of olive oil to keep from sticking.
 * While water is coming up to a boil, grate cheeses and toss together to mix, then divide into three piles.  Approximately 3 cups for the sauce, 1 ½ cups for the inner layer, and 1 ½ cups for the topping.
 * Melt butter in a large saucepan over MED heat.  Sprinkle in flour and whisk to combine.  Mixture will look like very wet sand.  Cook for approximately 1 minute, whisking often.  Slowly pour in about 2 cups or so of the milk/half and half, while whisking constantly, until smooth.  Slowly pour in the remaining milk/half and half, while whisking constantly, until combined and smooth.

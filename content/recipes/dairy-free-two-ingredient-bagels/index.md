@@ -30,6 +30,6 @@ From [GoDairyFree](https://www.godairyfree.org/recipes/dairy-free-two-ingredient
 * Arrange the bagels on the prepared baking sheet.
 * In a small bowl, whisk together the egg or aquafaba, salt, and water. Brush the egg wash mixture over the bagels. Sprinkle toppings on the bagels, if desired.
 * Bake the bagels for 20 to 22 minutes, rotating the baking sheet midway through baking.
-* Remove the bagels from the oven. Increase the oven temperature to 450 degrees.
+* Remove the bagels from the oven. Increase the oven temperature to 450°.
 * Return the baking sheet to the oven and bake for another 3 to 4 minutes, or until the tops of the bagels have browned.
 * Serve the bagels immediately, or let them cool and store in an airtight container for up to a day. Freeze for longer keeping.

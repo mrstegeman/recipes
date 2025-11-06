@@ -25,7 +25,7 @@ From [How Sweet Eats](https://www.howsweeteats.com/2020/11/cranberry-cobbler-bar
 * (filling) pinch of salt
 
 ## Directions
-* Preheat the oven to 350 degrees F. Spray a 9x13 inch baking dish with nonstick spray.
+* Preheat the oven to 350°F. Spray a 9x13 inch baking dish with nonstick spray.
 * Make the cranberry filling first. Heat the cranberries, sugar and water together in a saucepan over medium heat. Simmer, stirring often, until the berries begin to burst, the sugar melts and the mixture thickens, about 8 to 10 minutes. Remove the heat and let cool to room temperature.
 * For the crust and topping -- Stir the flour, sugar and salt together in a large bowl. Add the melted butter and stir until a shortbread-like dough comes together. I even use my hands to bring it together. Press half of the dough into the bottom of the dish.
 * For the filling -- In another bowl, whisk together the eggs, half and half, sugar, vanilla, cinnamon, salt and cornstarch. Gently fold in in the cranberry filling.

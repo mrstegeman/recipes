@@ -9,7 +9,7 @@ tags = ['bread']
 ## Ingredients
 * 1 package RapidRise Instant Yeast (2 ¼ teaspoons) (I used Fleischmann's)
 * 2 teaspoons kosher salt
-* 2 cups warm water (Between 120 and 130 degrees F)
+* 2 cups warm water (Between 120 and 130°F)
 * 4 ½ cups all purpose flour
 * 2 tablespoons olive oil
 
@@ -25,7 +25,7 @@ tags = ['bread']
 * Using as much flour as needed so it doesn't stick, shape the dough into a large disc.
 * Place the disc in a 12 inch cast iron skillet that has been brushed with olive oil.
 * Cover with a towel, and let rise again for 30 minutes.
-* Preheat oven to 400 degrees F.
+* Preheat oven to 400°F.
 * Lightly brush 2 tablespoons of olive oil on the top of the dough.
 * Using a sharp knife, slit the dough in 4 places.
 * Bake for 35 - 40 minutes.

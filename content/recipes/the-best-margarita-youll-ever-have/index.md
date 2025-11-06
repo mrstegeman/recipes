@@ -32,5 +32,5 @@ From [Cookie and Kate](https://cookieandkate.com/fresh-margaritas/).
 * 1 lime wedge or round, for garnish
 
 ## Directions
-* Pour a layer of salt onto a small plate (preferably one just slightly larger than the top of your margarita glass). Slice off a small piece of lime and run the wet edge of the slice along half of the rim of your glass. Dip the top of the glass into the salt at a 45-degree angle and roll it from side to side to catch the salt. Add ice cubes to your glass and set it aside.
+* Pour a layer of salt onto a small plate (preferably one just slightly larger than the top of your margarita glass). Slice off a small piece of lime and run the wet edge of the slice along half of the rim of your glass. Dip the top of the glass into the salt at a 45-° angle and roll it from side to side to catch the salt. Add ice cubes to your glass and set it aside.
 * Fill a small cocktail shaker with ice. Pour in the tequila, freshly squeezed lime and orange juice and agave nectar. Put on the lid and shake for 30 seconds. Strain the liquid into your glass and garnish with a slice of lime.

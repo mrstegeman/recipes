@@ -17,9 +17,9 @@ tags = ['dessert']
 
 ## Directions
 
-* Heat oven to 350 degrees
+* Heat oven to 350°
 * Melt ½ stick of butter in pan
 * Mix 1 cup flour, 1 tsp baking powder, ½ tsp salt, 1 cup sugar and 1 cup milk in separate bowl
 * Pour mixture into pan with melted butter
 * Spoon in 1 large can of unsweetened peaches, do not mix
-* Bake at 350 degrees for ½ hour or until golden brown
+* Bake at 350° for ½ hour or until golden brown

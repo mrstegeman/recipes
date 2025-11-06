@@ -33,7 +33,7 @@ From [How Sweet Eats](https://www.howsweeteats.com/2015/02/lactation-cookies/).
 * feel free to add -- unsweetened flaked coconut chopped almonds, 1 to 2 tablespoons of almond butter
 
 ## Directions
-* Preheat the oven the 350 degrees F.
+* Preheat the oven the 350°F.
 * In a large bowl, whisk together the oats, flour, yeast, flaxseed, baking powder, soda, cinnamon and salt.
 * In the bowl of your electric mixer, beat the butter and coconut oil on medium speed until creamy. Add in the sugar and beat on medium to high speed until fluffy, about 4 to 5 minutes, scraping down the sides of the bowl if needed. Add in the egg and egg yolk, beating until combined, about 2 to 3 minutes. Add in the vanilla extract and beat until combined again. Gradually add in the dry ingredients, beating on low speed until just combined and mixed. Stir in the chocolate chips with a spatula until they are evenly dispersed.
 * Scoop the dough into 1-inch rounds (I use an ice cream scoop so they are fairly uniform in size) and place on a baking sheet about 2 inches apart. Bake for 10 to 14 minutes, or until the bottoms are just golden. Let cool completely before storing in a sealed container.

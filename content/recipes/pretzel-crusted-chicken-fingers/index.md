@@ -18,7 +18,7 @@ From [How Sweet Eats](https://www.howsweeteats.com/2019/07/pretzel-crusted-chick
 * 2 eggs lightly beaten
 
 ## Directions
-* Preheat the oven to 450 degrees Line a baking sheet with foil and place a wire rack on top. Spray the rack with nonstick spray.
+* Preheat the oven to 450° Line a baking sheet with foil and place a wire rack on top. Spray the rack with nonstick spray.
 * Season the chicken tendres with the salt and pepper. Place the pretzels in a food processor and blend until mostly fine crumbs remain. Place the pretzels in a bowl. Stir in the garlic powder.
 * In another bowl, lightly beat the eggs.
 * Take each chicken tender and coat it in the beaten egg. Dredge it through the pretzel crumbs, pressing gently so the crumbs adhere. Place the tender on the rack and repeat with remaining chicken. Once all the chicken is finished, spray it with avocado or olive oil spray.

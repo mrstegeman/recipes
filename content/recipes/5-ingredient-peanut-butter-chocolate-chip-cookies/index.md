@@ -16,5 +16,5 @@ From [The Girl Who Ate Everything](https://www.the-girl-who-ate-everything.com/5
 * ½ cup milk chocolate chips
 
 ## Directions
-* Preheat oven to 350 degrees.
+* Preheat oven to 350°.
 * Mix all ingredients except chocolate chips. When blended, mix in the chocolate chips. Using your fingers, form 1 ½ inch balls (dough will be very wet and sticky) and place onto an un-greased parchment lined cookie sheet. You don't want to make them too big because they do spread. Bake for 7-9 minutes. Let the cookies sit on the cookies sheet for about 30 seconds to 1 minute before letting cool on a wire rack. Don't let them cool on the sheet or they will overbake. The key to these is to not cook them too long! Makes around a dozen small cookies.

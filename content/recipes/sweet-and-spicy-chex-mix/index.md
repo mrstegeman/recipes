@@ -26,7 +26,7 @@ From [Your Cup of Cake](https://www.yourcupofcake.com/sweet-spicy-chex-mix/).
 * NOTE -- If you want a little more "kick" then go ahead and add more hot sauce and spices!
 
 ## Directions
-* Preheat oven to 250 degrees.
+* Preheat oven to 250°.
 * In a large roasting pan, combine all Chex cereals, mixed nuts, pretzels and cheese crackers. Set aside.
 * In a small saucepan, heat butter, salt, brown sugar, sugar, Frank’s RedHot sauce, Worcestershire sauce, paprika and garlic salt until melted. Pour into roasting pan over cereal, nuts, pretzels and crackers. Stir until coated.
 * Bake in the over for 1 hour, stirring every 15 minutes to make sure it doesn’t burn.

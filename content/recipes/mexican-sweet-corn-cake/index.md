@@ -20,7 +20,7 @@ From [flavor the moments](https://flavorthemoments.com/mexican-sweet-corn-cake/)
 * ¼ teaspoon salt
 
 ## Directions
-* Preheat the oven to 350 degrees.
+* Preheat the oven to 350°.
 * In a large bowl, beat the butter until creamy. Add the masa and water, and beat until incorporated. Set aside.
 * Pulse the corn in the food processor. Leave the corn chunky! Stir the corn into the butter mixture.
 * In a medium bowl, whisk together the cornmeal, sugar, baking powder, and salt. Add the milk, and stir to combine.

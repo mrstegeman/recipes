@@ -17,7 +17,7 @@ From [Call Me PMc](https://www.callmepmc.com/buttered-pan-biscuits/).
 * 1 ⅔ cups buttermilk
 
 ## Directions
-* Preheat oven to 450 degrees. Melt butter in an 8×8-inch dish.
+* Preheat oven to 450°. Melt butter in an 8×8-inch dish.
 * Add all dry ingredients to a bowl. Add buttermilk and stir until just combined. Don't over stir.
 * Pour dough into the dish with melted butter and press flat. Score into squares.
 * Bake 20 to 25 minutes or until golden brown. Serve immediately.

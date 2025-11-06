@@ -40,7 +40,7 @@ From [Small Town Woman](https://www.smalltownwoman.com/tamale-pie/).
 * (topping) 2 tablespoons chopped fresh cilantro
 
 ## Directions
-* Preheat oven to 400 degrees.  Lightly grease or spray with nonstick cooking spray an 11x7 inch casserole dish.
+* Preheat oven to 400°.  Lightly grease or spray with nonstick cooking spray an 11x7 inch casserole dish.
 * Browning the ground beef in a large skillet over medium heat. After 3-4 minutes add the onions bell peppers and jalapeno. Continue cooking until the beef is browned and the onions and bell peppers are soft.
 * Reduce the heat to low and add the garlic. Cook for 1 minute stirring continuously. Remove any excess grease from the skillet.  Add the fire roasted tomatoes, corn, tomato paste, chili powder, and cumin. Simmer for 10 minutes.
 * In a large bowl whisk together the cornmeal, flour, baking powder, and salt. Then mix in the sour cream, milk, beaten eggs, oil, cheese, and reserved corn. Stir just until combined.

@@ -15,6 +15,6 @@ tags = ['freezer meals']
 
 ## Directions
 * Place all ingredients into a 1-gallon freezer bag. Seal and turn over several times to mix ingredients until everything is combined and chicken is well coated. Freeze flat.
-* (Option 1) Thaw chicken. Pour chicken and marinade into a baking dish, turn chicken to coat. Bake at 350 degrees for 35 minutes.
+* (Option 1) Thaw chicken. Pour chicken and marinade into a baking dish, turn chicken to coat. Bake at 350° for 35 minutes.
 * (Option 2) Thaw and grill in a cast iron skillet on the stove or outside on the grill, until no longer pink inside.
 * (Option 3) Place frozen chicken in the crockpot and cook on low for 6-8 hours (or high for 4-6 hours).

@@ -26,7 +26,7 @@ tags = ['soup']
 * fresh spinach
 
 ## Directions
-* (meatballs) Mix ingredients together and form into mini meatballs. Bake at 400 degrees for 25 minutes.
+* (meatballs) Mix ingredients together and form into mini meatballs. Bake at 400° for 25 minutes.
 * (broth) Sauté onions, carrots, and garlic in 2 tablespoons butter. Add broth and oregano. Add salt and pepper to taste.
 * (noodles) Cook extra al dente. Rinse with cold water.
 * To serve, ladle broth into bowl. Add spinach, noodles, and meatballs.
