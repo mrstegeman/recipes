@@ -12,8 +12,8 @@ From [Sally's Baking Addition](https://sallysbakingaddiction.com/holiday-confett
 * 1 box (18.25 oz) vanilla/white cake mix, such as Duncan Hines
 * 1 teaspoon baking powder
 * 2 large eggs
-* 1/3 cup vegetable/canola oil or melted coconut oil
-* 1/2 teaspoon pure vanilla extract
+* ⅓ cup vegetable/canola oil or melted coconut oil
+* ½ teaspoon pure vanilla extract
 * 1 cup sprinkles
 
 ## Directions

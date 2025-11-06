@@ -8,7 +8,7 @@ tags = ['soup']
 ## Ingredients
 * (meatballs) 2 lbs sausage
 * (meatballs) 2 eggs
-* (meatballs) 1/2 bunch oregano, chopped
+* (meatballs) ½ bunch oregano, chopped
 * (meatballs) 1 onion, chopped
 * (meatballs) bread crumbs
 * (meatballs) salt

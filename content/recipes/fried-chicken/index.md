@@ -32,7 +32,7 @@ From [Kitchn](https://www.thekitchn.com/how-to-make-crispy-juicy-fried-chicken-t
 ## Directions
 * Salt the chicken. Place the chicken pieces on a baking sheet and sprinkle all over with 1 tablespoon of the salt. Set aside at room temperature for 30 minutes or refrigerate overnight.
 * Make the seasoning blend. Combine the paprika, white pepper, garlic powder, ginger, celery salt, black pepper, mustard, thyme, basil, and oregano in a large bowl.
-* Season the chicken. Coat the chicken all over with half of the seasoning mixture (about 1/2 cup).
+* Season the chicken. Coat the chicken all over with half of the seasoning mixture (about ½ cup).
 * Set up a dredging station. Add the flour, cornstarch, and remaining 1 tablespoon salt to the remaining spice mixture in the bowl and whisk to combine; set aside. Place the buttermilk, egg whites, and alcohol in a medium bowl and whisk to combine. Fit a wire rack over a second rimmed baking sheet.
 * Dredge the chicken. Working with 1 piece of chicken at a time, dip in the buttermilk mixture to completely coat, then place in the flour mixture (don't worry about letting any excess buttermilk drain off the chicken first). Shake the flour bowl as needed to completely coat the chicken, then use your fingers to press the flour coating onto the chicken.
 * Set the coating. Place the coated chicken on the rack and repeat dredging the remaining chicken. Set aside at room temperature for at least 10 minutes and up to 30 minutes while you set up for frying and heat the oil.

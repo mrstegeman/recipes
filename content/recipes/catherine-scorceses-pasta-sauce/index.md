@@ -22,17 +22,17 @@ From [Italian American](http://www.italian-american-food-people.com/2021/07/scor
 * 5 tablespoons minced fresh parsley, or 1 tablespoon dried
 * Salt to taste
 * Cayenne pepper to taste
-* 1/4 cup fresh bread crumbs
-* 1/4 cup milk
+* ¼ cup fresh bread crumbs
+* ¼ cup milk
 * 6 ounces ground pork
 * 6 ounces ground veal
 * 6 ounces ground beef
 * 1 large egg, lightly beaten
-* 1/4 cup freshly grated Parmesan.
+* ¼ cup freshly grated Parmesan.
 
 ## Directions
 * In a 6-quart, or larger, saucepan or casserole, cook the onion in the oil, stirring occasionally, for 5 minutes.
 * In a blender or food processor, puree tomatoes and sauce. Add tomato mixture to pan along with water, tomato paste, garlic, carrots, potato, 3 tablespoons of basil, 3 tablespoons of parsley, salt and cayenne to taste. Bring to a boil, reduce to a simmer and, stirring occasionally, cook, partly covered, for 30 minutes.
 * In a small bowl, soak the bread crumbs in the milk until softened.
-* In a large bowl, combine bread-crumb mixture with meat, egg, Parmesan, remaining 2 tablespoons basil and parsley, salt, cayenne and 1/2 cup of sauce. Gradually shred and add meat mix to sauce, a little at a time. Partly cover, and bring sauce to a simmer, stirring occasionally, for 1 hour. Before serving, remove garlic cloves, carrots and potato.
+* In a large bowl, combine bread-crumb mixture with meat, egg, Parmesan, remaining 2 tablespoons basil and parsley, salt, cayenne ½ cup of sauce. Gradually shred and add meat mix to sauce, a little at a time. Partly cover, and bring sauce to a simmer, stirring occasionally, for 1 hour. Before serving, remove garlic cloves, carrots and potato.
 * Use about 2 cups of sauce for each pound of pasta.

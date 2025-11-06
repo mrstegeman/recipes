@@ -10,11 +10,11 @@ tags = ['freezer meals']
 * 4 chicken breasts
 * 1 red pepper, diced
 * 1 white onion, diced
-* 1/2 cup creamy peanut butter
+* ½ cup creamy peanut butter
 * 1 lime, juiced
-* 1/2 cup vegetable broth
-* 1/4 cup soy sauce
-* 1/2 tablespoon cumin
+* ½ cup vegetable broth
+* ¼ cup soy sauce
+* ½ tablespoon cumin
 * crushed peanuts
 * chopped scallions
 * chopped cilantro

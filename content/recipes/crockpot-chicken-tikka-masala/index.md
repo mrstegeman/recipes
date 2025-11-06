@@ -13,8 +13,8 @@ tags = ['freezer meals']
 * 2 tablespoons honey
 * 2 tablespoons curry powder
 * 1 teaspoon crushed red pepper
-* 1/2 teaspoon onion powder
-* 1/2 teaspoon salt
+* ½ teaspoon onion powder
+* ½ teaspoon salt
 * 8 oz heavy cream
 
 ## Directions

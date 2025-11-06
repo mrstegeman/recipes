@@ -14,11 +14,11 @@ From [Gimme Some Oven](https://www.gimmesomeoven.com/ginger-kale-fried-rice/).
 * 3 cloves garlic, minced
 * 2 tablespoons minced or grated fresh ginger
 * 4 cups cooked and chilled rice (I used short-grain brown rice)
-* 1/2 cup frozen peas
+* ½ cup frozen peas
 * 1 small bunch kale, roughly chopped (after ribs and stems have been removed)
-* 1/4 cup low-sodium soy sauce, or more/less to taste
+* ¼ cup low-sodium soy sauce, or more/less to taste
 * 2 teaspoons oyster sauce (optional)
-* 1/2 teaspoons toasted sesame oil
+* ½ teaspoons toasted sesame oil
 * 3 eggs, whisked
 * freshly-cracked black pepper
 

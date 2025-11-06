@@ -16,21 +16,21 @@ From [Ramshackle Pantry](https://ramshacklepantry.com/knoephla-soup-recipe/).
 * 4 Tablespoons Butter
 * 4 Celery Stocks, chopped
 * 4 Carrots, Chopped
-* 1/4 Cups flour
+* ¼ Cups flour
 * 4 Medium Potatoes, Chopped
 * 8 Cups Chicken Stock
 * Salt to taste
 * 1 Cup Heavy Whipping Cream
 * (for dumplings) 2 cups flour
 * (for dumplings) 2 eggs
-* (for dumplings) 1/2 cup milk
+* (for dumplings) ½ cup milk
 * (for dumplings) 1 Teaspoon salt
 
 ## Directions
 * In large pot, add butter and put on low to allow butter to melt
 * Once melted, add carrots and celery
 * Cook on low for 5 minutes
-* Stir in 1/4 cup flour
+* Stir in ¼ cup flour
 * Add 1 cup of Chicken Stock to the soup and mix to incorporate the flour
 * Add rest of stock
 * Add potatoes

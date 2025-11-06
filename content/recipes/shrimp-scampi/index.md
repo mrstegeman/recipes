@@ -13,9 +13,9 @@ From [Damn Delicious](https://damndelicious.net/2014/03/28/shrimp-scampi/).
 * 2 tablespoons unsalted butter
 * 1 pound medium shrimp, peeled and deveined
 * 3 cloves garlic, minced
-* 1/4 teaspoon crushed red pepper flakes, or more, to taste
-* 1/4 cup white wine or chicken stock
-* 1/4 cup freshly squeezed lemon juice
+* ¼ teaspoon crushed red pepper flakes, or more, to taste
+* ¼ cup white wine or chicken stock
+* ¼ cup freshly squeezed lemon juice
 * Kosher salt and freshly ground black pepper, to taste
 * Zest of 1 lemon
 * 2 tablespoons chopped fresh parsley leaves

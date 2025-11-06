@@ -11,15 +11,15 @@ From [Meaningful Eats](https://meaningfuleats.com/sausage-hashbrown-breakfast-ca
 
 ## Ingredients
 * 1 lb pork breakfast sausage
-* 3/4 cup red pepper, diced
-* 3/4 cup onion, diced
+* ¾ cup red pepper, diced
+* ¾ cup onion, diced
 * 10 oz frozen hashbrowns, (2 cups)
 * 1-2 cups spinach, finely chopped
 * 10 eggs
 * 1 teaspoon salt
-* 1/2 teaspoon pepper
-* 1/2 cup whole milk, or coconut milk
-* 1 cup shredded sharp cheddar, or 1/2 cup dairy-free cheese, plus more for topping
+* ½ teaspoon pepper
+* ½ cup whole milk, or coconut milk
+* 1 cup shredded sharp cheddar, or ½ cup dairy-free cheese, plus more for topping
 
 ## Directions
 * Preheat the oven to 350F. Lightly grease a 9x13 baking dish.

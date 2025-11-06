@@ -10,8 +10,8 @@ tags = ['freezer meals']
 * 4 pork chops, about 1 inch thick
 * 2 garlic cloves, minced
 * 2 tablespoons brown sugar
-* 1/4 cup soy sauce
-* 1/3 cup chicken broth
+* ¼ cup soy sauce
+* ⅓ cup chicken broth
 * salt and pepper
 
 ## Directions

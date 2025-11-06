@@ -20,16 +20,16 @@ From [Sally's Baking Addiction](https://sallysbakingaddiction.com/lemon-poppy-se
 * 2 cups (250g) all-purpose flour (spoon & leveled)
 * 4 teaspoons poppy seeds
 * 1 teaspoon baking soda
-* 1/2 teaspoon baking powder
-* 1/4 teaspoon salt
+* ½ teaspoon baking powder
+* ¼ teaspoon salt
 * 1 large egg, at room temperature
-* 3/4 cup (150g) granulated sugar
-* 1/3 cup (80ml) vegetable oil
-* 1/3 cup (80g) sour cream (or plain yogurt/Greek yogurt), at room temperature
-* 2/3 cup (160ml) whole milk, at room temperature
+* ¾ cup (150g) granulated sugar
+* ⅓ cup (80ml) vegetable oil
+* ⅓ cup (80g) sour cream (or plain yogurt/Greek yogurt), at room temperature
+* ⅔ cup (160ml) whole milk, at room temperature
 * 3 Tablespoons (45ml) lemon juice
 * 1 Tablespoon lemon zest
-* (glaze) 1/2 cup (60g) confectioners’ sugar
+* (glaze) ½ cup (60g) confectioners’ sugar
 * (glaze) 1 Tablespoon (15ml) lemon juice
 * (glaze) optional -- candied lemon slices (I followed this tutorial to make them)
 

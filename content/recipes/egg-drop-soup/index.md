@@ -10,12 +10,12 @@ From [The Woks of Life](https://thewoksoflife.com/egg-drop-soup/).
 
 ## Ingredients
 * 4 cups chicken stock (about 1 liter, organic or homemade preferred!)
-* 1/2 teaspoon sesame oil
-* 3/4 teaspoon salt
-* 1/8 teaspoon sugar
-* 1/8 teaspoon white pepper
-* 1/2 teaspoon turmeric (Or 5 drops yellow food coloring. Optional, but if you want "the look...")
-* 3 tablespoons cornstarch (mixed with 1/3 cup water)
+* ½ teaspoon sesame oil
+* ¾ teaspoon salt
+* ⅛ teaspoon sugar
+* ⅛ teaspoon white pepper
+* ½ teaspoon turmeric (Or 5 drops yellow food coloring. Optional, but if you want "the look...")
+* 3 tablespoons cornstarch (mixed with ⅓ cup water)
 * 3 eggs (lightly beaten)
 * 1 scallion (chopped)
 

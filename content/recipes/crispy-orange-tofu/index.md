@@ -12,16 +12,16 @@ From [The Conscious Plant Kitchen](https://www.theconsciousplantkitchen.com/oran
 * (tofu marinade) 2 blocks Firm Tofu - 14 oz, 400g each
 * (tofu marinade) 4 tablespoons Olive Oil
 * (tofu marinade) 4 tablespoons Cornstarch
-* (tofu marinade) 1/2 teaspoon Garlic Powder
+* (tofu marinade) ½ teaspoon Garlic Powder
 * (tofu marinade) 3 tablespoons Orange Zest - from 1 orange
-* (tofu marinade) 1/2 teaspoon Salt
+* (tofu marinade) ½ teaspoon Salt
 * (orange sauce) 1 tablespoon Coconut Oil
-* (orange sauce) 3 Garlic Cloves - crushed or 1/2 teaspoon garlic powder
-* (orange sauce) 1/4 teaspoon Ground Ginger - or 1 teaspoon fresh grated ginger
+* (orange sauce) 3 Garlic Cloves - crushed or ½ teaspoon garlic powder
+* (orange sauce) ¼ teaspoon Ground Ginger - or 1 teaspoon fresh grated ginger
 * (orange sauce) 1 cup Fresh Orange Juice
-* (orange sauce) 1/3 cup Soft Brown Sugar - up to 1/2 cup if you love it very sweet
-* (orange sauce) 1/4 cup Soy Sauce
-* (orange sauce) 1/4 cup Rice Vinegar
+* (orange sauce) ⅓ cup Soft Brown Sugar - up to ½ cup if you love it very sweet
+* (orange sauce) ¼ cup Soy Sauce
+* (orange sauce) ¼ cup Rice Vinegar
 * (orange sauce) 2 tablespoons Corn Starch
 * (orange sauce) 2-3 tablespoons Cold Water
 * (to serve) 1 cup Jasmine Rice

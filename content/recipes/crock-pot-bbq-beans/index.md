@@ -6,15 +6,15 @@ tags = ['sides']
 +++
 
 ## Ingredients
-* 1/2 cup bacon bits
+* ½ cup bacon bits
 * 1 medium onion, chopped
 * 1 cup ketchup
-* 1/2 cup brown sugar
-* 1/4 cup molasses
+* ½ cup brown sugar
+* ¼ cup molasses
 * 1 tablespoon apple cider vinegar
 * 1 teaspoon ground mustard
 * 3 cans great northern beans, drained and rinsed
-* 1/2 cup water
+* ½ cup water
 
 ## Directions
 * Cook onions in skillet in butter over medium heat until tender.

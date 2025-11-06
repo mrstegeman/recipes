@@ -11,8 +11,8 @@ From [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/air-fryer-gnocchi/
 ## Ingredients
 * 1 lb gnocchi
 * 1 tablespoon olive oil
-* 1/2 teaspoon salt
-* 1/2 teaspoon garlic powder
+* ½ teaspoon salt
+* ½ teaspoon garlic powder
 
 ## Directions
 * Heat air fryer to 200°C/390°F.

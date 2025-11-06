@@ -22,7 +22,7 @@ Adapted from [this](https://carlsbadcravings.com/creamy-green-chile-chicken-ench
 * (sauce) 4 tablespoons butter
 * (sauce) 1 cup chopped onion (can sub 2 teaspoons onion powder)
 * (sauce) 8 garlic cloves, minced
-* (sauce) 1/2 cup all purpose flour
+* (sauce) ½ cup all purpose flour
 * (sauce) 4 cups chicken broth
 * (sauce) 2 cups red enchilada sauce
 * (sauce) 2 teaspoons ground cumin

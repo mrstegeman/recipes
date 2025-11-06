@@ -12,16 +12,16 @@ From [My Sequined Life](https://www.mysequinedlife.com/slow-cooker-buffalo-chick
 ## Ingredients
 * 1 onion, diced
 * 3 large boneless skinless chicken breasts
-* 1 3/4 cup Frank's Red Hot Wings sauce
-* 1/4 cup apple cider vinegar
+* 1 ¾ cup Frank's Red Hot Wings sauce
+* ¼ cup apple cider vinegar
 * 1 tsp seasoned salt
 * 1 tsp dried parsley
-* 3/4 tsp ground black pepper
-* 1/2 tsp garlic powder
-* 1/4 tsp onion powder
-* 1/8 tsp dried thyme
-* 1/4 tsp dried dill
-* 1/2 tsp dried oregano
+* ¾ tsp ground black pepper
+* ½ tsp garlic powder
+* ¼ tsp onion powder
+* ⅛ tsp dried thyme
+* ¼ tsp dried dill
+* ½ tsp dried oregano
 
 ## Directions
 * Add diced onion to the bottom of the slow cooker and then chicken breasts. In a bowl, combine all other ingredients. Pour over chicken breasts, ensuring that the slow cooker is at least half full, and no more than three-quarters of the way full.

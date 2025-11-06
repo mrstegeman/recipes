@@ -23,6 +23,6 @@ From [Dog Milk](https://dog-milk.com/doggiy-easy-two-ingredient-homemade-dog-tre
 ## Directions
 * Preheat oven to 350°.
 * Mix ingredients together to form a stiff dough. If necessary, add extra flour or water as needed.
-* On a lightly floured surface, roll dough out evenly until it’s about 1/4 inch thick. Use cookie cutters to cut into desired shape or a pizza cutter to make cubes.
-* Line a cookie sheet with parchment paper, place treats about 1/2 inch apart. Bake for 20 – 25 minutes.
+* On a lightly floured surface, roll dough out evenly until it’s about ¼ inch thick. Use cookie cutters to cut into desired shape or a pizza cutter to make cubes.
+* Line a cookie sheet with parchment paper, place treats about ½ inch apart. Bake for 20 – 25 minutes.
 * Allow to cool completely before storing in a paper bag (storing in an air-tight container will make them soft, but they’re still edible).

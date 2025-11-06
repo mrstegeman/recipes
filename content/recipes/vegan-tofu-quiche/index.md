@@ -9,19 +9,19 @@ tags = ['breakfast']
 From [my quiet kitchen](https://myquietkitchen.com/crustless-tofu-quiche/).
 
 ## Ingredients
-* 1/2 large onion, chopped fine
+* ½ large onion, chopped fine
 * 8 ounces mushrooms, sliced
-* 1 small bunch asparagus, woody ends removed, chopped (about 2 1/2 cups) - Or broccoli florets, cut into small, bite-size pieces
+* 1 small bunch asparagus, woody ends removed, chopped (about 2 ½ cups) - Or broccoli florets, cut into small, bite-size pieces
 * 2 cloves garlic, minced
 * 2 Tablespoons olive oil
-* 1/2 teaspoon dried thyme
-* 1/2 teaspoon onion powder
+* ½ teaspoon dried thyme
+* ½ teaspoon onion powder
 * 16 ounces super firm or extra firm tofu, drained
 * 2 Tablespoons tamari - or soy sauce
 * 2 Tablespoons nutritional yeast
-* 1/2 teaspoon fine sea salt
+* ½ teaspoon fine sea salt
 * 3 to 4 ounces vegan cheese, shreds or slices (if using sliced cheese, chop it before adding to the food processor) - I used half of a package of Violife Smoked Provolone
-* up to 1/2 cup water, for consistency
+* up to ½ cup water, for consistency
 
 ## Directions
 * Preheat oven to 350 degrees F. Oil a 9-inch pie plate or 10-inch quiche dish (not the type of pan with a removable bottom, as the quiche mixture would leak).

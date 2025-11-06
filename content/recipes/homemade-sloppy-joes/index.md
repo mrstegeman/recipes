@@ -13,16 +13,16 @@ From [Fox Valley Foodie](https://www.foxvalleyfoodie.com/homemade-sloppy-joes-be
 
 ## Ingredients
 * 2 pounds extra lean ground beef
-* 1/2 onion (diced)
+* ½ onion (diced)
 * 1 green pepper (small diced)
 * 4 cloves garlic (minced)
-* 1 1/4 cup ketchup
+* 1 ¼ cup ketchup
 * 1 tablespoon cider vinegar
 * 2 teaspoons worcestershire sauce
 * 3 tablespoons brown sugar
 * 1 teaspoons dijon mustard
-* 1/2 teaspoon paprika
-* 1/4 teaspoon cayenne pepper
+* ½ teaspoon paprika
+* ¼ teaspoon cayenne pepper
 * 2 teaspoons salt
 * fresh ground pepper to taste
 * 8 hamburger buns for serving

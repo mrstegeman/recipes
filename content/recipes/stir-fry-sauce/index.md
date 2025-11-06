@@ -9,8 +9,8 @@ tags = ['condiments']
 From [Tastes Lovely](https://www.tasteslovely.com/best-stir-fry-sauce/).
 
 ## Ingredients
-* 1/2 cup low sodium soy sauce (or Tamari if gluten free)
-* 1/2 cup chicken stock (or vegetable broth if vegan)
+* ½ cup low sodium soy sauce (or Tamari if gluten free)
+* ½ cup chicken stock (or vegetable broth if vegan)
 * 1 tablespoon corn starch (or arrow root)
 * 1 tablespoon honey (or agave nectar if vegan)
 * 1 teaspoon sesame seed oil
@@ -21,4 +21,4 @@ From [Tastes Lovely](https://www.tasteslovely.com/best-stir-fry-sauce/).
 
 ## Directions
 * Whisk all ingredients together. Adjust the amount of sauce you add according to how much stir fry you’re making. When adding to your stir fry, allow to cook for 3 full minutes to allow the corn starch to thicken the sauce.
-* Makes 1-1/4 cups. Will keep refrigerated in an airtight container for 1 week.
+* Makes 1 ¼ cups. Will keep refrigerated in an airtight container for 1 week.

@@ -10,9 +10,9 @@ From [Martha Stewart](https://www.marthastewart.com/316804/miso-glazed-cod).
 
 ## Ingredients
 * 4 skinless cod fillets (6 ounces each)
-* 1/4 cup mirin (Japanese sweet rice wine)
-* 1/4 cup white miso paste
-* 1/4 cup sugar
+* ¼ cup mirin (Japanese sweet rice wine)
+* ¼ cup white miso paste
+* ¼ cup sugar
 * Olive oil
 
 ## Directions

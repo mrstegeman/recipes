@@ -11,11 +11,11 @@ tags = ['dinner']
 * 1 small onion, chopped
 * 2 green bell peppers, chopped
 * 2 tsp minced garlic
-* 1/2 tsp cumin
-* 1/2 tsp oregano
-* 1/2 tsp garlic powder
+* ½ tsp cumin
+* ½ tsp oregano
+* ½ tsp garlic powder
 * 3 small cans green chiles (4.5 oz)
-* 1 cup salsa verde (mild or 3/4 mild and 1/4 medium)
+* 1 cup salsa verde (mild or ¾ mild ¼ medium)
 * 2 cans great northern beans, drained and rinsed
 * 32 oz chicken stock
 * 1 lime, juiced

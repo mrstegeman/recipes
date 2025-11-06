@@ -18,16 +18,16 @@ tags = ['drinks']
 * Muddle a few pieces of juicy fruit like strawberries, peaches, watermelon or mango at the bottom of your shaker before adding ice and the other ingredients.
 * You can muddle up fresh herbs, like a couple of basil or cilantro leaves, for garden-fresh flavor or add a skinny slice of serrano or jalapeño pepper for heat. Strawberry basil (not shown) and grapefruit serrano (shown in the photo above, on the left) are both great combinations.
 * Add a splash of fruit juice to your shaker. Fresh squeezed grapefruit juice is one of my favorites because it cuts through the flavor of the tequila. Pomegranate or cranberry juice would be festive during the holidays.
-* For a fruity frozen margarita, blend the basic margarita ingredients in a blender along with 1/2 cup frozen fruit (blueberry margaritas are my favorite, shown in the photo above, on the right) and a few ice cubes. Serve over a couple of ice cubes to slow the melting.
+* For a fruity frozen margarita, blend the basic margarita ingredients in a blender along with ½ cup frozen fruit (blueberry margaritas are my favorite, shown in the photo above, on the right) and a few ice cubes. Serve over a couple of ice cubes to slow the melting.
 * Have fun with your rim salt. Mix in raw sugar or spices, like ground cinnamon or chili powder, to add an extra layer of complexity to your drink.
 
 From [Cookie and Kate](https://cookieandkate.com/fresh-margaritas/).
 
 ## Ingredients
 * Kosher salt or coarsely ground sea salt
-* 2 ounces (1/4 cup) silver tequila
-* 1 1/2 ounces (3 tablespoons/about 1 1/2 small limes) fresh lime juice
-* 1 ounce (2 tablespoons/about 1/2 of a medium orange) fresh orange juice
+* 2 ounces (¼ cup) silver tequila
+* 1 ½ ounces (3 tablespoons/about 1 ½ small limes) fresh lime juice
+* 1 ounce (2 tablespoons/about ½ of a medium orange) fresh orange juice
 * 1 teaspoon light agave nectar
 * 1 lime wedge or round, for garnish
 

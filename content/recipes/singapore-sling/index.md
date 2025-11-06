@@ -8,10 +8,10 @@ tags = ['drinks']
 ## Ingredients
 * 1 oz Leopold Brothers Michigan Tart Cherry Liqueur
 * 2 oz gin
-* 1/2 oz cointreau
-* 1/2 oz absinthe liquor
+* ½ oz cointreau
+* ½ oz absinthe liquor
 * 3 oz pineapple juice
-* 3/4 oz lime juice
+* ¾ oz lime juice
 
 ## Directions
 * Combine all ingredients in a cocktail shaker with ice.

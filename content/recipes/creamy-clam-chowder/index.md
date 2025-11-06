@@ -13,10 +13,10 @@ From [Pamela's](https://www.pamelasproducts.com/recipes/gluten-free-creamy-clam-
 ## Ingredients
 * 2 TBSP bacon drippings or vegetable oil
 * 2 TBSP Pamela's Gluten-Free Bread Mix or All-Purpose Flour Artisan Blend
-* 1/2 tsp salt
-* 1/4 tsp black pepper
+* ½ tsp salt
+* ¼ tsp black pepper
 * 2 small cans minced or chopped clams (or 2 lbs fresh clams)
-* 3 medium potatoes (peeled and cut in 1/2" dice)
+* 3 medium potatoes (peeled and cut in ½" dice)
 * 1 cup chopped onion
 * 1 cup chopped celery
 * 2 cups clam juice, reserved from can or bottled clam nectar
@@ -24,7 +24,7 @@ From [Pamela's](https://www.pamelasproducts.com/recipes/gluten-free-creamy-clam-
 * 1 tbsp garlic
 * 1 tsp fresh basil
 * 1 tsp fresh thyme
-* 1/2 tsp dried marjoram
+* ½ tsp dried marjoram
 * 2 tbsp fresh parsley
 * 1 tbsp fresh dill
 

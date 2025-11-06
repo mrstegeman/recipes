@@ -11,18 +11,18 @@ From [Everyday Dishes](https://everydaydishes.com/simple-food-recipes/side-dish-
 ## Ingredients
 * 2 lbs fresh green beans, cut in half
 * (Dairy-Free Cream of Mushroom 'Soup') 1 tbsp avocado oil, or another neutral oil
-* (Dairy-Free Cream of Mushroom 'Soup') 1/2 sweet onion, finely diced
+* (Dairy-Free Cream of Mushroom 'Soup') ½ sweet onion, finely diced
 * (Dairy-Free Cream of Mushroom 'Soup') 12 oz white mushrooms, finely chopped
 * (Dairy-Free Cream of Mushroom 'Soup') 4 cloves garlic, minced
-* (Dairy-Free Cream of Mushroom 'Soup') 1/4 cup all-purpose flour
+* (Dairy-Free Cream of Mushroom 'Soup') ¼ cup all-purpose flour
 * (Dairy-Free Cream of Mushroom 'Soup') 3 cups unsweetened dairy-free milk, (we used almond)
-* (Dairy-Free Cream of Mushroom 'Soup') 1/2 tsp garlic powder
-* (Dairy-Free Cream of Mushroom 'Soup') 1/2 tsp salt
-* (Dairy-Free Cream of Mushroom 'Soup') 1/2 tsp freshly cracked black pepper
+* (Dairy-Free Cream of Mushroom 'Soup') ½ tsp garlic powder
+* (Dairy-Free Cream of Mushroom 'Soup') ½ tsp salt
+* (Dairy-Free Cream of Mushroom 'Soup') ½ tsp freshly cracked black pepper
 * (Crispy Onion Straws) 1 large sweet onion
 * (Crispy Onion Straws) 2 tbsp all-purpose flour
-* (Crispy Onion Straws) 1/2 tsp salt
-* (Crispy Onion Straws) 1/4 cup avocado oil, or another neutral oil
+* (Crispy Onion Straws) ½ tsp salt
+* (Crispy Onion Straws) ¼ cup avocado oil, or another neutral oil
 
 ## Directions
 * Preheat the oven to 375°F and prep a 9 x 13 or 8 x 8 baking dish with cooking spray.

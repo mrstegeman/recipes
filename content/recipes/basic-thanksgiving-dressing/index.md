@@ -14,11 +14,11 @@ From [The Pioneer Woman](https://thepioneerwoman.com/cooking/stuffing_dressing_m
 * 1 loaf French bread
 * 1 whole large onion or 2 medium onions, diced
 * 5 stalks celery, diced
-* 1/2 bunch parsley, chopped
-* 1/2 cup (1 stick) butter
+* ½ bunch parsley, chopped
+* ½ cup (1 stick) butter
 * 6 cups low-sodium chicken broth, more if needed for moisture
-* 1/2 teaspoon dried basil
-* 1/2 teaspoon ground thyme
+* ½ teaspoon dried basil
+* ½ teaspoon ground thyme
 * 1 tablespoon fresh rosemary, finely minced
 * salt
 * pepper

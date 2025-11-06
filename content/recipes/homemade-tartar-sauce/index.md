@@ -9,8 +9,8 @@ tags = ['condiments']
 From [The Spruce Eats](https://www.thespruceeats.com/classic-tartar-sauce-3060561).
 
 ## Ingredients
-* 1/2 cup mayonnaise
-* 1 1/2 tablespoons dill pickles, or cornichons, finely chopped
+* ½ cup mayonnaise
+* 1 ½ tablespoons dill pickles, or cornichons, finely chopped
 * 1 tablespoon chopped fresh dill, or 1 teaspoon dried dill
 * 1 tablespoon lemon juice
 * 2 teaspoons grainy mustard

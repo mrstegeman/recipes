@@ -8,16 +8,16 @@ tags = ['breakfast', 'dessert']
 ## Ingredients
 * (donuts) 1 cup flour
 * (donuts) 1 teaspoon baking powder
-* (donuts) 1/4 teaspoon baking soda
-* (donuts) 1/2 teaspoon ground cinnamon
-* (donuts) 1/3 cup butter, softened
-* (donuts) 1/3 cup sugar
+* (donuts) ¼ teaspoon baking soda
+* (donuts) ½ teaspoon ground cinnamon
+* (donuts) ⅓ cup butter, softened
+* (donuts) ⅓ cup sugar
 * (donuts) 1 teaspoon vanilla extract
 * (donuts) 1 large egg
-* (donuts) 1/3 cup milk
-* (topping) 1/4 cup butter, melted
-* (topping) 1/4 cup sugar
-* (topping) 1 1/2 teaspoons ground cinnamon
+* (donuts) ⅓ cup milk
+* (topping) ¼ cup butter, melted
+* (topping) ¼ cup sugar
+* (topping) 1 ½ teaspoons ground cinnamon
 
 ## Directions
 * Preheat oven to 350 degrees. Lightly grease donut pan (makes 6).

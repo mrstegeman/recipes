@@ -15,7 +15,7 @@ tags = ['sides']
 * dill weed
 * parsley
 * bacon
-* 1/2 onion
+* ½ onion
 * splash of apple cider vinegar
 
 ## Directions

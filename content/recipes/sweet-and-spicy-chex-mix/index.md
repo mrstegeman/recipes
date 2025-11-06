@@ -15,14 +15,14 @@ From [Your Cup of Cake](https://www.yourcupofcake.com/sweet-spicy-chex-mix/).
 * 1 C. mixed nuts
 * 1 C. pretzels
 * 1 C. cheese crackers
-* 1/4 c butter
-* 3/4 tsp. salt
+* ¼ c butter
+* ¾ tsp. salt
 * 2 Tbsp brown sugar
 * 2 tsp. sugar
 * 3 tsp. Frank’s RedHot sauce or Frank's Wings Buffalo Sauce
 * 1 Tbsp. Worcestershire sauce
-* 1/2 tsp. paprika
-* 1/4 tsp. garlic salt
+* ½ tsp. paprika
+* ¼ tsp. garlic salt
 * NOTE -- If you want a little more "kick" then go ahead and add more hot sauce and spices!
 
 ## Directions

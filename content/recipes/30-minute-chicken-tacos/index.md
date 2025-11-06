@@ -11,13 +11,13 @@ From [House of Yumm](https://houseofyumm.com/chicken-tacos/).
 
 ## Ingredients
 * 2 teaspoons chili powder
-* 1/2 teaspoon paprika
-* 1 and 1/2 teaspoon salt
+* ½ teaspoon paprika
+* 1 ½ teaspoon salt
 * 1 teaspoon garlic powder
 * 1 teaspoon onion powder
-* 1/2 teaspoon cumin
-* 1/2 teaspoon ground black pepper
-* 1/2 teaspoon dried oregano
+* ½ teaspoon cumin
+* ½ teaspoon ground black pepper
+* ½ teaspoon dried oregano
 * 1 tablespoon extra virgin olive oil
 * 2 pounds boneless skinless chicken breasts
 * 1 cup no sodium chicken broth

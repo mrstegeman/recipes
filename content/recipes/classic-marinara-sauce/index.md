@@ -19,11 +19,11 @@ Could try adding parsley, or swapping basil with parsley, in the future.
 ## Ingredients
 
 * 1 28-ounce can whole San Marzano tomatoes, certified D.O.P. if possible
-* 1/4 cup extra-virgin olive oil
+* ¼ cup extra-virgin olive oil
 * 7 garlic cloves, peeled and slivered
 * Small dried whole chile, or pinch crushed red pepper flakes
 * 1 teaspoon kosher salt
-* 1 large fresh basil sprig, or 1/4 teaspoon dried oregano, more to taste
+* 1 large fresh basil sprig, or ¼ teaspoon dried oregano, more to taste
 
 ## Directions
 

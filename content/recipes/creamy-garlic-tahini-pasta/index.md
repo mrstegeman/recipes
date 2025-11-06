@@ -5,7 +5,7 @@ draft = false
 tags = ['pasta']
 +++
 
-* For some extra zing, add some lemon zestalong with the juice. 1/2 tsp should be just right.
+* For some extra zing, add some lemon zestalong with the juice. ½ tsp should be just right.
 * You can finish this off by garnishing with some chopped herbs like fresh basil or parsley – whatever you have on hand. Or sprinkle with some lemon zest, a generous grating of black pepper, dried chilli flakes or red crushed pepper, or a sprinkling of sesame seeds.
 * This pasta is best served straight away, but if you have leftovers, reheat them with a bit of milk (the sauce will thicken a lot and be sticky as it cools down).
 * Some tahini brands are thicker than others. The sauce should be creamy and somewhat thick, but not too thick either. Add more milk or water, one tablespoon at a time until you reach the perfect consistency. Alternatively, if you’re not sure what the best consistency should be, add more milk (little by little) directly on the pasta while your tossing it with sauce.
@@ -15,7 +15,7 @@ tags = ['pasta']
 * 2 tablespoons minced garlic
 * 1 cup tahini paste
 * 5 tablespoons lemon juice
-* 1/2 cup water
+* ½ cup water
 * 1 cup cashew milk
 * 1 teaspoon salt
 

@@ -9,7 +9,7 @@ tags = ['sauce']
 From [Minimalist Baker](https://minimalistbaker.com/make-tahini-dressing/).
 
 ## Ingredients
-* 1/3 cup tahini (ground sesame seeds – I love Alexis brand! For other brands, see our tahini review)
+* ⅓ cup tahini (ground sesame seeds – I love Alexis brand! For other brands, see our tahini review)
 * 1 medium lemon, juiced (1 medium lemon yields ~3 Tbsp or 45 ml)
 * 1-2 Tbsp maple syrup (or sub agave – or honey if not vegan)
 * 1 pinch sea salt (optional)

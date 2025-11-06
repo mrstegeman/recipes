@@ -10,7 +10,7 @@ From [Gimme Some Oven](http://www.gimmesomeoven.com/quick-pickled-red-onions/).
 
 ## Ingredients
 * 1 large red onion, peeled and very thinly sliced
-* 3/4 cup apple cider vinegar
+* ¾ cup apple cider vinegar
 * 1 teaspoon fine sea salt
 * 1–2 tablespoons sweetener (such as maple syrup, honey, sugar, etc.)
 

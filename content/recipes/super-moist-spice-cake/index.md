@@ -11,16 +11,16 @@ tags = ['dessert']
 From [Sally's Baking Addiction](https://sallysbakingaddiction.com/super-moist-spice-cake/).
 
 ## Ingredients
-* 2 and 1/2 cups (312g) all-purpose flour (spoon & leveled)
+* 2 ½ cups (312g) all-purpose flour (spoon & leveled)
 * 2 teaspoons baking powder
 * 1 teaspoon baking soda
-* 1/2 teaspoon salt
-* 1 and 1/2 teaspoon ground cinnamon
+* ½ teaspoon salt
+* 1 ½ teaspoon ground cinnamon
 * 1 teaspoon ground ginger
-* 1/2 teaspoon ground nutmeg
-* 1/2 teaspoon ground cloves
+* ½ teaspoon ground nutmeg
+* ½ teaspoon ground cloves
 * 1 cup canola (240ml) or vegetable oil
-* 1 and 3/4 cup (350g) packed dark brown sugar
+* 1 ¾ cup (350g) packed dark brown sugar
 * 1 cup (180g) unsweetened applesauce
 * 4 large eggs
 * 2 teaspoons pure vanilla extract

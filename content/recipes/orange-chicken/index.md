@@ -8,18 +8,18 @@ tags = ['meat', 'asian']
 
 ## Ingredients
 * 2 pounds chicken, cut into bite size chunks
-* 1/2 teaspoon salt
-* 1/2 teaspoon pepper
+* ½ teaspoon salt
+* ½ teaspoon pepper
 * 1 cup cornstarch
 * Oil, for frying
 * (Sauce) 1 cup cornstarch + 2 tablespoons divided
-* (Sauce) 1/2 cup tamari soy sauce
-* (Sauce) 1/2 cup white vinegar
-* (Sauce) 1/2 cup orange juice
-* (Sauce) 1/2 cup water
+* (Sauce) ½ cup tamari soy sauce
+* (Sauce) ½ cup white vinegar
+* (Sauce) ½ cup orange juice
+* (Sauce) ½ cup water
 * (Sauce) 1//4 cup brown sugar truvia
 * (Sauce) 1 teaspoon minced garlic
-* (Sauce) 1/2 teaspoon crushed red pepper flakes
+* (Sauce) ½ teaspoon crushed red pepper flakes
 * (Sauce) 1 tablespoon orange zest, if desired
 * (Sauce) 2 tablespoons cornstarch
 * (Optional) sliced green onions

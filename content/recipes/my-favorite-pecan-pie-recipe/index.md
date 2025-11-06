@@ -12,14 +12,14 @@ From [Sally's Baking Addiction](https://sallysbakingaddiction.com/my-favorite-pe
 
 ## Ingredients
 * Homemade Pie Crust (my recipe makes 2 crusts; you can halve the crust recipe or freeze the 2nd half)
-* 2 and 1/2 cups (250g) coarsely chopped Diamond of California pecans (a very rough chop!)
+* 2 ½ cups (250g) coarsely chopped Diamond of California pecans (a very rough chop!)
 * 3 large eggs
 * 1 cup (240ml) dark corn syrup*
-* 1/2 cup (100g) packed dark brown sugar
-* 1 and 1/2 teaspoons pure vanilla extract
-* 1/4 cup (60g) unsalted butter, melted and slightly cooled
-* 1/2 teaspoon salt
-* 1/2 teaspoon ground cinnamon
+* ½ cup (100g) packed dark brown sugar
+* 1 ½ teaspoons pure vanilla extract
+* ¼ cup (60g) unsalted butter, melted and slightly cooled
+* ½ teaspoon salt
+* ½ teaspoon ground cinnamon
 
 ## Directions
 * The crust -- Prepare my pie crust recipe through step 5.

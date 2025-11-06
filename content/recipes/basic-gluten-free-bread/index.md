@@ -7,13 +7,13 @@ tags = ['bread']
 
 ## Ingredients
 
-* 1 1/2 cups milk
+* 1 ½ cups milk
 * 3 large eggs
 * 1 Tbsp apple cider vinegar
 * 3 Tbsp vegetable oil
 * 3 Tbsp honey
-* 3 3/4 cups gluten-free flour
-* 1 1/2 tsp salt
+* 3 ¾ cups gluten-free flour
+* 1 ½ tsp salt
 * 3 tsp active dry yeast
 
 ## Directions

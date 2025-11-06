@@ -8,8 +8,8 @@ tags = ['chicken']
 
 ## Ingredients
 * 5 lbs (4-6 large) chicken breasts
-* 1/2 cup soy sauce
-* 1/2 cup balsamic vinegar OR 8 tablespoons acv and 4 tsp brown sugar
+* ½ cup soy sauce
+* ½ cup balsamic vinegar OR 8 tablespoons acv and 4 tsp brown sugar
 * 4 tablespoon olive oil
 * 4 tablespoon brown sugar
 * 2 tablespoon Worcestershire sauce

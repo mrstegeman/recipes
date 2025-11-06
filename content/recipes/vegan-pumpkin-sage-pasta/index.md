@@ -12,12 +12,12 @@ From [Vegan Richa](https://www.veganricha.com/vegan-pumpkin-sage-pasta/).
 * (pasta) 6 to 8 oz (170 to 226 g) Rotini or Fusilli pasta
 * (pasta) 1 tsp extra virgin oil
 * (pasta) 8 sage leaves chopped
-* (pasta) 1 to 1.5 tsp fresh thyme leaves or 1/2 tsp dried thyme
+* (pasta) 1 to 1.5 tsp fresh thyme leaves or ½ tsp dried thyme
 * (pasta) 2 cloves of garlic minced
 * (pasta) 1 to 2 Tbsp tomato paste
-* (pasta) 3/4 cup (210 g) pumpkin puree or use sweet potato puree
-* (pasta) 3/4 to 1 cup (180 to 240 ml) non dairy milk like coconut or almond
-* (pasta) 1/2 tsp (0.5 tsp) salt
+* (pasta) ¾ cup (210 g) pumpkin puree or use sweet potato puree
+* (pasta) ¾ to 1 cup (180 to 240 ml) non dairy milk like coconut or almond
+* (pasta) ½ tsp (0.5 tsp) salt
 * (pasta) black pepper to taste
 * (topping) 1 tsp extra virgin olive oil
 * (topping) 6 fresh sage leaves julienned

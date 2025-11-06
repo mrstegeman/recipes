@@ -11,9 +11,9 @@ From [allrecipes](https://www.allrecipes.com/recipe/222258/slow-cooker-baked-bea
 ## Ingredients
 * 2 (14.5 ounce) cans great Northern beans, drained and rinsed
 * 1 (14.5 ounce) can black beans, drained and rinsed
-* 1/4 cup packed brown sugar truvia
-* 1/2 cup ketchup
-* 1/2 cup barbeque sauce
+* ¼ cup packed brown sugar truvia
+* ½ cup ketchup
+* ½ cup barbeque sauce
 * 1 teaspoon dry mustard
 * 1 green bell pepper, diced
 * 1 large onion, diced

@@ -7,14 +7,14 @@ tags = ['dessert']
 
 ## Ingredients
 * (cake) 3 cups flour
-* (cake) 1/4 tsp salt
+* (cake) ¼ tsp salt
 * (cake) 1 cup sugar
 * (cake) 4 tsp baking powder
-* (cake) 1 1/2 cups milk
+* (cake) 1 ½ cups milk
 * (cake) 2 eggs
 * (cake) 2 tsp vanilla
-* (cake) 1/2 cup butter, melted
-* (topping) 1/2 cup butter, softened
+* (cake) ½ cup butter, melted
+* (topping) ½ cup butter, softened
 * (topping) 1 cup brown sugar
 * (topping) 2 tbsp flour
 * (topping) 1 tbsp cinnamon

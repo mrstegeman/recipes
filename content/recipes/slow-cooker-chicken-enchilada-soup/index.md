@@ -12,7 +12,7 @@ From [Gimme Some Oven](https://www.gimmesomeoven.com/slow-cooker-chicken-enchila
 ## Ingredients
 * 2 boneless skinless chicken breasts (about 1 pound)
 * 2 cups good-quality chicken stock
-* 1 1/4 cup (or 1 10-ounce can) red enchilada sauce, homemade or store-bought
+* 1 ¼ cup (or 1 10-ounce can) red enchilada sauce, homemade or store-bought
 * 2 (14-ounce) cans black beans, rinsed and drained
 * 1 (14-ounce) can fire-roasted diced tomatoes, with juice
 * 1 (15-ounce) can whole-kernel corn, drained

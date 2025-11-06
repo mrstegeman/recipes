@@ -17,11 +17,11 @@ From [The Simple Veganista](https://simple-veganista.com/roasted-vegetables-chic
 * 1 can (15 oz.) garbanzo beans (chickpeas), drained  and rinsed
 * 1 tablespoon olive oil
 * mineral salt & fresh cracked pepper or lemon-pepper, to taste
-* 2 cups cooked quinoa or grain of choice (about 1/2 cup per person)
+* 2 cups cooked quinoa or grain of choice (about ½ cup per person)
 * (sauce) 2 cans (15 oz.) cannellini beans, drained and rinsed
 * (sauce) 3 – 4  tablespoons nutritional yeast
 * (sauce) 1 teaspoon garlic powder
-* (sauce) 3/4 – 1 cup vegetable broth (start low and add as needed)
+* (sauce) ¾ – 1 cup vegetable broth (start low and add as needed)
 * (sauce) juice of 1 good size lemon
 * (sauce) generous pinch of red pepper flakes
 * (sauce) mineral salt, to taste

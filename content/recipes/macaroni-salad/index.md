@@ -13,17 +13,17 @@ From [Love &amp; Lemons](https://www.loveandlemons.com/macaroni-salad-recipe/).
 * Extra-virgin olive oil, for drizzling
 * 1 red bell pepper, stemmed, seeded, and diced
 * 2 celery stalks, diced
-* 1/2 cup diced dill pickles
-* 1/3 cup diced red onion
+* ½ cup diced dill pickles
+* ⅓ cup diced red onion
 
 ### For the dressing
-* 3/4 cup mayonnaise
+* ¾ cup mayonnaise
 * 3 tablespoons dill pickle juice
 * 1 tablespoon distilled white vinegar
 * 1 tablespoon sugar
 * 2 teaspoons Dijon mustard
 * 2 garlic cloves, grated
-* 1/4 teaspoon sea salt
+* ¼ teaspoon sea salt
 * Freshly ground black pepper
 
 ## Directions

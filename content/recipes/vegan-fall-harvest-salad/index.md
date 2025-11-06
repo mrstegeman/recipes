@@ -11,14 +11,14 @@ From [Eat Your Beets](https://www.eatyourbeets.com/best-vegan-fall-harvest-salad
 ## Ingredients
 
 * 2 cups kale
-* 1/2 medium sweet potatoes
+* ½ medium sweet potatoes
 * 1 can chickpeas
 * 1 full avocado
-* 1/4 cup pickled onions
+* ¼ cup pickled onions
 * 2 Tbsp sunflower seeds
-* 1/2 tsp onion powder
-* 1/2 tsp garlic powder
-* 1/2 tsp chili powder
+* ½ tsp onion powder
+* ½ tsp garlic powder
+* ½ tsp chili powder
 * 1 Tbsp olive oil for salad
 * 2 Tbsp tahini
 * 2 Tbsp maple syrup

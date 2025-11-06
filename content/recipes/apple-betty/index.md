@@ -7,12 +7,12 @@ tags = ['dessert']
 
 ## Ingredients
 * 4 cups sliced pared tart apples, or one can pie-sliced apples
-* 1/4 cup orange juice
+* ¼ cup orange juice
 * 1 cup sugar
-* 3/4 cup sifted all-purpose flour
-* 1/2 tsp cinnamon
-* 1/4 tsp nutmeg
-* 1/2 cup butter
+* ¾ cup sifted all-purpose flour
+* ½ tsp cinnamon
+* ¼ tsp nutmeg
+* ½ cup butter
 
 ## Directions
 * Mound apples in buttered 9" pie plate; spinkle with orange juice.

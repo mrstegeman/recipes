@@ -12,7 +12,7 @@ From [Kalyn's Kitchen](https://kalynskitchen.com/recipe-for-lemony-green-beans-g
 * 1 tsp. salt
 * 1 lb. fresh green beans, both ends trimmed
 * one large lemon (lemon zest and lemon juice)
-* 1 1/2 T olive oil
+* 1 ½ T olive oil
 * salt and fresh ground black pepper to taste
 
 ## Directions

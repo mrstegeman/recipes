@@ -14,16 +14,16 @@ From [Sally's Baking Addiction](https://sallysbakingaddiction.com/the-great-pump
 * Homemade pie crust (full recipe makes 2 crusts -- 1 for bottom, 1 for leaf decor)
 * one 15oz can (about 2 cups; 450g) pumpkin puree2
 * 3 large eggs
-* 1 and 1/4 cups (250g) packed light or dark brown sugar
+* 1 ¼ cups (250g) packed light or dark brown sugar
 * 1 Tablespoon (8g) cornstarch
-* 1/2 teaspoon salt
-* 1 and 1/2 teaspoons ground cinnamon
-* 1/2 teaspoon ground ginger3
-* 1/4 teaspoon ground or freshly grated nutmeg3
-* 1/8 teaspoon ground cloves3
-* 1/8 teaspoon fresh ground pepper
+* ½ teaspoon salt
+* 1 ½ teaspoons ground cinnamon
+* ½ teaspoon ground ginger3
+* ¼ teaspoon ground or freshly grated nutmeg3
+* ⅛ teaspoon ground cloves3
+* ⅛ teaspoon fresh ground pepper
 * 1 cup (240ml) heavy cream
-* 1/4 cup (60ml) milk (I use 1% - any is fine)
+* ¼ cup (60ml) milk (I use 1% - any is fine)
 * egg wash -- 1 large egg beaten with 1 Tablespoon milk
 
 ## Directions
@@ -32,5 +32,5 @@ From [Sally's Baking Addiction](https://sallysbakingaddiction.com/the-great-pump
 * For the pumpkin pie filling -- Whisk the pumpkin, 3 eggs, and brown sugar together until combined. Add the cornstarch, salt, cinnamon, ginger, nutmeg, cloves, pepper, cream, and milk. Vigorously whisk until everything is combined. Filling will be a little thick.
 * Preheat oven to 375°F (190°C).
 * Roll out the chilled pie crust -- Remove 1 disc of pie dough from the refrigerator. On a lightly floured work surface, roll the dough out into a 12-inch circle. Make sure to turn the dough about a quarter turn after every few rolls. Carefully place the dough into a 9-inch pie dish. Tuck it in with your fingers, making sure it is smooth. With a small and sharp knife, trim the extra overhang of crust and discard. Crimp the edges with your fingers, if desired. Brush edges lightly with egg wash mixture. Using pie weights, pre-bake the crust for 10 minutes.
-* Pour pumpkin pie filling into the warm pre-baked crust. Only fill the crust about 3/4 of the way up. (Use extra to make mini pies with leftover pie dough scraps if you'd like.) Bake the pie until the center is almost set, about 55-60 minutes give or take. A small part of the center will be wobbly - that's ok. After 25 minutes of baking, be sure to cover the edges of the crust with aluminum foil or use a pie crust shield to prevent the edges from getting too brown. Check for doneness at minute 50, and then 55, and then 60, etc.
+* Pour pumpkin pie filling into the warm pre-baked crust. Only fill the crust about ¾ of the way up. (Use extra to make mini pies with leftover pie dough scraps if you'd like.) Bake the pie until the center is almost set, about 55-60 minutes give or take. A small part of the center will be wobbly - that's ok. After 25 minutes of baking, be sure to cover the edges of the crust with aluminum foil or use a pie crust shield to prevent the edges from getting too brown. Check for doneness at minute 50, and then 55, and then 60, etc.
 * Once done, transfer the pie to a wire rack and allow to cool completely for at least 3 hours. Decorate with sugared cranberries and pie crust leaves (see note). You'll definitely have leftover cranberries - they're tasty for snacking. Serve pie with whipped cream if desired. Cover leftovers tightly and store in the refrigerator for up to 3 days.

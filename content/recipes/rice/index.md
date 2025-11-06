@@ -8,13 +8,13 @@ tags = ['sides']
 ## Brown
 
 * 3 cups brown rice
-* 5 1/2 cups water
+* 5 ½ cups water
 * 1 tbsp salt (after cooking)
 
 ## White
 
 * 3 cups white rice, washed
-* 4 1/2 cups water
+* 4 ½ cups water
 * 1 tbsp salt (after cooking)
 
 ## Calrose

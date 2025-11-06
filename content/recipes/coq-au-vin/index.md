@@ -15,7 +15,7 @@ From [paleOMG](https://paleomg.com/coq-au-vin-paleomg-style-all-clad-12-chef-pan
 * 2 yellow onion, chopped
 * 12 oz baby carrots, diced
 * 2 purple sweet potato, peeled and diced (any color will do)
-* 1/2 cup tomato paste
+* ½ cup tomato paste
 * 2 pounds boneless skinless chicken thighs
 * 4 cups button or porcini mushrooms, sliced
 * 4 cups red wine

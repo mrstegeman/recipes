@@ -11,16 +11,16 @@ From [Peace, Love, and Low Carb](https://peaceloveandlowcarb.com/sesame-chicken-
 
 ## Ingredients
 * 3 tablespoons toasted sesame oil
-* 1 small red onion, chopped (about 1/2 cup)
+* 1 small red onion, chopped (about ½ cup)
 * 4 gloves garlic, minced
 * 5 green onions, sliced on a bias (white and green portions separated)
-* 1 1/2 pounds boneless chicken breast or thigh, cut into bite-sized pieces
+* 1 ½ pounds boneless chicken breast or thigh, cut into bite-sized pieces
 * 1 teaspoon ginger powder
 * 1 teaspoon sea salt
-* 1/2 teaspoon black pepper
+* ½ teaspoon black pepper
 * 1 tablespoon, plus 1 teaspoon Sriracha sauce or garlic chili sauce, or more to taste
 * 20 ounces broccoli slaw
-* 1/4 cup gluten free soy sauce or coconut aminos
+* ¼ cup gluten free soy sauce or coconut aminos
 * 2 tablespoon unseasoned rice vinegar
 * 1 tablespoon toasted sesame seeds
 

@@ -8,7 +8,7 @@ tags = ['seafood']
 ## Ingredients
 * 6 5-oz cans of tuna in water
 * 6 teaspoons dijon mustard
-* 1 1/2 cups oatmeal
+* 1 ½ cups oatmeal
 * 5 tablespoons lemon juice
 * 3 tablespoons liquid from tuna can (or water)
 * 3 teaspoons dried parsley

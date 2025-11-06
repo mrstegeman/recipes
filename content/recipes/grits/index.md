@@ -7,14 +7,14 @@ tags = ['sides']
 
 ## Ingredients
 * 3 cups water
-* 1/2 teaspoon salt
+* ½ teaspoon salt
 * 1 cup grits
 * 1 stick (8 tablespoons) butter
 * kosher salt
 * cracked black pepper
 * 2 teaspoons parsley
-* 1/4 teaspoon paprika
-* 1/2 teaspoon onion powder
+* ¼ teaspoon paprika
+* ½ teaspoon onion powder
 * 1 teaspoon garlic powder
 
 ## Directions

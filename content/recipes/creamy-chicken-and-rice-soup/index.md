@@ -16,12 +16,12 @@ tags = ['freezer meals']
 * Salt to taste
 * 1 teaspoon lemon pepper
 * 1 teaspoon garlic powder
-* 1/2 teaspoon onion powder
-* 1/2 teaspoon cumin
-* (when cooking) 1/4 cup flour
-* (when cooking) 1/2 cup milk
+* ½ teaspoon onion powder
+* ½ teaspoon cumin
+* (when cooking) ¼ cup flour
+* (when cooking) ½ cup milk
 * (when cooking) 1 (10oz) can of corn
-* (when cooking) 3/4 cup long grain rice (not quick cooking)
+* (when cooking) ¾ cup long grain rice (not quick cooking)
 
 ## Directions
 * Add everything to a freezer bag and freeze for up to 3 months.

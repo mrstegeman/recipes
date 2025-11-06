@@ -17,25 +17,25 @@ tags = ['mexican']
 From [Small Town Woman](https://www.smalltownwoman.com/tamale-pie/).
 
 ## Ingredients
-* (filling) 1 1/2 lbs. lean ground beef
+* (filling) 1 ½ lbs. lean ground beef
 * (filling) 1 medium onion chopped
 * (filling) 1 red pepper finely diced
 * (filling) 1 jalapeno minced
 * (filling) 2 cloves garlic minced
 * (filling) 1 14.5 ounce can fire roasted tomatoes
-* (filling) 1 15 ounce can corn drained (reserve 1/2 cup for topping)
+* (filling) 1 15 ounce can corn drained (reserve ½ cup for topping)
 * (filling) 2 tablespoons tomato paste
-* (filling) 1 1/2 tablespoons chili powder
+* (filling) 1 ½ tablespoons chili powder
 * (filling) 2 teaspoons ground cumin
-* (topping) 3/4 cup cornmeal
-* (topping) 3/4 cup flour
+* (topping) ¾ cup cornmeal
+* (topping) ¾ cup flour
 * (topping) 1 teaspoon baking powder
-* (topping) 1/8 teaspoon salt
-* (topping) 1/2 cup sour cream
-* (topping) 3/4 cup milk
+* (topping) ⅛ teaspoon salt
+* (topping) ½ cup sour cream
+* (topping) ¾ cup milk
 * (topping) 2 eggs beaten
 * (topping) 2 tablespoons vegetable oil
-* (topping) 1 1/2 cups shredded cheddar cheese reserve 1/2 cup for sprinkling on top
+* (topping) 1 ½ cups shredded cheddar cheese reserve ½ cup for sprinkling on top
 * (topping) 1 jalapeno sliced in rings
 * (topping) 2 tablespoons chopped fresh cilantro
 

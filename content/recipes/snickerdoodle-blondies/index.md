@@ -9,10 +9,10 @@ tags = ['dessert']
 From [The Crepes of Wrath](http://www.thecrepesofwrath.com/2009/03/02/snickerdoodle-blondies/).
 
 ## Ingredients
-* 2 2/3 cups all-purpose flour
+* 2 ⅔ cups all-purpose flour
 * 2 teaspoons baking powder
 * 1 teaspoon cinnamon
-* 1/4 teaspoon grated or ground nutmeg
+* ¼ teaspoon grated or ground nutmeg
 * 1 teaspoon salt
 * 2 cups packed brown sugar
 * 1 cup butter, room temperature

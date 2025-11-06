@@ -9,17 +9,17 @@ tags = []
 From [Buttermilk by Sam](https://buttermilkbysam.com/chocolate-molasses-cookies/).
 
 ## Ingredients
-* 186g or 3/4 cup unsalted butter unsalted and softened, european style butter if you have it is best
+* 186g or ¾ cup unsalted butter unsalted and softened, european style butter if you have it is best
 * 1 teaspoon each ground ginger, ground cinnamon, ground allspice optional, gives the cookies an holiday spiced flavor
 * 1 teaspoon pure vanilla extract
-* 1/2 teaspoon fine sea salt
+* ½ teaspoon fine sea salt
 * 200g or 1 cup brown sugar light or dark
 * 3 egg yolks from large eggs
-* 75g or 1/4 slightly heaped cup molasses
-* 1/2 cup plus 2 tablespoons or 65g dutch process cocoa
-* 1 2/3 cup or 210g all purpose flour sprinkled in and leveled, not packed
-* 1 1/2 teaspoon baking soda
-* about 1/4 cup fine granulated sugar for rolling
+* 75g or ¼ slightly heaped cup molasses
+* ½ cup plus 2 tablespoons or 65g dutch process cocoa
+* 1 ⅔ cup or 210g all purpose flour sprinkled in and leveled, not packed
+* 1 ½ teaspoon baking soda
+* about ¼ cup fine granulated sugar for rolling
 
 ## Directions
 * Preheat the oven to 350 F. Prepare two cookie sheets with parchment paper.

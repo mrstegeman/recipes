@@ -8,10 +8,10 @@ tags = ['sides']
 ## Ingredients
 * Olive oil
 * 1 onion, sliced
-* 1/4 cup apple cider vinegar
+* ¼ cup apple cider vinegar
 * 2 tablespoons water
-* 1/2 teaspoon salt
-* 1/2 teaspoon pepper
+* ½ teaspoon salt
+* ½ teaspoon pepper
 * 8 cups torn lettuce
 
 ## Directions

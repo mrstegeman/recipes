@@ -11,12 +11,12 @@ From [Mommy's Kitchen](https://www.mommyskitchen.net/2011/02/crock-pot-northern-
 
 ## Ingredients
 * 1 - 16 oz package package dried northern beans
-* 2 - 3  meaty ham hocks, shank or use a meaty ham bone (about 1 1/2 lbs)
+* 2 - 3  meaty ham hocks, shank or use a meaty ham bone (about 1 ½ lbs)
 * 1 - small onion, diced
 * water, enough to cover beans
 * 1 - bay leaf
 * salt & pepper to taste
-* 1/4 - 1/3 - cup light brown sugar
+* ¼ - ⅓ - cup light brown sugar
 
 ## Directions
 * Sort the beans for any pebbles and rinse them under cold water. Soak the beans for 3 hours in a large bowl. Drain and rinse the beans.

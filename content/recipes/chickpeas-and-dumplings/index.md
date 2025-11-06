@@ -20,7 +20,7 @@ From [How Sweet Eats](https://www.howsweeteats.com/2021/01/chickpeas-and-dumplin
 * (soup) 6 tablespoons all-purpose flour
 * (soup) 8 cups chicken stock or vegetable stock
 * (soup) 2 15 ounce cans of chickpeas, drained and rinsed
-* (soup) 1/2 cup heavy cream
+* (soup) ½ cup heavy cream
 * (soup) chopped fresh parsley, for topping
 * (dumplings) 2 cups all-purpose flour
 * (dumplings) 4 teaspoons baking powder

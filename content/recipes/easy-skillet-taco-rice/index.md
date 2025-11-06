@@ -15,8 +15,8 @@ From [Cookies &amp; Cups](https://cookiesandcups.com/easy-skillet-taco-rice/).
 * 2 cloves garlic, minced
 * 1 (1-ounce) package taco seasoning
 * 1 cup long grain white rice, uncooked
-* 2 1/2 cups chicken broth
-* 1 1/4 cups salsa
+* 2 ½ cups chicken broth
+* 1 ¼ cups salsa
 * 1 cup grated cheddar cheese
 * 1 cup chopped cilantro
 * Optional toppings: diced tomatoes, avocado, sour cream, green onion, tortilla strips

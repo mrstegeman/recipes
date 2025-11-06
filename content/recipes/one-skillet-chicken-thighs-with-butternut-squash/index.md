@@ -10,7 +10,7 @@ tags = ['meat']
 From [Eat Your Beets](https://www.eatyourbeets.com/vegetables/one-skillet-chicken-thighs-with-butternut-squash/).
 
 ## Ingredients
-* 1/2 lb of Nitrate Free Bacon
+* ½ lb of Nitrate Free Bacon
 * 6 Boneless, Skinless Chicken Thighs
 * 2-3 cup Butternut Squash (cubed)
 * Extra Oil for Frying (Coconut)

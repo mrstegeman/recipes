@@ -23,15 +23,15 @@ tags = ['dessert']
 5. I bake my brownies on the top shelf in the oven. I find the middle shelf cooks them a lot faster and dries them out.
 
 ## Ingredients
-* 1/2 cup unsalted butter, melted and HOT
+* ½ cup unsalted butter, melted and HOT
 * 1 tablespoon coconut oil
-* 1/2 cup white sugar
-* 1/2 cup brown sugar
+* ½ cup white sugar
+* ½ cup brown sugar
 * 2 large eggs
 * 2 teaspoons pure vanilla extract
-* 1/2 cup all purpose flour
-* 1/2 cup unsweetened cocoa powder
-* 1/4 teaspoon salt
+* ½ cup all purpose flour
+* ½ cup unsweetened cocoa powder
+* ¼ teaspoon salt
 
 ## Directions
 * Preheat oven to 350°F (175°C).

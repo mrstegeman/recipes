@@ -11,7 +11,7 @@ From [paleOMG](https://paleomg.com/almost-5-ingredient-pizza-spaghetti-pie/).
 ## Ingredients
 * 1 large spaghetti squash (about 600 grams)
 * 1 pound italian sausage
-* 1/2 yellow onion, diced
+* ½ yellow onion, diced
 * 1 cup pizza sauce (no sugar added)
 * 1 teaspoon dried basil
 * salt and pepper, to taste

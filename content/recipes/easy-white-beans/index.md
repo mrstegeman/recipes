@@ -11,10 +11,10 @@ From [a couple cooks](https://www.acouplecooks.com/white-beans/).
 ## Ingredients
 * 15-ounce can white beans of any type: cannellini, Great Northern or navy beans
 * 1 tablespoon salted butter or olive oil
-* 1/4 teaspoon dried tarragon or dried oregano
-* 1/4 teaspoon onion powder
-* 1/8 teaspoon garlic powder
-* 1/2 teaspoon kosher salt
+* ¼ teaspoon dried tarragon or dried oregano
+* ¼ teaspoon onion powder
+* ⅛ teaspoon garlic powder
+* ½ teaspoon kosher salt
 * Black pepper, to taste
 
 ## Directions

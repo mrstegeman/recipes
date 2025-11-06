@@ -14,17 +14,17 @@ From [Sally's Baking Addiction](https://sallysbakingaddiction.com/lightened-crea
 ## Ingredients
 * 1 Tablespoon unsalted butter
 * 1 chopped yellow onion
-* 1 1/2 cups sliced carrots
+* 1 ½ cups sliced carrots
 * 3 stalks sliced celery
 * 4 teaspoons minced garlic
-* 1/4 cup Pamela's Artisan Flour
-* 1/2 teaspoon oregano
-* 1/2 teaspoon fresh ground pepper
-* 1/2 teaspoon turmeric
+* ¼ cup Pamela's Artisan Flour
+* ½ teaspoon oregano
+* ½ teaspoon fresh ground pepper
+* ½ teaspoon turmeric
 * pinch of dried thyme
-* 1/2 teaspoon salt
+* ½ teaspoon salt
 * 8 cups chicken or vegetable broth
-* 1 medium potato, peeled and diced (around 1 and 1/2 cups)
+* 1 medium potato, peeled and diced (around 1 ½ cups)
 * 2 cups shredded roasted chicken
 * 1 can full-fat coconut milk
 * 4 cups uncooked noodles

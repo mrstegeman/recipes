@@ -13,13 +13,13 @@ From [The Works of Life](https://thewoksoflife.com/garlic-noodles/).
 * salt
 * 4 tablespoons unsalted butter
 * 8 cloves garlic (peeled and thinly sliced)
-* 1/8 teaspoon turmeric (optional)
+* ⅛ teaspoon turmeric (optional)
 * 1 tablespoon oyster sauce (or vegetarian oyster sauce)
 * 1 tablespoon soy sauce
 * 1-2 teaspoons brown sugar (depending on your taste)
 * 1 teaspoon sesame oil
 * 1-2 whole scallions (chopped)
-* 1/4 cup Parmesan cheese
+* ¼ cup Parmesan cheese
 
 ## Directions
 * Bring a large pot of salted water to a boil. Cook the noodles/pasta according to package instructions. If using fresh noodles, you may simply need to blanch them. (Reserve some of the pasta cooking water, as you may need it in the sauce later.)

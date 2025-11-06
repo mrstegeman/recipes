@@ -9,10 +9,10 @@ tags = ['dessert']
 From [The Spruce Eats](https://www.thespruceeats.com/dairy-free-vanilla-pudding-1000925).
 
 ## Ingredients
-* 2/3 cup sugar (white)
-* 1/4 teaspoon salt
-* 1/4 cup cornstarch
-* 2 1/2 cups almond milk (unsweetened, or other non-dairy milk alternatives)
+* ⅔ cup sugar (white)
+* ¼ teaspoon salt
+* ¼ cup cornstarch
+* 2 ½ cups almond milk (unsweetened, or other non-dairy milk alternatives)
 * 4 large egg yolks
 * 1 teaspoon vanilla extract
 

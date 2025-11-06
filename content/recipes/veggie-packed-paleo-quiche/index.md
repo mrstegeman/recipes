@@ -25,13 +25,13 @@ From [A Clean Bake](https://acleanbake.com/veggie-packed-paleo-quiche/).
 * 1 grain free pie crust (pre-baked)
 * 1 package frozen spinach (about 1 cup, defrosted and drained)
 * 1 large red bell pepper (reserve 6-8 slices for decoration, if desired, sliced)
-* 1/4 cup very thinly sliced sweet onion, loosely packed
+* ¼ cup very thinly sliced sweet onion, loosely packed
 * 2 Tablespoons nutritional yeast, optional, or replace with cheese of choice
 * 1 Tablespoon chopped fresh herbs, optional
 * 12 whole eggs
 * 2 Tablespoons unsweetened vanilla almond milk or full fat coconut milk
-* 1/4 teaspoon coarse salt
-* 1/4 teaspoon coarse ground black pepper
+* ¼ teaspoon coarse salt
+* ¼ teaspoon coarse ground black pepper
 
 ## Directions
 * Preheat the oven to 350F.

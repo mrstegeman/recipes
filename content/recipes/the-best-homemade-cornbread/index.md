@@ -11,10 +11,10 @@ From [Bless This Mess](https://www.blessthismessplease.com/the-best-cornbread-re
 ## Ingredients
 * 1 cup all-purpose flour
 * 1 cup yellow cornmeal
-* 2/3 cup granulated sugar
+* ⅔ cup granulated sugar
 * 1 teaspoon salt
-* 3 1/2 teaspoons baking powder
-* 1/3 cup neutral oil or melted butter
+* 3 ½ teaspoons baking powder
+* ⅓ cup neutral oil or melted butter
 * 1 large egg
 * 1 cup milk
 

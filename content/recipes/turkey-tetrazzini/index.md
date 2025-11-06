@@ -13,13 +13,13 @@ tags = ['turkey']
 * 1 onion, chopped
 * 4 cloves minced garlic
 * 20 oz cremini mushrooms, sliced
-* 1/4 cup lemon juice
-* 1/4 cup water
+* ¼ cup lemon juice
+* ¼ cup water
 * 4 tablespoons gluten free flour
 * 4 cups chicken stock
 * 4 cups milk
 * 1 cup gluten free bread crumbs
-* 1/2 cup nutritional yeast
+* ½ cup nutritional yeast
 * 4 cups cooked, chopped turkey
 * 1 cup minced, fresh parsley
 

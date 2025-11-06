@@ -7,9 +7,9 @@ tags = ['drinks']
 
 ## Ingredients
 * 2 oz gin
-* 1/4 oz crème de violette
-* 1/4 oz maraschino liqueur
-* 1/2 oz lemon juice
+* ¼ oz crème de violette
+* ¼ oz maraschino liqueur
+* ½ oz lemon juice
 
 ## Directions
 * Combine all ingredients in a cocktail shaker with ice.

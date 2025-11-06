@@ -9,19 +9,19 @@ tags = ['dessert']
 From [How Sweet Eats](https://www.howsweeteats.com/2020/11/cranberry-cobbler-bars/).
 
 ## Ingredients
-* (cranberry layer) 3 1/2 cups fresh cranberries
-* (cranberry layer) 2/3 cup sugar
+* (cranberry layer) 3 ½ cups fresh cranberries
+* (cranberry layer) ⅔ cup sugar
 * (cranberry layer) 2 tablespoons water
 * (crust and topping) 3 cups all-purpose flour
 * (crust and topping) 1 cups sugar
-* (crust and topping) 1/2 teaspoon salt
-* (crust and topping) 3/4 cup unsalted butter melted
+* (crust and topping) ½ teaspoon salt
+* (crust and topping) ¾ cup unsalted butter melted
 * (filling) 3 large eggs
-* (filling) 1/3 cup half and half
+* (filling) ⅓ cup half and half
 * (filling) 1 cup brown sugar
 * (filling) 1 teaspoon vanilla extract
 * (filling) 1 tablespoon cornstarch
-* (filling) 1/4 teaspoon cinnamon
+* (filling) ¼ teaspoon cinnamon
 * (filling) pinch of salt
 
 ## Directions

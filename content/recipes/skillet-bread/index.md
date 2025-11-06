@@ -7,15 +7,15 @@ tags = ['bread']
 +++
 
 ## Ingredients
-* 1 package RapidRise Instant Yeast (2 1/4 teaspoons) (I used Fleischmann's)
+* 1 package RapidRise Instant Yeast (2 ¼ teaspoons) (I used Fleischmann's)
 * 2 teaspoons kosher salt
 * 2 cups warm water (Between 120 and 130 degrees F)
-* 4 1/2 cups all purpose flour
+* 4 ½ cups all purpose flour
 * 2 tablespoons olive oil
 
 ## Directions
 
-* In the bowl of a stand mixer, using the paddle attachment, mix together 1 1/2 cups flour, salt, and the package of yeast.
+* In the bowl of a stand mixer, using the paddle attachment, mix together 1 ½ cups flour, salt, and the package of yeast.
 * While still mixing, slowly pour in the warm water.
 * Mix well. Stop the mixer and scrape the bowl with a spatula.
 * In one cup increments, add the remaining 3 cups flour, mixing well between additions.

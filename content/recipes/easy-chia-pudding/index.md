@@ -12,8 +12,8 @@ From [Minimalist Baker](https://minimalistbaker.com/how-to-make-chia-pudding/).
 
 ### CHIA PUDDING
 
-* 1 1/2 cups dairy-free milk (we used DIY coconut – use creamier milks for creamier, thicker pudding, such as full fat coconut and cashew)
-* 1/2 cup chia seeds
+* 1 ½ cups dairy-free milk (we used DIY coconut – use creamier milks for creamier, thicker pudding, such as full fat coconut and cashew)
+* ½ cup chia seeds
 * 1-2 Tbsp maple syrup (more or less to taste)
 * 1 tsp vanilla extract
 

@@ -10,12 +10,12 @@ From [Taste of Home](https://www.tasteofhome.com/recipes/garlic-herbed-grilled-t
 
 ## Ingredients
 * 4 tuna steaks (6 ounces each)
-* 1/4 teaspoon salt
-* 1/4 teaspoon pepper
+* ¼ teaspoon salt
+* ¼ teaspoon pepper
 * 2 tablespoons lemon juice
 * 1 tablespoon olive oil
 * 2 garlic cloves, minced
-* 2 teaspoons minced fresh thyme or 1/2 teaspoon dried thyme
+* 2 teaspoons minced fresh thyme or ½ teaspoon dried thyme
 
 ## Directions
 * In a large resealable plastic bag, combine the lemon juice, oil, garlic and thyme. Add the tuna; seal bag and turn to coat. Refrigerate for up to 30 minutes, turning occasionally.

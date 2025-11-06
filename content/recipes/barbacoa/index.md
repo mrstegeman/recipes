@@ -15,15 +15,15 @@ From [Gimme Some Oven](https://www.gimmesomeoven.com/barbacoa-recipe/).
 * 2 chipotles in adobo sauce, chopped (or more to taste)
 * 1 (4-ounce) can chopped green chiles
 * 1 small white onion, finely chopped (about 1 cup)
-* 1/4 cup fresh lime juice
+* ¼ cup fresh lime juice
 * 2 tablespoons apple cider vinegar
 * 3 bay leaves
 * 1 Tablespoon ground cumin
 * 1 Tablespoon dried Mexican oregano (or regular oregano)
 * 2 teaspoons salt
 * 1 teaspoon black pepper
-* 1/4 tsp ground cloves
-* 1/2 cup beef stock or water
+* ¼ tsp ground cloves
+* ½ cup beef stock or water
 
 ## Directions
 * Combine all ingredients in the bowl of a slow cooker. Toss gently to combine. Cover and cook on low for 6-8 hours, or on high for 3-4 hours, or until the beef is tender and falls apart easily when shredded with a fork.

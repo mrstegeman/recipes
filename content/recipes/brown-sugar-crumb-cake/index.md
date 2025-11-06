@@ -14,21 +14,21 @@ tags = ['dessert']
 From [Cookies &amp; Cups](https://cookiesandcups.com/brown-sugar-crumb-cake/).
 
 ## Ingredients
-* (Crumb) 1 1/4 cups light brown sugar
-* (Crumb) 1/2 teaspoon kosher salt
+* (Crumb) 1 ¼ cups light brown sugar
+* (Crumb) ½ teaspoon kosher salt
 * (Crumb) 1 cup butter, cold and cut into cubes
-* (Crumb) 2 1/2 cups all-purpose flour
-* (Cake) 1/2 cup butter, room temperature
-* (Cake) 1 1/4 cups brown sugar (I use dark but you can use either dark or light brown sugar)
+* (Crumb) 2 ½ cups all-purpose flour
+* (Cake) ½ cup butter, room temperature
+* (Cake) 1 ¼ cups brown sugar (I use dark but you can use either dark or light brown sugar)
 * (Cake) 2 large eggs
 * (Cake) 2 teaspoon vanilla extract
 * (Cake) 1 teaspoon baking soda
-* (Cake) 1/2 teaspoon salt
+* (Cake) ½ teaspoon salt
 * (Cake) 1 cup Greek yogurt
 * (Cake) 2 cups all-purpose flour
-* (Icing) 3/4 cup brown sugar (you can use either dark or light, I used dark)
-* (Icing) 1/3 cup milk
-* (Icing) 1/4 cup butter
+* (Icing) ¾ cup brown sugar (you can use either dark or light, I used dark)
+* (Icing) ⅓ cup milk
+* (Icing) ¼ cup butter
 * (Icing) 1 teaspoon vanilla
 * (Icing) 1 cup powdered sugar
 

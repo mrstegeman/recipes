@@ -18,9 +18,9 @@ From [The Fitnessista](https://fitnessista.com/slow-cooker-butter-chicken-and-ve
 * 1 can of chopped green chiles (4 oz)
 * 1 teaspoon fresh minced ginger
 * 4 cloves of garlic, minced
-* 1/2 teaspoon cumin
-* 1/4 teaspoon coriander
-* 1/4 teaspoon cinnamon
+* ½ teaspoon cumin
+* ¼ teaspoon coriander
+* ¼ teaspoon cinnamon
 * Salt and pepper
 * 1 cup Almond Breeze almond milk (I used regular)
 * 2 tablespoons of butter

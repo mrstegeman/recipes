@@ -12,13 +12,13 @@ From [Kitchn](https://www.thekitchn.com/recipe-non-alcoholic-sangria-170254).
 * 2 cups boiling water
 * 2 black tea bags (or 2 teaspoons loose-leaf tea in an infuser; decaf tea is fine)
 * 2 cinnamon sticks
-* 1/2 cup sugar
+* ½ cup sugar
 * 3 cups pomegranate juice
 * 1 cup freshly squeezed orange juice
 * 1 medium orange, sliced into thin rounds
 * 1 medium lemon, sliced into thin rounds
 * 1 medium lime, sliced into thin rounds
-* 1 medium apple, cored and cut into 1/2-inch chunks
+* 1 medium apple, cored and cut into ½-inch chunks
 * 3 cups carbonated water
 
 ## Directions

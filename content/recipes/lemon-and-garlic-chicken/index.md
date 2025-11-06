@@ -8,7 +8,7 @@ tags = ['freezer meals']
 
 ## Ingredients
 * 2 teaspoons minced garlic
-* 1/4 cup olive oil
+* ¼ cup olive oil
 * 1 tablespoon dried parsley
 * 2 tablespoons lemon juice
 * 4-6 chicken breasts

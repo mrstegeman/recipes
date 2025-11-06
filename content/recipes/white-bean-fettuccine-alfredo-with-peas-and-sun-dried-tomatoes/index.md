@@ -15,7 +15,7 @@ From [Forks Over Knives](https://www.forksoverknives.com/recipes/vegan-pasta-noo
 * 2 cloves garlic
 * 2 tablespoons nutritional yeast
 * 2 tablespoons almond butter
-* 1/3 cup ready-to-eat sun-dried tomatoes, thinly sliced
+* ⅓ cup ready-to-eat sun-dried tomatoes, thinly sliced
 * Sea salt and freshly ground black pepper, to taste
 
 ## Directions

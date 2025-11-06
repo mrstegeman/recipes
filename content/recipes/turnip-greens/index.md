@@ -14,7 +14,7 @@ tags = ['sides']
 * Pepper
 * Red pepper flakes
 * Brown sugar
-* 1/4 cup water
+* ¼ cup water
 
 ## Directions
 * Sauté onions in olive oil.

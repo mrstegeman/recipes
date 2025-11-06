@@ -10,7 +10,7 @@ tags = ['condiments']
 * 8 tablespoons Pamela's Artisan Flour
 * 4 cups milk
 * 1 teaspoon salt
-* 1/3 teaspoon pepper
+* ⅓ teaspoon pepper
 
 ## Directions
 * Melt butter over medium heat.

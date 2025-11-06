@@ -11,7 +11,7 @@ From [BIG EATS tiny kitchen](https://bigeatstinykitchen.com/2012/08/04/make-ahea
 
 ## Ingredients
 * 12 eggs, whisked
-* 1/2 medium onion, diced
+* ½ medium onion, diced
 * 1 lb ground beef
 * 1 sweet potato, shredded with skin on
 * 1 jalapeno, deseeded and chopped

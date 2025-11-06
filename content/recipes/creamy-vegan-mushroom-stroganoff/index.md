@@ -15,7 +15,7 @@ From [Mealime](https://www.mealime.com/recipes/creamy-vegan-mushroom-stroganoff-
 * 2 small pkgs fresh thyme
 * 8 cloves garlic
 * 24 oz gluten-free fettuccine pasta
-* 1 1/2 lb white mushrooms
+* 1 ½ lb white mushrooms
 * 4 medium yellow onions
 * extra virgin olive oil (or broth)
 * 1 tsp black pepper
@@ -24,7 +24,7 @@ From [Mealime](https://www.mealime.com/recipes/creamy-vegan-mushroom-stroganoff-
 * 2 tsp paprika
 * 2 tsp salt (plus some for pasta water)
 * 2 tbsp balsamic vinegar (or equal parts molasses, lemon juice, and tamari soy sauce)
-* 1/3 + 1/8 cup cornstarch
+* ⅓ + ⅛ cup cornstarch
 * 4 tbsp tamari soy sauce
 
 ## Directions

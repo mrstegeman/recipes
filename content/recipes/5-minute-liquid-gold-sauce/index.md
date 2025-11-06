@@ -17,10 +17,10 @@ From [Minimalist Baker](https://minimalistbaker.com/5-minute-liquid-gold-sauce-o
 * 1 tsp sea salt, plus more to taste
 * 1 tsp ground turmeric
 * 1 tsp curry powder (or store-bought)
-* 1/2 tsp ground cumin (for milder sauce, omit the cumin and use only curry powder)
+* ½ tsp ground cumin (for milder sauce, omit the cumin and use only curry powder)
 * 4 dash cayenne pepper (optional // omit for less heat)
 * 8 tsp maple syrup (plus more to taste)
-* 1 1/3 cup water, plus more as needed
+* 1 ⅓ cup water, plus more as needed
 
 ## Directions
 * To a small blender (or food processor, though it won’t be as creamy), add chickpeas, nutritional yeast, garlic, lemon, tahini, salt, ground turmeric, curry powder, ground cumin, cayenne (optional), maple syrup, and water.

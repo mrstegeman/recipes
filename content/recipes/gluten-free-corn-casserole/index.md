@@ -26,13 +26,13 @@ From [Rebecca Taig](https://rebeccataig.com/gluten-free-corn-casserole-dairy-fre
 * (wet) 1 (15 oz can) whole kernel sweet corn, drained
 * (wet) 1 (14.75 oz can) creamed corn
 * (wet) 1 cup sour cream, see notes for a dairy-free option
-* (wet) 1/2 cup unsalted butter, melted, see notes for a dairy-free option
+* (wet) ½ cup unsalted butter, melted, see notes for a dairy-free option
 * (wet) 2 large eggs
-* (dry) 3/4 cup gluten-free flour (102 grams)
-* (dry) 3/4 cup gluten-free cornmeal (105 grams)
-* (dry) 1/4 cup sugar
+* (dry) ¾ cup gluten-free flour (102 grams)
+* (dry) ¾ cup gluten-free cornmeal (105 grams)
+* (dry) ¼ cup sugar
 * (dry) 2 teaspoons baking powder
-* (dry) 1/2 teaspoon salt
+* (dry) ½ teaspoon salt
 
 ## Directions
 * Preheat the oven to 350°F. Grease a 2 quart or 11" X 8" ceramic baking dish and set it aside.

@@ -9,7 +9,7 @@ From [allrecipes](https://www.allrecipes.com/recipe/38214/creole-seasoning-blend
 
 ## Ingredients
 * 2 tablespoons parsley
-* 1 1/2 teaspoons dill
+* 1 ½ teaspoons dill
 * 2 teaspoons garlic powder
 * 2 teaspoons onion powder
 * 2 teaspoons onion flakes

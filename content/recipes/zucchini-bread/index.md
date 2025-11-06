@@ -10,7 +10,7 @@ tags = ['bread']
 
 **Special Tools (affiliate links):** Box Grater, Glass Mixing Bowls, Loaf Pan
 
-**Update in 2022:** Based on reader feedback and a few disappointing loaves in my own kitchen recently, I revised 2 ingredients in May 2022 (egg & zucchini) so the batter yields more for a taller loaf and there’s more moisture. I also added 1/4 cup of applesauce for added moisture, as you can see in the recipe. Rave reviews from taste testers. The original recipe used 1 egg and 1 cup of zucchini with no applesauce.
+**Update in 2022:** Based on reader feedback and a few disappointing loaves in my own kitchen recently, I revised 2 ingredients in May 2022 (egg & zucchini) so the batter yields more for a taller loaf and there’s more moisture. I also added ¼ cup of applesauce for added moisture, as you can see in the recipe. Rave reviews from taste testers. The original recipe used 1 egg and 1 cup of zucchini with no applesauce.
 
 **Can I reduce the sugar or oil?** You can absolutely slightly reduce either or both, but understand that sugar and oil help produce a moist, tender loaf and the results may be disappointing. For the oil, feel free to swap *some* for more applesauce. Or for a healthier option without any refined sugar, you may enjoy this Greek yogurt zucchini bread instead.
 
@@ -19,19 +19,19 @@ tags = ['bread']
 From [Sally's Baking Addiction](https://sallysbakingaddiction.com/zucchini-bread/).
 
 ## Ingredients
-* 1 and 3/4 cups (220g) all-purpose flour (spoon & leveled)
+* 1 ¾ cups (220g) all-purpose flour (spoon & leveled)
 * 1 teaspoon baking powder
-* 1/2 teaspoon baking soda
-* 1/2 teaspoon salt
-* 1 and 1/2 teaspoons ground cinnamon
-* 1/4 teaspoon ground nutmeg
-* 1/2 cup (120ml) vegetable oil (or melted coconut oil)
-* 1/2 cup (100g) packed light or dark brown sugar
-* 1/2 cup (100g) granulated sugar
+* ½ teaspoon baking soda
+* ½ teaspoon salt
+* 1 ½ teaspoons ground cinnamon
+* ¼ teaspoon ground nutmeg
+* ½ cup (120ml) vegetable oil (or melted coconut oil)
+* ½ cup (100g) packed light or dark brown sugar
+* ½ cup (100g) granulated sugar
 * 2 large eggs, at room temperature
-* 1/4 cup (60g) unsweetened applesauce (or sour cream or Greek yogurt)
+* ¼ cup (60g) unsweetened applesauce (or sour cream or Greek yogurt)
 * 2 teaspoons pure vanilla extract
-* 1 and 1/2 cups (about 165g) shredded zucchini (no need to blot)
+* 1 ½ cups (about 165g) shredded zucchini (no need to blot)
 * optional -- 1 cup (180g) semi-sweet chocolate chips (or chopped nuts, raisins, etc)
 
 ## Directions

@@ -9,7 +9,7 @@ tags = ['sides']
 * 3 lbs potatoes, peeled
 * 4 tablespoons melted butter
 * seasoned salt
-* 3/4 cup chicken broth
+* ¾ cup chicken broth
 
 ## Directions
 * Preheat oven to 350°F.

@@ -10,19 +10,19 @@ From [So, Ya Hungry?](https://soyahungry.com/buffalo-tofu-nuggets/)
 
 ## Ingredients
 * 1 lb extra firm tofu, pressed
-* 1/4 cup corn starch or tapioca starch
-* 1/4 cup plant milk, unsweetened and unflavored
-* 3/4 cup vegan breadcrumbs or panko
-* 1/2 tsp paprika
+* ¼ cup corn starch or tapioca starch
+* ¼ cup plant milk, unsweetened and unflavored
+* ¾ cup vegan breadcrumbs or panko
+* ½ tsp paprika
 * 1 tsp salt
-* 1/2 tsp black pepper
+* ½ tsp black pepper
 * 1 tsp garlic powder
-* 1/4 tsp cayenne pepper
+* ¼ tsp cayenne pepper
 * 1 tbsp nutritional yeast
 * 1 tbsp fresh parsley, minced
 * 1 tbsp oil, divided
-* 1/2 cup hot sauce
-* 1/4 cup vegan butter, melted
+* ½ cup hot sauce
+* ¼ cup vegan butter, melted
 
 ## Directions
 * Preheat oven to 425°F. Line baking sheet with foil and grease with half the oil.

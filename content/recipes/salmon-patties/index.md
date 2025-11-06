@@ -9,8 +9,8 @@ tags = ['seafood']
 * 2 cans salmon (drained, skin and bones removed)
 * 2 large eggs
 * 1 cup bread crumbs
-* 1/2 small onion, minced OR 1 tsp dried onion powder
-* 2 cloves minced garlic OR 1/2 tsp garlic powder
+* ½ small onion, minced OR 1 tsp dried onion powder
+* 2 cloves minced garlic OR ½ tsp garlic powder
 * 2 tbsp mustard (dijon or regular)
 * 1 tbsp lemon juice
 * 1 tbsp soy sauce

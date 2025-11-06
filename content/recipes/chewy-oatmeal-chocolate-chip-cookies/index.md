@@ -10,23 +10,23 @@ tags = ['dessert']
 
 **Molasses:** 1 Tablespoon of molasses helps give these cookies incredible flavor. If you don’t have any, simply leave it out. Do not replace with anything else. Likewise, cinnamon adds flavor as well. Not necessary, but it sure is tasty!
 
-**Chocolate Chips:** I like using 1 and 1/4 cups regular size chocolate chips and 1/2 cup mini chocolate chips. Varying sizes ensure more chocolate in each bite. You can, of course, just use 1 and 3/4 cups regular size chocolate chips. You can even try 1 cup chocolate chips and 3/4 cup raisins. Yum!
+**Chocolate Chips:** I like using 1 ¼ cups regular size chocolate chips ½ cup mini chocolate chips. Varying sizes ensure more chocolate in each bite. You can, of course, just use 1 ¾ cups regular size chocolate chips. You can even try 1 cup chocolate chips ¾ cup raisins. Yum!
 
 From [Sally's Baking Addiction](https://sallysbakingaddiction.com/oatmeal-chocolate-chip-cookies/).
 
 ## Ingredients
-* 1 and 1/2 cups (190g) all-purpose flour (spoon & leveled)
+* 1 ½ cups (190g) all-purpose flour (spoon & leveled)
 * 1 teaspoon ground cinnamon (optional)
 * 1 teaspoon baking soda
 * 1 teaspoon salt
 * 1 cup (2 sticks; 230g) unsalted butter, softened to room temperature
 * 1 cup (200g) packed light or dark brown sugar
-* 1/2 cup (100g) granulated sugar
+* ½ cup (100g) granulated sugar
 * 2 large eggs, at room temperature
 * 1 Tablespoon unsulphured or dark molasses*
 * 2 teaspoons pure vanilla extract
 * 3 cups (240g) old-fashioned whole rolled oats
-* 1 and 3/4 cups semi-sweet chocolate chips*
+* 1 ¾ cups semi-sweet chocolate chips*
 
 ## Directions
 * Whisk the flour, cinnamon, baking soda, and salt together in a medium bowl. Set aside.

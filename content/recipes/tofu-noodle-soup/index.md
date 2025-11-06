@@ -10,21 +10,21 @@ From [Yup... It's Vegan!](https://yupitsvegan.com/tofu-noodle-soup-vegan-chicken
 
 ## Ingredients
 * 1 14-oz. block extra-firm tofu drained and pressed
-* 1 and 1/2 tbsp olive oil
+* 1 ½ tbsp olive oil
 * 1 tsp coconut oil
 * 1 cup diced onion
 * 1 cup diced celery
 * 1 cup sliced carrot (peeled if desired)
 * 4 cloves garlic
-* 1/4 tsp red pepper flakes
-* 1/4 tsp dried thyme
-* 1/4 tsp ground black pepper
-* 1/8 tsp ground white pepper (or additional black pepper)
+* ¼ tsp red pepper flakes
+* ¼ tsp dried thyme
+* ¼ tsp ground black pepper
+* ⅛ tsp ground white pepper (or additional black pepper)
 * 8 cups vegan chicken-style broth (or use any vegetable broth or stock)
 * 2 tbsp low-sodium soy sauce
 * 1 tbsp nutritional yeast
 * 8 oz. brown rice elbows (scant 2 cups) (or pasta of choice, broken into bite-sized pieces if applicable)
-* salt to taste (I used 1/2 tsp; add it gradually)
+* salt to taste (I used ½ tsp; add it gradually)
 
 ## Directions
 * Preheat the oven to 350 degrees Fahrenheit and line a baking sheet with parchment paper. Open the tofu package, drain the excess liquid, and press the tofu while the oven reheats. (Either use a tofu press, or wrap the tofu in a clean towel and stack something heavy on top of it).

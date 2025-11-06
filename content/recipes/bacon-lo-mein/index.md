@@ -15,12 +15,12 @@ From [Buns in My Oven](https://www.bunsinmyoven.com/bacon-lo-mein/).
 * 2 teaspoons honey
 * 2 teaspoons chili paste
 * 1 clove garlic minced
-* 1/2 teaspoon dried ginger
+* ½ teaspoon dried ginger
 * 1 pound bacon
-* 1/2 sweet onion
+* ½ sweet onion
 * 8 ounces frozen peas and carrots
 * 2 large eggs
-* 1/4 cup chopped green onions
+* ¼ cup chopped green onions
 
 ## Directions
 * Add the fettucine to a large pot of boiling water and cook until al dente. Drain.

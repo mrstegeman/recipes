@@ -21,7 +21,7 @@ Add gradually
 
 * 4 сups sifted flour
 * 1 tsp. cinnamon
-* 1/2 tsp. salt
+* ½ tsp. salt
 * 1 cup nuts
 * 1 tsp. vanilla
 

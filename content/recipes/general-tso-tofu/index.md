@@ -17,7 +17,7 @@ From [Choosing Chia](https://choosingchia.com/general-tsos-tofu/).
 * (sauce) 3 tbsp ketchup
 * (sauce) 3 tsp rice vinegar
 * (sauce) 3 tbsp coconut sugar
-* (sauce) 2 1/2 tbsp soy sauce
+* (sauce) 2 ½ tbsp soy sauce
 * (sauce) 2 tsp grated ginger
 
 ## Directions

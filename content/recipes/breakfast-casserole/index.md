@@ -10,7 +10,7 @@ tags = ['breakfast']
 * 2 pounds hash browns, thawed
 * 10 eggs, lightly whisked
 * 1 pound bacon or sausage or hamburger, cooked and chopped
-* 1/2 onion, chopped and sautéed
+* ½ onion, chopped and sautéed
 * Salt
 * Pepper
 * Garlic powder

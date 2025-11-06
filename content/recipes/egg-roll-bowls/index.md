@@ -14,10 +14,10 @@ From [delish](https://www.delish.com/cooking/recipe-ideas/recipes/a56236/egg-rol
 * 1 tbsp. minced fresh ginger
 * 1 lb. ground pork
 * 1 tbsp. sesame oil
-* 1/2 onion, thinly sliced
+* ½ onion, thinly sliced
 * 1 c. shredded carrot
-* 1/4 green cabbage, thinly sliced
-* 1/4 c. soy sauce
+* ¼ green cabbage, thinly sliced
+* ¼ c. soy sauce
 * 1 tbsp. Sriracha
 * 1 green onion, thinly sliced
 * 1 tbsp. sesame seeds

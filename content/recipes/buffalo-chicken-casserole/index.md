@@ -10,19 +10,19 @@ tags = ['dinner']
 From [paleOMG](https://paleomg.com/sneak-peek-recipe-from-juli-bauers-paleo-cookbook-buffalo-chicken-casserole/).
 
 ## Ingredients
-* 1 medium spaghetti squash (about 2 1/2 pounds)
+* 1 medium spaghetti squash (about 2 ½ pounds)
 * 4 tablespoons butter, ghee, or coconut oil, divided
 * 2 cloves garlic, minced
 * 1 medium carrot, diced
 * 2 stalks celery, diced
-* 1/2 medium yellow onion, minced
+* ½ medium yellow onion, minced
 * 1 small red bell pepper, diced
 * 1 pound ground chicken
 * 1 teaspoon garlic powder
 * 1 teaspoon fine sea salt
-* 1/4 teaspoon black pepper
+* ¼ teaspoon black pepper
 * 1 cup hot sauce (I prefer Tessemae's or Frank's RedHot)
-* 1/4 cup Super Simple Mayonnaise (page 274 in my new book) or store-bought Primal Kitchen mayo
+* ¼ cup Super Simple Mayonnaise (page 274 in my new book) or store-bought Primal Kitchen mayo
 * 3 large eggs, whisked chopped scallions, for garnish
 * sliced avocado, for garnish
 

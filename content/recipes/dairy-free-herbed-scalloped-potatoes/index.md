@@ -14,8 +14,8 @@ From [Vegan in the Freezer](https://veganinthefreezer.com/dairy-free-herbed-scal
 * 4 tablespoons dairy free butter
 * 4 tablespoons flour
 * 3 cups dairy-free milk - unsweetened
-* 1 1/2 teaspoon salt
-* 1/2 teaspoon black pepper
+* 1 ½ teaspoon salt
+* ½ teaspoon black pepper
 * 1 tablespoon fresh thyme
 
 ## Directions

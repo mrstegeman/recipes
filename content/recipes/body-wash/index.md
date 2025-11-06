@@ -6,7 +6,7 @@ tags = ['cleaner']
 +++
 
 ## Ingredients
-* 1/2 cup distilled water
+* ½ cup distilled water
 * 1 cup castile liquid soap
 * 1 cup mix of oils (coconut, sweet almond)
 * 1 teaspoon kosher salt

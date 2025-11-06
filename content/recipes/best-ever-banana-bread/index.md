@@ -6,7 +6,7 @@ image = 'best-ever-banana-bread.jpg'
 tags = ['bread']
 +++
 
-**Cream Cheese Frosting:** This banana bread also tastes fantastic with cream cheese frosting on top! To make it, beat 4 ounces (112g) of softened cream cheese and 1/4 cup (60g) of softened unsalted butter together on medium speed until smooth. Beat in 1 cup (120g) of confectioners sugar, 1/2 teaspoon of pure vanilla extract, and a pinch of salt until combined. Spread on cooled loaf.
+**Cream Cheese Frosting:** This banana bread also tastes fantastic with cream cheese frosting on top! To make it, beat 4 ounces (112g) of softened cream cheese ¼ cup (60g) of softened unsalted butter together on medium speed until smooth. Beat in 1 cup (120g) of confectioners sugar, ½ teaspoon of pure vanilla extract, and a pinch of salt until combined. Spread on cooled loaf.
 
 **Banana Bread Muffins:** Use this banana bread recipe to make 2 dozen banana bread muffins. Pour the batter into a lined or greased muffin pan and bake for 5 minutes at 425°F (218°C) then, keeping the muffins in the oven, reduce the oven temperature to 350°F (177°C). Bake for an additional 16-17 minutes or until a toothpick inserted in the center comes out clean. The total bake time for the banana bread muffins is about 22-23 minutes. The initial burst of hot air helps those muffins rise nice and tall! Or try my quick & easy banana muffins.
 
@@ -15,15 +15,15 @@ From [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-banana-br
 ## Ingredients
 * 2 cups (250g) all-purpose flour (spoon & leveled)
 * 1 teaspoon baking soda
-* 1/4 teaspoon salt
-* 1/2 teaspoon ground cinnamon
-* 1/2 cup (1 stick or 115g) unsalted butter, softened to room temperature
-* 3/4 cup (150g) packed light or dark brown sugar
+* ¼ teaspoon salt
+* ½ teaspoon ground cinnamon
+* ½ cup (1 stick or 115g) unsalted butter, softened to room temperature
+* ¾ cup (150g) packed light or dark brown sugar
 * 2 large eggs, at room temperature
-* 1/3 cup (80g) full fat coconut milk
+* ⅓ cup (80g) full fat coconut milk
 * 2 cups mashed bananas (about 4 large ripe bananas)
 * 1 teaspoon pure vanilla extract
-* optional -- 3/4 cup (100g) chopped pecans or walnuts
+* optional -- ¾ cup (100g) chopped pecans or walnuts
 
 ## Directions
 * Adjust the oven rack to the lower third position and preheat the oven to 350°F (177°C). Grease a 9×5-inch loaf pan or coat with nonstick spray. Set aside.

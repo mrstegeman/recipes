@@ -10,9 +10,9 @@ tags = ['vegan']
 * 1 tablespoon olive oil
 * (1) 16-ounce block firm tofu
 * 2 tablespoons nutritional yeast
-* 1/2 teaspoon salt, or more to taste
-* 1/4 teaspoon turmeric
-* 1/4 teaspoon garlic powder
+* ½ teaspoon salt, or more to taste
+* ¼ teaspoon turmeric
+* ¼ teaspoon garlic powder
 * 2 tablespoons non-dairy milk, unsweetened and unflavored
 
 ## Directions
@@ -23,6 +23,6 @@ tags = ['vegan']
 
 ## Notes
 
-* Tofu Scramble is also good with all sorts of vegetables mixed in. Vegetables to add before the tofu: 1/4 cup diced onion or a few cloves of minced garlic. Saute in the oil for 2-3 minutes before adding and mashing the tofu. Vegetables to add towards the end: fresh spinach, kale, thin sliced red peppers, small chopped broccoli or fresh sliced/diced tomatoes. Add these after you've added the milk to the tofu, and cook for just a few minutes.
+* Tofu Scramble is also good with all sorts of vegetables mixed in. Vegetables to add before the tofu: ¼ cup diced onion or a few cloves of minced garlic. Saute in the oil for 2-3 minutes before adding and mashing the tofu. Vegetables to add towards the end: fresh spinach, kale, thin sliced red peppers, small chopped broccoli or fresh sliced/diced tomatoes. Add these after you've added the milk to the tofu, and cook for just a few minutes.
 * Omit oil if desired to make the tofu scramble oil free.
 * You can use any kind of non-dairy milk you like, such as soy, almond, cashew, oat or coconut milk. Just make sure it is unsweetened and unflavored.

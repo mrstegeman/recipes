@@ -13,9 +13,9 @@ From [The Thirsty Feast](https://www.honeyandbirch.com/seasoned-black-beans-side
 * 2 cups vegetable broth
 * juice of 2 limes
 * 2 garlic cloves, minced
-* 1/2 cup diced cilantro
+* ½ cup diced cilantro
 * 1 teaspoon taco seasoning
-* 1/2 teaspoon cumin
+* ½ teaspoon cumin
 * salt to taste
 
 ## Directions

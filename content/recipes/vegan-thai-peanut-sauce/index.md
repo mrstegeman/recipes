@@ -9,8 +9,8 @@ tags = ['condiments']
 From [The Spruce Eats](https://www.thespruceeats.com/thai-peanut-sauce-3377656).
 
 ## Ingredients
-* 1/4 cup peanut butter
-* 1/4 cup water
+* ¼ cup peanut butter
+* ¼ cup water
 * 2 tablespoons soy sauce
 * 2 tablespoons fresh lime juice
 * 2 cloves garlic, minced

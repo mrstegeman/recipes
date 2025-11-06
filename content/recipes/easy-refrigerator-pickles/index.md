@@ -13,14 +13,14 @@ tags = ['condiments']
 From [Gimme Some Oven](https://www.gimmesomeoven.com/easy-refrigerator-pickles-recipe/).
 
 ## Ingredients
-* 1 1/2 cups water
+* 1 ½ cups water
 * 3 tablespoons white vinegar or apple cider vinegar
-* 1 1/2 tablespoons kosher or pickling salt*
+* 1 ½ tablespoons kosher or pickling salt*
 * 2 teaspoons black peppercorns
 * 5 cloves garlic, peeled
 * 6 large sprigs fresh dill
 * 1 bay leaf
-* (optional) 1/2 teaspoon crushed red pepper flakes, or more/less to taste
+* (optional) ½ teaspoon crushed red pepper flakes, or more/less to taste
 * 1 large English hothouse seedless cucumber, sliced into rounds or spears
 
 ## Directions

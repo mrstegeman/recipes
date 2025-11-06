@@ -11,23 +11,23 @@ Adapted from [Paula Deen's recipe](https://www.food.com/recipe/taco-soup-paula-d
 * 4 cups chicken broth
 * 2 lbs ground beef or chicken
 * 2 cups diced onions
-* 2 (15 1/2 oz) cans pinto beans
-* 1 (15 1/2 oz) can pink kidney beans
+* 2 (15 ½ oz) cans pinto beans
+* 1 (15 ½ oz) can pink kidney beans
 * 2 cups frozen corn
-* 1 (14 1/2 oz) can Mexican-style stewed tomatoes
-* 3 (14 1/2 oz) cans diced tomatoes
-* 2 (4 1/2 oz) cans diced green chiles
+* 1 (14 ½ oz) can Mexican-style stewed tomatoes
+* 3 (14 ½ oz) cans diced tomatoes
+* 2 (4 ½ oz) cans diced green chiles
 * 2 (4.6 oz) can black olives, drained and sliced
 * (taco seasoning) 2 tsp chili powder
 * (taco seasoning) 2 tsp paprika
 * (taco seasoning) 1 tsp onion powder
-* (taco seasoning) 1/2 tsp salt
-* (taco seasoning) 1/2 tsp garlic powder
-* (taco seasoning) 1/2 tsp cumin
-* (taco seasoning) 1/2 tsp oregano
-* (taco seasoning) 1/4 tsp black pepper
+* (taco seasoning) ½ tsp salt
+* (taco seasoning) ½ tsp garlic powder
+* (taco seasoning) ½ tsp cumin
+* (taco seasoning) ½ tsp oregano
+* (taco seasoning) ¼ tsp black pepper
 * (ranch seasoning) 2 tbsp parsley
-* (ranch seasoning) 1 1/2 tsp dill
+* (ranch seasoning) 1 ½ tsp dill
 * (ranch seasoning) 2 tsp garlic powder
 * (ranch seasoning) 2 tsp dried onion flakes
 * (ranch seasoning) 1 tsp black pepper

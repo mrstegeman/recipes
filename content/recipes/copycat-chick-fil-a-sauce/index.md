@@ -9,7 +9,7 @@ tags = ['condiments']
 From [House of Yumm](https://houseofyumm.com/copycat-chick-fil-a-sauce/).
 
 ## Ingredients
-* 1/4 cup mayonnaise
+* ¼ cup mayonnaise
 * 2 tablespoons honey
 * 1 tablespoon yellow mustard
 * 2 teaspoons Dijon mustard

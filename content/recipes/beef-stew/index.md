@@ -8,13 +8,13 @@ tags = ['dinner']
 
 ## Ingredients
 * 2 lbs beef stew meat
-* 1/2 cup all purpose flour
+* ½ cup all purpose flour
 * 1 tbsp seasoned salt
 * 2 tbsp olive oil
-* 1/2 tsp black pepper
+* ½ tsp black pepper
 * 1 large onion, diced
 * 3 bay leaves
-* 1/4 cup Worcestershire sauce
+* ¼ cup Worcestershire sauce
 * 2 cups water
 * 4 heaping teaspoons Better than Bouillon
 * 4 medium to large potatoes, peeled and diced

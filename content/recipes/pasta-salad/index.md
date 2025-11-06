@@ -10,7 +10,7 @@ tags = ['pasta', 'sides']
 * 2 small cans sliced olives, drained
 * 1 green bell pepper, chopped
 * 1 orange bell pepper, chopped
-* 1/2 onion (not red), chopped
+* ½ onion (not red), chopped
 * Small bag of frozen corn, defrosted
 * 1 can of black beans, drained and rinsed
 * Mayo

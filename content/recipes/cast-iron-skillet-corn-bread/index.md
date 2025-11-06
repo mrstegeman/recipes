@@ -9,13 +9,13 @@ tags = ['bread']
 From [Food Network](https://www.foodnetwork.com/recipes/alexandra-guarnaschelli/cast-iron-skillet-corn-bread-recipe-2012669).
 
 ## Ingredients
-* 1 1/4 cups coarsely ground cornmeal
-* 3/4 cup all-purpose flour
-* 1/4 cup granulated sugar
+* 1 ¼ cups coarsely ground cornmeal
+* ¾ cup all-purpose flour
+* ¼ cup granulated sugar
 * 1 teaspoon kosher salt
 * 2 teaspoons baking powder
-* 1/2 teaspoon baking soda
-* 1/3 cup whole milk
+* ½ teaspoon baking soda
+* ⅓ cup whole milk
 * 1 cup buttermilk
 * 2 eggs, lightly beaten
 * 8 tablespoons unsalted butter, melted

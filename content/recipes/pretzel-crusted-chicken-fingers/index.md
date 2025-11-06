@@ -10,9 +10,9 @@ tags = ['dinner']
 From [How Sweet Eats](https://www.howsweeteats.com/2019/07/pretzel-crusted-chicken-fingers/).
 
 ## Ingredients
-* 1 1/2 pounds boneless skinless chicken tenders
-* 1/4 teaspoon salt
-* 1/4 teaspoon pepper
+* 1 ½ pounds boneless skinless chicken tenders
+* ¼ teaspoon salt
+* ¼ teaspoon pepper
 * 2 cups mini pretzel twists crushed
 * 1 teaspoon garlic powder
 * 2 eggs lightly beaten

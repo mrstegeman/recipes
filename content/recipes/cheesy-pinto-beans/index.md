@@ -13,11 +13,11 @@ From [Budget Bytes](https://www.budgetbytes.com/cheesy-pinto-beans/).
 * 1 jalapeño (optional)
 * 1 Tbsp cooking oil
 * 2 15oz. cans pinto beans
-* 1/4 tsp smoked paprika
-* 1/4 tsp ground cumin
-* 1/8 tsp freshly cracked black pepper
+* ¼ tsp smoked paprika
+* ¼ tsp ground cumin
+* ⅛ tsp freshly cracked black pepper
 * 2 dashes hot sauce
-* 1/2 cup shredded cheddar cheese
+* ½ cup shredded cheddar cheese
 
 ## Directions
 * Mince the garlic and finely dice the jalapeño (remove the stem and seeds).

@@ -12,7 +12,7 @@ From [delish](https://www.delish.com/cooking/recipe-ideas/recipes/a54937/best-sa
 ## Ingredients
 * (patties) 1 lb. ground beef
 * (patties) 1 large egg
-* (patties) 1/3 c. bread crumbs
+* (patties) ⅓ c. bread crumbs
 * (patties) 1 tbsp. ketchup
 * (patties) 1 tbsp. Worcestershire sauce
 * (patties) 1 Garlic clove, minced
@@ -22,7 +22,7 @@ From [delish](https://www.delish.com/cooking/recipe-ideas/recipes/a54937/best-sa
 * (gravy) 2 tbsp. unsalted butter
 * (gravy) 1 onion, chopped
 * (gravy) 2 sprigs thyme
-* (gravy) 1/2 c. Mushrooms, thinly sliced
+* (gravy) ½ c. Mushrooms, thinly sliced
 * (gravy) 2 tbsp. all-purpose flour
 * (gravy) 1 tbsp. Worcestershire sauce
 * (gravy) 1 tbsp. tomato paste

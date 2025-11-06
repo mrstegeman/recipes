@@ -10,14 +10,14 @@ From [Budget Bytes](https://www.budgetbytes.com/baked-pumpkin-pie-oatmeal/).
 
 ## Ingredients
 * 1 15 oz. can pumpkin purée
-* 1/2 cup brown sugar
+* ½ cup brown sugar
 * 2 large eggs
-* 1/2 Tbsp pumpkin pie spice
-* 1/2 tsp salt
-* 3/4 tsp baking powder
-* 1/2 tsp vanilla extract
-* 1 1/2 cups milk
-* 2 1/2 cups dry old-fashioned oats
+* ½ Tbsp pumpkin pie spice
+* ½ tsp salt
+* ¾ tsp baking powder
+* ½ tsp vanilla extract
+* 1 ½ cups milk
+* 2 ½ cups dry old-fashioned oats
 
 ## Directions
 * Preheat the oven to 375 degrees. In a large bowl, whisk together the pumpkin purée, brown sugar, eggs, vanilla, pumpkin pie spice, salt, and baking powder until smooth. Whisk in the milk.

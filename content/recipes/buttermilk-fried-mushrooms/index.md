@@ -11,7 +11,7 @@ From [Live Eat Learn](https://www.liveeatlearn.com/buttermilk-fried-mushrooms/).
 ## Ingredients
 * 2 heaping cups oyster mushrooms
 * 1 cup buttermilk
-* 1 1/2 cups all-purpose flour
+* 1 ½ cups all-purpose flour
 * 1 tsp each salt, pepper, garlic powder, onion powder, smoked paprika, cumin
 * 1 Tbsp oil
 

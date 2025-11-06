@@ -9,12 +9,12 @@ tags = ['sauce']
 From [Minimalist Baker](https://minimalistbaker.com/5-ingredient-peanut-sauce/).
 
 ## Ingredients
-* 1/2 cup salted creamy peanut butter* (or almond butter or sunflower butter)
+* ½ cup salted creamy peanut butter* (or almond butter or sunflower butter)
 * 1-2 Tbsp gluten-free tamari (if not gluten-free sub soy sauce // if soy-free sub coconut aminos*)
 * 1-2 Tbsp maple syrup (or other sweetener of choice)
-* 1 tsp chili garlic sauce (or 1 red Thai chili, minced // or 1/4 tsp red pepper flake // adjust to preferred spice level)
+* 1 tsp chili garlic sauce (or 1 red Thai chili, minced // or ¼ tsp red pepper flake // adjust to preferred spice level)
 * 2-3 Tbsp lime juice
-* ~1/4 cup water (to thin)
+* ~¼ cup water (to thin)
 
 ## Directions
 * To a medium mixing bowl add (starting with the amount at the lower end of the measurement range where applicable) peanut butter, tamari (or soy sauce or coconut aminos), maple syrup, lime juice, chili sauce (or chili or red pepper), and whisk to combine. Add water a little at a time until a thick but pourable sauce is achieved.

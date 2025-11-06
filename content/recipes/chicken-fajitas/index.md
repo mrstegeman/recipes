@@ -10,10 +10,10 @@ tags = ['dinner']
 From [delish](https://www.delish.com/cooking/recipe-ideas/a19665622/easy-chicken-fajitas-recipe/).
 
 ## Ingredients
-* 1/2 c. plus 1 tbsp. extra-virgin olive oil
-* 1/4 c. lime juice, from about 3 limes
+* ½ c. plus 1 tbsp. extra-virgin olive oil
+* ¼ c. lime juice, from about 3 limes
 * 2 tsp. cumin
-* 1/2 tsp. crushed red pepper flakes
+* ½ tsp. crushed red pepper flakes
 * 1 lb. boneless skinless chicken breasts
 * Kosher salt
 * Freshly ground black pepper

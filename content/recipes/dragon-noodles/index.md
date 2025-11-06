@@ -11,7 +11,7 @@ From [Budget Bytes](https://www.budgetbytes.com/spicy-noodles/).
 ## Ingredients
 * 4 oz. lo mein noodles
 * 2 Tbsp butter
-* 1/4 tsp crushed red pepper
+* ¼ tsp crushed red pepper
 * 1 large egg
 * 1 Tbsp brown sugar
 * 1 Tbsp soy sauce

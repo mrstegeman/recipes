@@ -9,11 +9,11 @@ tags = ['dessert']
 From [How Sweet Eats](https://www.howsweeteats.com/2017/12/chex-mix-recipe/).
 
 ## Ingredients
-* 1/2 cup unsalted butter
-* 3/4 cup corn syrup
+* ½ cup unsalted butter
+* ¾ cup corn syrup
 * 1 cup packed brown sugar
-* 1/2 teaspoon chipotle pepper seasoning
-* 1/2 teaspoon smoked paprika
+* ½ teaspoon chipotle pepper seasoning
+* ½ teaspoon smoked paprika
 * 4 cups rice chex cereal
 * 4 cups corn chex cereal
 * 2 cups mini pretzels

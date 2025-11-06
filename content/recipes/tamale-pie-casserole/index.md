@@ -7,9 +7,9 @@ tags = ['mexican']
 
 ## Ingredients
 * (topping) 2 cups all-purpose flour
-* (topping) 1 1/2 cups cornmeal
+* (topping) 1 ½ cups cornmeal
 * (topping) 6 Tbsp sugar
-* (topping) 1 1/2 tsp salt
+* (topping) 1 ½ tsp salt
 * (topping) 2 Tbsp baking powder
 * (topping) 2 egg, lightly beaten
 * (topping) 2 cups milk
@@ -26,7 +26,7 @@ tags = ['mexican']
 * (filling) 1 tsp cumin (heaping)
 * (filling) 1 tsp black pepper
 * (filling) 2 tsp salt
-* (filling) 1/2 bunch chopped parsley
+* (filling) ½ bunch chopped parsley
 * (filling) 1 heaping spoonful of chiles in adobo
 
 ## Directions

@@ -10,16 +10,16 @@ tags = ['meat']
 From [Genius Kitchen](https://www.geniuskitchen.com/recipe/korean-style-short-ribs-crock-pot-266161).
 
 ## Ingredients
-* 1/2 cup low sodium soy sauce
-* 1/2 cup packed light brown sugar
+* ½ cup low sodium soy sauce
+* ½ cup packed light brown sugar
 * 2 tablespoons sesame oil
 * 2 tablespoons rice vinegar
 * 2 tablespoons minced fresh ginger
 * 4 garlic cloves, crushed
-* 1/2 teaspoon red pepper flakes
+* ½ teaspoon red pepper flakes
 * 5 lbs beef short ribs or 5 lbs pork ribs
 * 3 tablespoons cornstarch
-* 1 1/2 cups shredded carrots
+* 1 ½ cups shredded carrots
 * 3 scallions, trimmed and thinly sliced
 * 1 tablespoon sesame seeds
 * 3 cups cooked white rice
