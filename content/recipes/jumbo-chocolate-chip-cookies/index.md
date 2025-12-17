@@ -2,7 +2,7 @@
 title = 'Jumbo Chocolate Chip Cookies'
 date = 2025-12-16T15:52:03-09:00
 draft = false
-tags = []
+tags = ['dessert']
 +++
 
 ## Ingredients

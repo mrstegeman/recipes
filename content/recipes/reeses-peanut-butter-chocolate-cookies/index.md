@@ -2,7 +2,7 @@
 title = "Reese's Peanut Butter Chocolate Cookies"
 date = 2025-12-16T15:38:48-09:00
 draft = false
-tags = []
+tags = ['dessert']
 +++
 
 ## Ingredients

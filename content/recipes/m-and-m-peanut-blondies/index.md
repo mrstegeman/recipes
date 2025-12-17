@@ -2,7 +2,7 @@
 title = "M&M's Peanut Blondies"
 date = 2025-12-16T15:46:34-09:00
 draft = false
-tags = []
+tags = ['dessert']
 +++
 
 ## Ingredients

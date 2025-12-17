@@ -2,7 +2,7 @@
 title = 'No Bake Cookies'
 date = 2025-12-16T15:56:15-09:00
 draft = false
-tags = []
+tags = ['dessert']
 +++
 
 ## Ingredients
