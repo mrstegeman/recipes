@@ -1,5 +1,4 @@
 baseURL = 'https://recipes.stegeman.me/'
-languageCode = 'en-us'
 title = 'Recipes'
 theme = 'simple'
 enableRobotsTXT = true
@@ -16,3 +15,8 @@ weight = 2
 
 [taxonomies]
   tag = "tags"
+
+[languages]
+  [languages.en]
+    label = 'English'
+    locale = 'en-US'
