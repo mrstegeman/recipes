@@ -6,6 +6,7 @@ tags = ['seafood']
 +++
 
 ## Ingredients
+
 * 6 5-oz cans of tuna in water
 * 6 teaspoons dijon mustard
 * 1 ½ cups oatmeal
@@ -22,8 +23,11 @@ tags = ['seafood']
 * 3 eggs
 
 ## Directions
+
 * Drain liquid from tuna cans, reserving 3 tablespoons.
-* In a medium bowl, add tuna, tuna water, olive oil, dijon mustard, oatmeal, lemon juice, parsley, chives, onion, salt, pepper, and Sriracha. Mix in eggs.
-* Divide mixture into patties. Form each into a ball and flatten, then place on a wax-lined baking sheet. Place in refrigerator for at least one hour prior to cooking to help them stick together.
+* In a medium bowl, add tuna, tuna water, olive oil, dijon mustard, oatmeal, lemon juice, parsley,
+  chives, onion, salt, pepper, and Sriracha. Mix in eggs.
+* Divide mixture into patties. Form each into a ball and flatten, then place on a wax-lined baking
+  sheet. Place in refrigerator for at least one hour prior to cooking to help them stick together.
 * Heat coconut oil and butter in skillet on medium-high. Cook until both sides are nicely browned.
 * Serve with mustard.

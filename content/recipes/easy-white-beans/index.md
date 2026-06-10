@@ -9,6 +9,7 @@ tags = ['sides']
 From [a couple cooks](https://www.acouplecooks.com/white-beans/).
 
 ## Ingredients
+
 * 15-ounce can white beans of any type: cannellini, Great Northern or navy beans
 * 1 tablespoon salted butter or olive oil
 * ¼ teaspoon dried tarragon or dried oregano
@@ -18,5 +19,7 @@ From [a couple cooks](https://www.acouplecooks.com/white-beans/).
 * Black pepper, to taste
 
 ## Directions
+
 * Drain and rinse the beans.
-* Heat the butter or olive oil over medium-low heat in a small skillet. Add the beans and seasoning. Heat until just warm, about 2 minutes.
+* Heat the butter or olive oil over medium-low heat in a small skillet. Add the beans and seasoning.
+  Heat until just warm, about 2 minutes.

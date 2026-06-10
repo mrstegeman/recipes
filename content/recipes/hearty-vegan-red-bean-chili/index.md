@@ -6,9 +6,11 @@ image = 'hearty-vegan-red-bean-chili.jpg'
 tags = ['soup']
 +++
 
-From [Forks Over Knives](https://www.forksoverknives.com/recipes/vegan-soups-stews/hearty-vegan-red-bean-chili/).
+From
+[Forks Over Knives](https://www.forksoverknives.com/recipes/vegan-soups-stews/hearty-vegan-red-bean-chili/).
 
 ## Ingredients
+
 * 2 cups finely chopped yellow onions
 * 2 cups finely chopped red bell peppers
 * 1 cup coarsely chopped fresh poblano chile peppers
@@ -28,6 +30,9 @@ From [Forks Over Knives](https://www.forksoverknives.com/recipes/vegan-soups-ste
 * Corn tortillas or steamed rice, for serving
 
 ## Directions
-* In a Dutch oven cook the first six ingredients (through garlic) over medium-low 15 minutes, stirring occasionally. Add water, 1 to 2 tablespoons at a time, as needed to prevent sticking.
-* Add the next eight ingredients (through paprika). Bring to boiling; reduce heat. Simmer, covered, 30 minutes or until millet/quinoa is tender.
+
+* In a Dutch oven cook the first six ingredients (through garlic) over medium-low 15 minutes,
+  stirring occasionally. Add water, 1 to 2 tablespoons at a time, as needed to prevent sticking.
+* Add the next eight ingredients (through paprika). Bring to boiling; reduce heat. Simmer, covered,
+  30 minutes or until millet/quinoa is tender.
 * Stir in lemon juice and season with salt. Serve hot with tortillas or rice.

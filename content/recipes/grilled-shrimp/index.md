@@ -6,6 +6,7 @@ tags = ['seafood']
 +++
 
 ## Ingredients
+
 * shrimp
 * olive oil
 * lemon juice
@@ -16,6 +17,7 @@ tags = ['seafood']
 * garlic powder
 
 ## Directions
+
 * Thaw and peel shrimp.
 * Skewer shrimp tightly together.
 * Brush shrimp with olive oil and lemon juice mixture, then season with spices.

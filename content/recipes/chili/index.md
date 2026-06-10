@@ -6,6 +6,7 @@ tags = ['dinner']
 +++
 
 ## Ingredients
+
 * 46 oz tomato juice
 * 3 lbs ground beef
 * 1 onion, chopped
@@ -21,6 +22,7 @@ tags = ['dinner']
 * (optional) chile peppers
 
 ## Directions
+
 * Brown ground beef and onions, drain.
 * Mix beef and onion with remaining ingredients, seasoning to taste.
 * Bring mixture to a boil, then simmer for a long time.

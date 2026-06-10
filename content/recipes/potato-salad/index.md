@@ -6,6 +6,7 @@ tags = ['sides']
 +++
 
 ## Ingredients
+
 * 5 lbs potatoes, cut into chunks
 * mustard
 * mayonnaise
@@ -19,6 +20,7 @@ tags = ['sides']
 * splash of apple cider vinegar
 
 ## Directions
+
 * Boil potatoes until tender and drain.
 * Add rest of ingredients, adjusting to taste.
 * Cool before serving.

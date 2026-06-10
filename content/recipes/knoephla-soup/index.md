@@ -7,12 +7,15 @@ tags = ['soup']
 +++
 
 * **NOTE:** Using homemade chicken stock will give the best results, but boxed works well, as well.
-* If you are running short on time, you can shorten the cooking process by not rolling out the dough and using a spoon to quickly make the dumplings. I recommend rolling, but I do this shortcut occasionally.
+* If you are running short on time, you can shorten the cooking process by not rolling out the dough
+  and using a spoon to quickly make the dumplings. I recommend rolling, but I do this shortcut
+  occasionally.
 * Frozen dumplings would be fine for saving time, but homemade is better!
 
 From [Ramshackle Pantry](https://ramshacklepantry.com/knoephla-soup-recipe/).
 
 ## Ingredients
+
 * 4 Tablespoons Butter
 * 4 Celery Stocks, chopped
 * 4 Carrots, Chopped
@@ -27,6 +30,7 @@ From [Ramshackle Pantry](https://ramshacklepantry.com/knoephla-soup-recipe/).
 * (for dumplings) 1 Teaspoon salt
 
 ## Directions
+
 * In large pot, add butter and put on low to allow butter to melt
 * Once melted, add carrots and celery
 * Cook on low for 5 minutes

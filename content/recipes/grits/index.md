@@ -6,6 +6,7 @@ tags = ['sides']
 +++
 
 ## Ingredients
+
 * 3 cups water
 * ½ teaspoon salt
 * 1 cup grits
@@ -18,6 +19,7 @@ tags = ['sides']
 * 1 teaspoon garlic powder
 
 ## Directions
+
 * Bring water and salt to a boil.
 * Add in grits and reduce heat.
 * Cook slowly for about 5 minutes, stirring occasionally.

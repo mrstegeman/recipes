@@ -10,6 +10,7 @@ tags = ['soup']
 From [paleOMG](https://paleomg.com/smoky-bacon-chili).
 
 ## Ingredients
+
 * 6 sweet potatoes
 * 1 package of bacon, cubed
 * 2 garlic cloves, minced
@@ -28,11 +29,15 @@ From [paleOMG](https://paleomg.com/smoky-bacon-chili).
 * chopped green onions
 
 ## Directions
-* Preheat oven to 400°. Poke holes in your sweet potatoes with a fork. Place on rack in oven and cook for about 30 minutes or until potato is soft and cooked through.
+
+* Preheat oven to 400°. Poke holes in your sweet potatoes with a fork. Place on rack in oven and
+  cook for about 30 minutes or until potato is soft and cooked through.
 * Now pull out a large pot, add the cubed bacon and let cook down.
 * While the bacon is cooking, chop all the veggies.
 * When the bacon has browned and is a bit crisp, add garlic clove and veggies.
-* Let cook for about 6 or so minutes, then add your ground beef and all the spices. There's no need to drain the meat.
+* Let cook for about 6 or so minutes, then add your ground beef and all the spices. There's no need
+  to drain the meat.
 * Once the beef is browned, add your tomato sauce and fire roasted tomatoes.
-* Mix well and let all the flavors meld together while cooking on low for the next 8 minutes or so, stirring occasionally.
+* Mix well and let all the flavors meld together while cooking on low for the next 8 minutes or so,
+  stirring occasionally.
 * Then split open your sweet potato, pour your chili over it, and eat. Delicious

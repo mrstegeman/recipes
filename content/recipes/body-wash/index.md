@@ -6,6 +6,7 @@ tags = ['cleaner']
 +++
 
 ## Ingredients
+
 * ½ cup distilled water
 * 1 cup castile liquid soap
 * 1 cup mix of oils (coconut, sweet almond)
@@ -13,4 +14,5 @@ tags = ['cleaner']
 * 20-30 drops of essential oils, if desired
 
 ## Directions
+
 * Mix all ingredients.

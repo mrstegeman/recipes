@@ -9,6 +9,7 @@ tags = ['seafood']
 From [Damn Delicious](https://damndelicious.net/2014/03/28/shrimp-scampi/).
 
 ## Ingredients
+
 * 8 ounces linguine
 * 2 tablespoons unsalted butter
 * 1 pound medium shrimp, peeled and deveined
@@ -21,7 +22,10 @@ From [Damn Delicious](https://damndelicious.net/2014/03/28/shrimp-scampi/).
 * 2 tablespoons chopped fresh parsley leaves
 
 ## Directions
+
 * In a large pot of boiling salted water, cook pasta according to package instructions; drain well.
-* Melt butter in a large skillet over medium high heat. Add shrimp, garlic and red pepper flakes. Cook, stirring occasionally, until pink, about 2-3 minutes.
-* Stir in wine and lemon juice; season with salt and pepper, to taste. Bring to a simmer; remove from heat and stir in pasta, lemon zest and parsley.
+* Melt butter in a large skillet over medium high heat. Add shrimp, garlic and red pepper flakes.
+  Cook, stirring occasionally, until pink, about 2-3 minutes.
+* Stir in wine and lemon juice; season with salt and pepper, to taste. Bring to a simmer; remove
+  from heat and stir in pasta, lemon zest and parsley.
 * Serve immediately.

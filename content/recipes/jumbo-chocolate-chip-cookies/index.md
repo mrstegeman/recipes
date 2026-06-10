@@ -6,6 +6,7 @@ tags = ['dessert']
 +++
 
 ## Ingredients
+
 * 1 stick butter, chilled
 * ¾ cup granulated sugar
 * ½ cup brown sugar
@@ -16,8 +17,10 @@ tags = ['dessert']
 * 1 cup chocolate chips
 
 ## Recipes
+
 * Preheat oven to 350°.
-* Using an electric mixer, beat the butter with granulated sugar and brown sugar until just combined and sandy (do not cream).
+* Using an electric mixer, beat the butter with granulated sugar and brown sugar until just combined
+  and sandy (do not cream).
 * Mix in the egg until just combined, about 3 seconds.
 * Add the flour, baking soda, and salt, and mix until just incorporated.
 * Mix in the chocolate chips.

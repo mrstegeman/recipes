@@ -7,6 +7,7 @@ tags = ['freezer meals']
 +++
 
 ## Ingredients
+
 * 4 chicken breasts
 * 1 red pepper, diced
 * 1 white onion, diced
@@ -20,6 +21,7 @@ tags = ['freezer meals']
 * chopped cilantro
 
 ## Directions
+
 * In a bowl, mix together peanut butter, lime juice, vegetable broth, soy sauce, and cumin.
 * Place in a gallon sized ziplock.
 * Add in chicken and peppers.

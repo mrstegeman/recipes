@@ -9,6 +9,7 @@ tags = ['dessert']
 From [The Spruce Eats](https://www.thespruceeats.com/dairy-free-vanilla-pudding-1000925).
 
 ## Ingredients
+
 * ⅔ cup sugar (white)
 * ¼ teaspoon salt
 * ¼ cup cornstarch
@@ -17,12 +18,17 @@ From [The Spruce Eats](https://www.thespruceeats.com/dairy-free-vanilla-pudding-
 * 1 teaspoon vanilla extract
 
 ## Directions
+
 * Gather the ingredients.
 * In a small saucepan, whisk together the sugar and salt.
-* In a small dish, combine the cornstarch with 2 tablespoons of the almond milk, mixing until dissolved.
-* Add the cornstarch mixture, remaining almond milk, and egg yolks to the saucepan, whisking until combined.
-* Cook the pudding over medium heat, stirring constantly, until mixture thickens and bubbles just begin to form on the surface.
+* In a small dish, combine the cornstarch with 2 tablespoons of the almond milk, mixing until
+  dissolved.
+* Add the cornstarch mixture, remaining almond milk, and egg yolks to the saucepan, whisking until
+  combined.
+* Cook the pudding over medium heat, stirring constantly, until mixture thickens and bubbles just
+  begin to form on the surface.
 * Whisking constantly, turn down the heat to low and cook for about 1 minute more.
 * Pour the pudding through a fine sieve into a heatproof dish and stir in the vanilla extract.
-* Place plastic wrap directly on the surface of the pudding and chill at least 2 hours before serving. This will prevent a skin from forming while the pudding cools and thickens.
+* Place plastic wrap directly on the surface of the pudding and chill at least 2 hours before
+  serving. This will prevent a skin from forming while the pudding cools and thickens.
 * Serve and enjoy!

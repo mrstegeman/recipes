@@ -7,6 +7,7 @@ tags = ['dinner']
 +++
 
 ## Ingredients
+
 * 2 lbs chicken (breasts or thighs)
 * 1 small onion, chopped
 * 2 green bell peppers, chopped
@@ -23,11 +24,13 @@ tags = ['dinner']
 * green onions, diced
 
 ## Directions
+
 * Prepare chicken in slow cooker beforehand.
 * In stock pot, add in chopped onion, diced green bell peppers, and minced garlic.
 * Top with chicken and spices.
 * Add undrained cans of green chiles and salsa verde.
 * Add the cans of drained and rinsed white beans and chicken broth.
 * Bring to a boil and then simmer for 30 minutes or more.
-* Squeeze lime juice into the soup and sprinkle seasoned salt, stir, and let simmer an additional 20-30 minutes.
+* Squeeze lime juice into the soup and sprinkle seasoned salt, stir, and let simmer an additional
+  20-30 minutes.
 * Serve with corn chips, green onions, and extra lime.

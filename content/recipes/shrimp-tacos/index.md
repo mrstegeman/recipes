@@ -6,6 +6,7 @@ tags = ['seafood', 'mexican']
 +++
 
 ## Ingredients
+
 * shrimp
 * avocado oil
 * cumin
@@ -20,6 +21,7 @@ tags = ['seafood', 'mexican']
 * red cabbage
 
 ## Directions
+
 * Thaw and peel shrimp.
 * Season shrimp with spices.
 * Heat avocado oil in skillet over medium-high heat.

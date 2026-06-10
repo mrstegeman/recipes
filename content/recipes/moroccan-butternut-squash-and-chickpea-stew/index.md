@@ -6,9 +6,11 @@ image = 'moroccan-butternut-squash-and-chickpea-stew.jpg'
 tags = ['soup']
 +++
 
-From [Forks Over Knives](https://www.forksoverknives.com/recipes/vegan-soups-stews/moroccan-stew-butternut-squash-chickpea/).
+From
+[Forks Over Knives](https://www.forksoverknives.com/recipes/vegan-soups-stews/moroccan-stew-butternut-squash-chickpea/).
 
 ## Ingredients
+
 * 1 small butternut squash, peeled and cut into ¾-inch pieces (3 cups)
 * 1 (14.5-ounce) can no-salt-added diced tomatoes, undrained
 * ½ cup chopped onion
@@ -26,5 +28,9 @@ From [Forks Over Knives](https://www.forksoverknives.com/recipes/vegan-soups-ste
 * Lime wedges
 
 ## Directions
-* Combine the butternut squash, diced tomatoes, onion, garlic, stock, curry, cumin, paprika, ginger, and cayenne in a 6-quart Dutch oven. Bring to a boil over high heat; reduce heat to medium-low. Simmer for 18 to 20 minutes or just until squash is tender. Stir in the spinach, chickpeas, and rice; heat through.
+
+* Combine the butternut squash, diced tomatoes, onion, garlic, stock, curry, cumin, paprika, ginger,
+  and cayenne in a 6-quart Dutch oven. Bring to a boil over high heat; reduce heat to medium-low.
+  Simmer for 18 to 20 minutes or just until squash is tender. Stir in the spinach, chickpeas, and
+  rice; heat through.
 * Top servings with parsley and serve with lime wedges for squeezing.

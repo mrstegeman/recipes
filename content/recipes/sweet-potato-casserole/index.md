@@ -6,6 +6,7 @@ tags = ['sides', 'thanksgiving']
 +++
 
 ## Ingredients
+
 * 3 cups mashed sweet potatoes
 * 6 tablespoons butter at room temp
 * 2 cups evaporated milk
@@ -20,7 +21,9 @@ tags = ['sides', 'thanksgiving']
 * ⅛ cup firmly packed brown sugar truvia
 
 ## Directions
-* Combine sweet potatoes, room-temp butter, evaporated milk, truvia, eggs, vanilla, nutmeg, and cinnamon.
+
+* Combine sweet potatoes, room-temp butter, evaporated milk, truvia, eggs, vanilla, nutmeg, and
+  cinnamon.
 * Beat with an electric mixer on medium until smooth.
 * Pour into a 9x13 baking dish and bake in 350° oven for 30 minutes.
 * Melt the rest of the butter and stir in cor flakes, nuts, and brown sugar truvia.

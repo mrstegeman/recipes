@@ -6,6 +6,7 @@ tags = ['pasta', 'sides']
 +++
 
 ## Ingredients
+
 * 2 boxes of rotini, save a bit for something else
 * 2 small cans sliced olives, drained
 * 1 green bell pepper, chopped
@@ -21,5 +22,6 @@ tags = ['pasta', 'sides']
 * Vinegar
 
 ## Directions
+
 * Cook noodles.
 * Combine ingredients.

@@ -6,6 +6,7 @@ tags = ['mexican']
 +++
 
 ## Ingredients
+
 * 3 cups white rice, cooked
 * 2 cans black beans, drained and rinsed
 * 2 cans red enchilada sauce
@@ -22,4 +23,5 @@ tags = ['mexican']
 * (optional) Cilantro
 
 ## Directions
+
 * Mix, heat, eat.

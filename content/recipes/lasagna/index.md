@@ -7,6 +7,7 @@ tags = ['pasta']
 +++
 
 ## Ingredients
+
 * ground beef, browned
 * lasagna noodles, cooked al dente
 * cottage cheese
@@ -15,6 +16,8 @@ tags = ['pasta']
 * McCormick Thick & Zesty Spaghetti Sauce Mix
 
 ## Directions
+
 * Make spaghetti sauce according to instructions.
-* Layer ingredients, in order -- meat (thin layer), noodles, meat, cottage cheese, mozzarella, noodles, meat, mozzarella.
+* Layer ingredients, in order -- meat (thin layer), noodles, meat, cottage cheese, mozzarella,
+  noodles, meat, mozzarella.
 * Bake at 350 for one hour, or until cheese is brown.

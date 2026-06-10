@@ -9,6 +9,7 @@ tags = ['drinks']
 From [How Sweet Eats](https://www.howsweeteats.com/2011/10/apple-cider-margaritas/).
 
 ## Ingredients
+
 * 1 ounce Grand Marnier
 * 1 ounce gold tequila
 * 5-6 ounces sweet apple cider
@@ -17,5 +18,10 @@ From [How Sweet Eats](https://www.howsweeteats.com/2011/10/apple-cider-margarita
 * cinnamon sticks for garnish
 
 ## Directions
-* Add a few spoonfuls of cane sugar, coarse sugar and cinnamon to a plate. Run an orange segment around the edge of the glass, then press into the cinnamon sugar mixture to coat the rim. Add a few orange slices in the bottom of the glass, fill with ice, then add the Grand Marnier, tequila and apple cider and stir to mix. Garnish with apple slices and cinnamon sticks. Enjoy!
-* Note -- As a rule, I generally prefer silver tequila in my margaritas, but the gold here really gives a "warmth" that matches the cider and cinnamon perfectly.
+
+* Add a few spoonfuls of cane sugar, coarse sugar and cinnamon to a plate. Run an orange segment
+  around the edge of the glass, then press into the cinnamon sugar mixture to coat the rim. Add a
+  few orange slices in the bottom of the glass, fill with ice, then add the Grand Marnier, tequila
+  and apple cider and stir to mix. Garnish with apple slices and cinnamon sticks. Enjoy!
+* Note -- As a rule, I generally prefer silver tequila in my margaritas, but the gold here really
+  gives a "warmth" that matches the cider and cinnamon perfectly.

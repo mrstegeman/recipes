@@ -6,6 +6,7 @@ tags = ['dessert']
 +++
 
 ## Ingredients
+
 * 1 cup flour
 * 6 tbsp cocoa
 * ½ tsp baking soda
@@ -17,9 +18,11 @@ tags = ['dessert']
 * 1 ⅔ cup Reese's peanut butter chips
 
 ## Directions
+
 * Heat oven to 350°.
 * Stir together flour, cocoa, baking soda, and salt.
-* Beat together butter and sugar in large bowl with mixer until well blended. Add egg and vanilla, beat well.
+* Beat together butter and sugar in large bowl with mixer until well blended. Add egg and vanilla,
+  beat well.
 * Gradually add flour mixture, beating well.
 * Stir in peanut butter chips.
 * Drop rounded teaspoons onto ungreased cookie sheet.

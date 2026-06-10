@@ -9,6 +9,7 @@ tags = ['condiments']
 From [The Spruce Eats](https://www.thespruceeats.com/classic-tartar-sauce-3060561).
 
 ## Ingredients
+
 * ½ cup mayonnaise
 * 1 ½ tablespoons dill pickles, or cornichons, finely chopped
 * 1 tablespoon chopped fresh dill, or 1 teaspoon dried dill
@@ -20,6 +21,9 @@ From [The Spruce Eats](https://www.thespruceeats.com/classic-tartar-sauce-306056
 * Pinch freshly ground black pepper, or to taste
 
 ## Directions
+
 * Gather the ingredients.
-* In a small bowl, combine the mayonnaise, dill pickles, dill, lemon juice, mustard, minced onion (if using), capers, salt, and pepper. Stir to blend the ingredients thoroughly. Taste and adjust the seasonings as desired.
+* In a small bowl, combine the mayonnaise, dill pickles, dill, lemon juice, mustard, minced onion
+  (if using), capers, salt, and pepper. Stir to blend the ingredients thoroughly. Taste and adjust
+  the seasonings as desired.
 * Refrigerate the tartar sauce until serving time.

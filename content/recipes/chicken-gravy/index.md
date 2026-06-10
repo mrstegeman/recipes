@@ -7,11 +7,13 @@ tags = ['condiments']
 +++
 
 ## Ingredients
+
 * 4 tablespoons butter
 * 6 tablespoons Pamela's Artisan Flour
 * 4 cups chicken broth
 
 ## Directions
+
 * Melt butter over medium heat.
 * Mix in flour.
 * Continue cooking and stirring until smooth and bubbly.

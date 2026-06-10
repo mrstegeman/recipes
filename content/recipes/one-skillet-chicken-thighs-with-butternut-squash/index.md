@@ -7,9 +7,11 @@ archive = true
 tags = ['meat']
 +++
 
-From [Eat Your Beets](https://www.eatyourbeets.com/vegetables/one-skillet-chicken-thighs-with-butternut-squash/).
+From
+[Eat Your Beets](https://www.eatyourbeets.com/vegetables/one-skillet-chicken-thighs-with-butternut-squash/).
 
 ## Ingredients
+
 * ½ lb of Nitrate Free Bacon
 * 6 Boneless, Skinless Chicken Thighs
 * 2-3 cup Butternut Squash (cubed)
@@ -18,10 +20,12 @@ From [Eat Your Beets](https://www.eatyourbeets.com/vegetables/one-skillet-chicke
 * Salt & Pepper to taste (remember the bacon will be salty so use salt sparingly)
 
 ## Directions
+
 * Preheat oven to 425.
 * In a large skillet, over medium heat, fry bacon until crispy.
 * Set bacon aside & crumble when cooled.
-* In the same skillet, sauté cubed butternut squash in bacon grease until soft. Season to taste with salt & pepper. Once squash is soft, remove from skillet & place on a plate.
+* In the same skillet, sauté cubed butternut squash in bacon grease until soft. Season to taste with
+  salt & pepper. Once squash is soft, remove from skillet & place on a plate.
 * Add coconut oil to your skillet if the bacon grease looks low.
 * Add chicken thighs, top down in the skillet & cook for 10 minutes.
 * Lightly season the thighs with salt & pepper.

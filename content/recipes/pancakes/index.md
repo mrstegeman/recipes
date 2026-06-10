@@ -6,6 +6,7 @@ tags = ['breakfast']
 +++
 
 ## Ingredients
+
 * 1 bag of pancake mix
 * 1 can Zevia
 * 1.5 cups milk

@@ -9,6 +9,7 @@ tags = ['condiments']
 From [The Spruce Eats](https://www.thespruceeats.com/thai-peanut-sauce-3377656).
 
 ## Ingredients
+
 * ¼ cup peanut butter
 * ¼ cup water
 * 2 tablespoons soy sauce
@@ -18,6 +19,9 @@ From [The Spruce Eats](https://www.thespruceeats.com/thai-peanut-sauce-3377656).
 * 1 teaspoon sugar, more to taste
 
 ## Directions
+
 * Gather the ingredients.
-* Combine all of the ingredients in a saucepan over low heat. The mixture will become easy to combine as the peanut butter melts.
-* Continue stirring over low heat until the ingredients are combined and the mixture is smooth and creamy.​ Serve warm or at room temperature. The sauce will thicken as it cools.
+* Combine all of the ingredients in a saucepan over low heat. The mixture will become easy to
+  combine as the peanut butter melts.
+* Continue stirring over low heat until the ingredients are combined and the mixture is smooth and
+  creamy.​ Serve warm or at room temperature. The sauce will thicken as it cools.

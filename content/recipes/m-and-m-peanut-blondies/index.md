@@ -6,6 +6,7 @@ tags = ['dessert']
 +++
 
 ## Ingredients
+
 * 1 cup flour
 * ½ tsp baking powder
 * ⅛ tsp baking soda
@@ -17,6 +18,7 @@ tags = ['dessert']
 * 1 ¼ cup M&M's peanut candies
 
 ## Directions
+
 * Preheat oven to 350°.
 * Line an 8x8 inch pan with parchment paper and lightly grease.
 * Sift together flour, baking powder, baking soda, and salt.

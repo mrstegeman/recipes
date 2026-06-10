@@ -9,6 +9,7 @@ tags = ['pasta']
 From [Vegan Richa](https://www.veganricha.com/vegan-pumpkin-sage-pasta/).
 
 ## Ingredients
+
 * (pasta) 6 to 8 oz (170 to 226 g) Rotini or Fusilli pasta
 * (pasta) 1 tsp extra virgin oil
 * (pasta) 8 sage leaves chopped
@@ -25,8 +26,15 @@ From [Vegan Richa](https://www.veganricha.com/vegan-pumpkin-sage-pasta/).
 * (topping) a generous pinch of salt and pepper
 
 ## Directions
+
 * Cook the pasta according to instructions. Drain and keep aside.
-* In a large skillet, heat oil at medium low heat. Add Sage, thyme and garlic and cook until garlic and herbs change color slightly. Stir frequently to avoid burning. At this point you can add in veggies or mushrooms and cook until golden.
-* Add tomato paste and pumpkin and mix in. Add milk, salt and pepper and mix in. Bring to a boil. Taste and adjust salt.
+* In a large skillet, heat oil at medium low heat. Add Sage, thyme and garlic and cook until garlic
+  and herbs change color slightly. Stir frequently to avoid burning. At this point you can add in
+  veggies or mushrooms and cook until golden.
+* Add tomato paste and pumpkin and mix in. Add milk, salt and pepper and mix in. Bring to a boil.
+  Taste and adjust salt.
 * Add cooked pasta, toss well. Cover and take off heat. Let sit for a few minutes.
-* Make the topping. In a small skillet, add oil and heat at medium. Add sage and cook for half a minute. Add breadcrumbs or coarsely chopped nuts and cook until golden and toasted. Add salt and pepper and mix in. Use to garnish the pasta generously. You can also sprinkle some pepita parm or other nut based parm.
+* Make the topping. In a small skillet, add oil and heat at medium. Add sage and cook for half a
+  minute. Add breadcrumbs or coarsely chopped nuts and cook until golden and toasted. Add salt and
+  pepper and mix in. Use to garnish the pasta generously. You can also sprinkle some pepita parm or
+  other nut based parm.

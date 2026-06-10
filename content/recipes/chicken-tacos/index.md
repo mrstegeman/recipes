@@ -7,6 +7,7 @@ tags = ['mexican']
 +++
 
 ## Ingredients
+
 * chicken thighs
 * avocado oil
 * cumin
@@ -23,6 +24,7 @@ tags = ['mexican']
 * red cabbage
 
 ## Directions
+
 * Chop chicken thighs into small chunks.
 * Season chicken with spices.
 * Heat avocado oil in skillet over medium-high heat.

@@ -9,6 +9,7 @@ tags = ['sides']
 From [Insanely Good](https://insanelygoodrecipes.com/grandmas-macaroni-salad/).
 
 ## Ingredients
+
 * 8 ounces elbow macaroni (cooked and drained)
 * 1 cup chopped celery
 * ½ cup chopped green bell pepper
@@ -22,7 +23,10 @@ From [Insanely Good](https://insanelygoodrecipes.com/grandmas-macaroni-salad/).
 * ¼ tsp ground black pepper
 
 ## Directions
+
 * In a large bowl, mix in the macaroni, celery, bell pepper, and onion.
-* In a separate bowl, whisk together the mayonnaise, apple cider vinegar, mustard, sugar, salt, and pepper until combined. Pour the mixture into the macaroni and vegetables. Mix well until everything is thoroughly coated in the dressing.
+* In a separate bowl, whisk together the mayonnaise, apple cider vinegar, mustard, sugar, salt, and
+  pepper until combined. Pour the mixture into the macaroni and vegetables. Mix well until
+  everything is thoroughly coated in the dressing.
 * Refrigerate for at least 4 hours before serving. Preferably overnight.
 * Stir before serving.

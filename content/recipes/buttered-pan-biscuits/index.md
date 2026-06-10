@@ -9,6 +9,7 @@ tags = ['bread']
 From [Call Me PMc](https://www.callmepmc.com/buttered-pan-biscuits/).
 
 ## Ingredients
+
 * 5 Tablespoons butter
 * 2 ½ cups all-purpose flour
 * 4 teaspoons granulated sugar
@@ -17,6 +18,7 @@ From [Call Me PMc](https://www.callmepmc.com/buttered-pan-biscuits/).
 * 1 ⅔ cups buttermilk
 
 ## Directions
+
 * Preheat oven to 450°. Melt butter in an 8×8-inch dish.
 * Add all dry ingredients to a bowl. Add buttermilk and stir until just combined. Don't over stir.
 * Pour dough into the dish with melted butter and press flat. Score into squares.

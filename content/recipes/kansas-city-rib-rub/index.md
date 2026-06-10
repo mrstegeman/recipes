@@ -7,6 +7,7 @@ tags = ['bbq', 'seasonings']
 +++
 
 ## Ingredients
+
 * ½ cup brown sugar
 * ¼ cup paprika
 * 1 tablespoon black pepper
@@ -17,4 +18,5 @@ tags = ['bbq', 'seasonings']
 * 1 teaspoon cayenne pepper
 
 ## Directions
+
 * Combine all ingredients.

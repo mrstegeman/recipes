@@ -6,6 +6,7 @@ tags = ['breakfast']
 +++
 
 ## Ingredients
+
 * 6 eggs
 * 2 tablespoons soft butter
 * 1 tablespoon coconut milk
@@ -14,6 +15,7 @@ tags = ['breakfast']
 * chives
 
 ## Directions
+
 * Crack eggs into sauce pan, add pads of butter.
 * Put on stove on high, mixing rapidly, for 30 seconds.
 * Take off heat for 30 seconds, continue stirring.

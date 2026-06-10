@@ -6,6 +6,7 @@ tags = ['mexican']
 +++
 
 ## Ingredients
+
 * AP Chicken
 * Red Enchilada Sauce (large can)
 * Chopped or diced olives
@@ -19,6 +20,7 @@ tags = ['mexican']
 * Green onions
 
 ## Directions
+
 * Spoon a bit of enchilada sauce and chicken into a 9x13 baking dish.
 * Line with a single layer of tortillas (7).
 * Layer beans on top, followed by chicken, then olives and green chiles.

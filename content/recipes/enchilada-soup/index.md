@@ -29,7 +29,7 @@ From [Jessica in the Kitchen](https://jessicainthekitchen.com/enchilada-soup/).
 * 1 tablespoon lime juice, 15 ml
 * ¼ cup chopped fresh cilantro, 4 g
 
-### Optional Toppings:
+### Optional Toppings
 
 * Sliced avocado
 * Dairy-free sour cream
@@ -39,9 +39,14 @@ From [Jessica in the Kitchen](https://jessicainthekitchen.com/enchilada-soup/).
 
 ## Directions
 
-* Heat the olive oil in a large pot over medium heat. Add the diced onion and cook for 3-4 minutes until softened. Stir in the garlic and jalapeño and cook for another minute.
-* Stir in the cumin, chili powder, smoked paprika, oregano, salt, and black pepper. Cook for 30 seconds until fragrant.
-* Pour in the fire-roasted diced tomatoes, diced tomatoes with green chilies, black beans, corn, vegan chicken pieces, vegetable broth, and enchilada sauce. Stir well to combine.
-* Bring the soup to a boil, then reduce the heat to low and let it simmer covered for 20 minutes, stirring occasionally.
+* Heat the olive oil in a large pot over medium heat. Add the diced onion and cook for 3-4 minutes
+  until softened. Stir in the garlic and jalapeño and cook for another minute.
+* Stir in the cumin, chili powder, smoked paprika, oregano, salt, and black pepper. Cook for 30
+  seconds until fragrant.
+* Pour in the fire-roasted diced tomatoes, diced tomatoes with green chilies, black beans, corn,
+  vegan chicken pieces, vegetable broth, and enchilada sauce. Stir well to combine.
+* Bring the soup to a boil, then reduce the heat to low and let it simmer covered for 20 minutes,
+  stirring occasionally.
 * Stir in the lime juice and fresh cilantro. Taste and adjust salt or spices if necessary.
-* Serve hot with your favorite toppings like avocado, dairy-free sour cream, tortilla chips, or shredded vegan cheddar cheese.
+* Serve hot with your favorite toppings like avocado, dairy-free sour cream, tortilla chips, or
+  shredded vegan cheddar cheese.

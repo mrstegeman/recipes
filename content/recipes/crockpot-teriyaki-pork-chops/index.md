@@ -7,6 +7,7 @@ tags = ['freezer meals']
 +++
 
 ## Ingredients
+
 * 4 pork chops, about 1 inch thick
 * 2 garlic cloves, minced
 * 2 tablespoons brown sugar
@@ -15,6 +16,7 @@ tags = ['freezer meals']
 * salt and pepper
 
 ## Directions
+
 * Sprinkle salt and pepper onto pork chops.
 * Place pork chops into gallon sized freezer bag.
 * In a small bowl, mix garlic, brown sugar, soy sauce, and chicken broth together. Add to bag.

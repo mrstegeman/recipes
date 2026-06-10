@@ -9,6 +9,7 @@ tags = ['condiments']
 From [House of Yumm](https://houseofyumm.com/copycat-chick-fil-a-sauce/).
 
 ## Ingredients
+
 * ¼ cup mayonnaise
 * 2 tablespoons honey
 * 1 tablespoon yellow mustard
@@ -17,5 +18,6 @@ From [House of Yumm](https://houseofyumm.com/copycat-chick-fil-a-sauce/).
 * 2 tablespoons BBQ sauce
 
 ## Directions
+
 * Whisk together mayonnaise, honey, mustards, lemon juice and BBQ sauce.
 * Store in refrigerator in a closed container.

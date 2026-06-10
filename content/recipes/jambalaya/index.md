@@ -7,6 +7,7 @@ tags = ['cajun']
 +++
 
 ## Ingredients
+
 * 1 ½ cups white rice
 * 1 lb spicy smoked sausage
 * 1 lb shrimp, peeled and deveined
@@ -16,6 +17,7 @@ tags = ['cajun']
 * 2 tablespoons creole seasoning
 
 ## Directions
+
 * Cut the smoked sausage in half lengthwise, then into ¼" half circles.
 * Add all ingredients to rice cooker and mix well.
 * Set to white rice/cook.

@@ -7,6 +7,7 @@ tags = ['meat']
 +++
 
 ## Ingredients
+
 * boneless skinless chicken breasts or thighs
 * kosher salt
 * black pepper
@@ -16,6 +17,7 @@ tags = ['meat']
 * italian seasoning
 
 ## Directions
+
 * Put chicken in slow cooker.
 * Season liberally.
 * Add enough water to cover the bottom of the slow cooker.

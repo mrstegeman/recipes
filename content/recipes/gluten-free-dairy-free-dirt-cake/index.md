@@ -10,7 +10,8 @@ From [iowa girl eats](https://iowagirleats.com/gluten-free-dairy-free-dirt-cake/
 
 ## Ingredients
 
-### For the Vanilla Pudding:
+### For the Vanilla Pudding
+
 * ⅓ cup sugar
 * 2 Tablespoons gluten-free cornstarch (I use Argo)
 * ¼ teaspoon salt
@@ -19,7 +20,8 @@ From [iowa girl eats](https://iowagirleats.com/gluten-free-dairy-free-dirt-cake/
 * 3 Tablespoons Earth Balance Vegan Butter
 * 2 teaspoons vanilla
 
-### For the Dirt Cake:
+### For the Dirt Cake
+
 * 4oz vegan cream cheese, room temperature
 * 9oz coconut cool whip (I used So Delicious CocoWhip)
 * ½ cup powdered sugar
@@ -30,9 +32,22 @@ From [iowa girl eats](https://iowagirleats.com/gluten-free-dairy-free-dirt-cake/
 * Gummy worms, for decoration
 
 ## Directions
-* For the vanilla pudding: Place a fine mesh strainer over a large glass bowl then set aside. Add sugar, cornstarch, and salt to a medium-sized saucepan then whisk to combine. Add ¼ cup almond milk then whisk vigorously until smooth. Add egg yolks then whisk until smooth. Add remaining 1 cup milk then whisk until smooth.
-* Place saucepan over medium heat then cook, whisking often, until pudding begins to thicken and bubble (this will happen all of the sudden.) Turn heat down to low then switch to a spatula and cook until pudding has thickened, 4-5 minutes. Remove pan from heat then stir in vegan butter and vanilla, and then pour pudding through fine mesh sieve to strain.
-* Place a piece of saran wrap directly over the pudding to prevent a skin from forming on top then refrigerate until set, 2 hours.
-* For the Dirt Cake: Whisk vegan cream cheese in a large bowl to ensure it's entirely smooth. Add coconut cool whip then whisk until smooth. Add powdered sugar, vegan butter, and vanilla then whisk until smooth. Add homemade pudding then whisk until smooth.
-* Add chocolate sandwich cookies to a food processor then process until smooth. Alternatively you could add them to a large Ziplock bag then roll with a rolling pin until smooth.
-* Layer ingredients in a 1 ½ - 2 quart sized glass bowl: ¼ cup cookie crumbs, 2 cups pudding filling, ¾ cup cookie crumbs, remaining pudding filling, and remaining cookie crumbs. Refrigerate overnight then top with gummy worms and serve.
+
+* For the vanilla pudding: Place a fine mesh strainer over a large glass bowl then set aside. Add
+  sugar, cornstarch, and salt to a medium-sized saucepan then whisk to combine. Add ¼ cup almond
+  milk then whisk vigorously until smooth. Add egg yolks then whisk until smooth. Add remaining 1
+  cup milk then whisk until smooth.
+* Place saucepan over medium heat then cook, whisking often, until pudding begins to thicken and
+  bubble (this will happen all of the sudden.) Turn heat down to low then switch to a spatula and
+  cook until pudding has thickened, 4-5 minutes. Remove pan from heat then stir in vegan butter and
+  vanilla, and then pour pudding through fine mesh sieve to strain.
+* Place a piece of saran wrap directly over the pudding to prevent a skin from forming on top then
+  refrigerate until set, 2 hours.
+* For the Dirt Cake: Whisk vegan cream cheese in a large bowl to ensure it's entirely smooth. Add
+  coconut cool whip then whisk until smooth. Add powdered sugar, vegan butter, and vanilla then
+  whisk until smooth. Add homemade pudding then whisk until smooth.
+* Add chocolate sandwich cookies to a food processor then process until smooth. Alternatively you
+  could add them to a large Ziplock bag then roll with a rolling pin until smooth.
+* Layer ingredients in a 1 ½ - 2 quart sized glass bowl: ¼ cup cookie crumbs, 2 cups pudding
+  filling, ¾ cup cookie crumbs, remaining pudding filling, and remaining cookie crumbs. Refrigerate
+  overnight then top with gummy worms and serve.

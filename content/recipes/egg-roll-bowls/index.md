@@ -9,6 +9,7 @@ tags = ['dinner']
 From [delish](https://www.delish.com/cooking/recipe-ideas/recipes/a56236/egg-roll-bowls-recipe/).
 
 ## Ingredients
+
 * 1 tbsp. vegetable oil
 * 1 clove garlic, minced
 * 1 tbsp. minced fresh ginger
@@ -23,6 +24,9 @@ From [delish](https://www.delish.com/cooking/recipe-ideas/recipes/a56236/egg-rol
 * 1 tbsp. sesame seeds
 
 ## Directions
-* In a large skillet over medium heat, heat vegetable oil. Add garlic and ginger and cook until fragrant, 1 to 2 minutes. Add pork and cook until no pink remains.
-* Push pork to the side and add sesame oil. Add onion, carrot, and cabbage. Stir to combine with meat and add soy sauce and Sriracha. Cook until cabbage is tender, 5 to 8 minutes.
+
+* In a large skillet over medium heat, heat vegetable oil. Add garlic and ginger and cook until
+  fragrant, 1 to 2 minutes. Add pork and cook until no pink remains.
+* Push pork to the side and add sesame oil. Add onion, carrot, and cabbage. Stir to combine with
+  meat and add soy sauce and Sriracha. Cook until cabbage is tender, 5 to 8 minutes.
 * Transfer mixture to a serving dish and garnish with green onions and sesame seeds. Serve.

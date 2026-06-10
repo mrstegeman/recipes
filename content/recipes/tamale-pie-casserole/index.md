@@ -6,6 +6,7 @@ tags = ['mexican']
 +++
 
 ## Ingredients
+
 * (topping) 2 cups all-purpose flour
 * (topping) 1 ½ cups cornmeal
 * (topping) 6 Tbsp sugar
@@ -30,10 +31,14 @@ tags = ['mexican']
 * (filling) 1 heaping spoonful of chiles in adobo
 
 ## Directions
-* In a mixing bowl, combine the flour, cornmeal, sugar, salt, and baking powder. In a separate small bowl, combine the lightly beaten egg and milk.
-* Set aside, with the dry and wet ingredients still uncombined, while you prepare the casserole filling.
+
+* In a mixing bowl, combine the flour, cornmeal, sugar, salt, and baking powder. In a separate small
+  bowl, combine the lightly beaten egg and milk.
+* Set aside, with the dry and wet ingredients still uncombined, while you prepare the casserole
+  filling.
 * In a skillet, brown the ground beaf with the chopped onion and garlic over medium heat; drain.
-* Add the rest of the filling ingredients to the skillet. Reduce heat to low and let simmer for about 8 to 10 minutes.
+* Add the rest of the filling ingredients to the skillet. Reduce heat to low and let simmer for
+  about 8 to 10 minutes.
 * Split filling between 2 greased 9x13 pans.
 * Top with cornbread mix.
 * Bake at 350 until cornbread is done.

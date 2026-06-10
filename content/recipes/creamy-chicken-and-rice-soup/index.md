@@ -7,6 +7,7 @@ tags = ['freezer meals']
 +++
 
 ## Ingredients
+
 * 6 cups chicken stock
 * 2 chicken breasts
 * 2 bay leaves
@@ -24,6 +25,7 @@ tags = ['freezer meals']
 * (when cooking) ¾ cup long grain rice (not quick cooking)
 
 ## Directions
+
 * Add everything to a freezer bag and freeze for up to 3 months.
 * To cook -- Take out of freezer the night before.
 * Add to crockpot and cook on low for 8 hours.

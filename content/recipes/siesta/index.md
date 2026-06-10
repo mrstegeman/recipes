@@ -9,6 +9,7 @@ tags = ['drinks']
 From [Thrillist](https://www.thrillist.com/recipe/siesta-cocktail-recipe).
 
 ## Ingredients
+
 * 2 oz Silver Tequila
 * 0.5 oz Lime Juice
 * 0.5 oz Grapefruit Juice
@@ -17,6 +18,7 @@ From [Thrillist](https://www.thrillist.com/recipe/siesta-cocktail-recipe).
 * Grapefruit Twist, for garnish
 
 ## Directions
+
 * Add all ingredients except for the garnish to a shaker tin with ice.
 * Shake and strain with a Hawthorne strainer into a chilled coupe glass.
 * Express a grapefruit twist over the cocktail and drop into the drink for a garnish.

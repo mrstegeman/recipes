@@ -10,6 +10,7 @@ tags = ['breakfast']
 From [Meaningful Eats](https://meaningfuleats.com/sausage-hashbrown-breakfast-casserole/).
 
 ## Ingredients
+
 * 1 lb pork breakfast sausage
 * ¾ cup red pepper, diced
 * ¾ cup onion, diced
@@ -22,8 +23,13 @@ From [Meaningful Eats](https://meaningfuleats.com/sausage-hashbrown-breakfast-ca
 * 1 cup shredded sharp cheddar, or ½ cup dairy-free cheese, plus more for topping
 
 ## Directions
+
 * Preheat the oven to 350F. Lightly grease a 9x13 baking dish.
-* Heat a skillet over medium-high heat. Add the sausage, onion and red pepper. Break up sausage into small pieces and cook until the vegetables have softened and the sausage is no longer pink. Drain any excess grease.
+* Heat a skillet over medium-high heat. Add the sausage, onion and red pepper. Break up sausage into
+  small pieces and cook until the vegetables have softened and the sausage is no longer pink. Drain
+  any excess grease.
 * Add the spinach and cook for another 1-2 minutes. Remove from the heat and let cool slightly.
-* In a large bowl combine the remaining ingredients. Add the sausage mixture and mix until totally combined. Pour into the prepared baking dish. Top with the remaining cheese. At this point you can either bake the casserole or refrigerate the casserole and bake the next day.
+* In a large bowl combine the remaining ingredients. Add the sausage mixture and mix until totally
+  combined. Pour into the prepared baking dish. Top with the remaining cheese. At this point you can
+  either bake the casserole or refrigerate the casserole and bake the next day.
 * Bake for 25-30 minutes, uncovered until the eggs are set. Let cool slightly before serving. Enjoy!

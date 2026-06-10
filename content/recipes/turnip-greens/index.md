@@ -6,6 +6,7 @@ tags = ['sides']
 +++
 
 ## Ingredients
+
 * Olive oil
 * 1 onion, sliced
 * 1 bunch turnip greens, chopped
@@ -17,6 +18,7 @@ tags = ['sides']
 * ¼ cup water
 
 ## Directions
+
 * Sauté onions in olive oil.
 * Add half of the greens and cook down before adding other half. Add garlic.
 * Season as desired.

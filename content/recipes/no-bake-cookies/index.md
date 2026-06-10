@@ -6,6 +6,7 @@ tags = ['dessert']
 +++
 
 ## Ingredients
+
 * 2 cups sugar
 * ¼ cup cocoa
 * ½ cup milk
@@ -15,6 +16,7 @@ tags = ['dessert']
 * 3 cups rolled oats
 
 ## Directions
+
 * Bring sugar, cocoa, milk, and margarine to a boil.
 * Remove from heat, then add vanilla, peanut butter, and oats.
 * Mix and put on a cookie sheet to cool.

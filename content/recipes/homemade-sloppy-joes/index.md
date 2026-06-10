@@ -7,11 +7,13 @@ archive = true
 tags = ['meat']
 +++
 
-Note: The longer the mixture cooks, the thicker it will get. You want the sloppy joes to be thick enough to stand up on a wooden spoon so they don't ooze out of the hamburger bun.
+Note: The longer the mixture cooks, the thicker it will get. You want the sloppy joes to be thick
+enough to stand up on a wooden spoon so they don't ooze out of the hamburger bun.
 
 From [Fox Valley Foodie](https://www.foxvalleyfoodie.com/homemade-sloppy-joes-better-manwich/).
 
 ## Ingredients
+
 * 2 pounds extra lean ground beef
 * ½ onion (diced)
 * 1 green pepper (small diced)
@@ -28,6 +30,8 @@ From [Fox Valley Foodie](https://www.foxvalleyfoodie.com/homemade-sloppy-joes-be
 * 8 hamburger buns for serving
 
 ## Directions
+
 * Add ground beef and onions to a skillet and cook until beef is browned.
-* Add all remaining ingredients (except for buns) and cook for 20-25 minutes, or until beef is crumbly and liquid has formed a thick sauce.
+* Add all remaining ingredients (except for buns) and cook for 20-25 minutes, or until beef is
+  crumbly and liquid has formed a thick sauce.
 * Serve on hamburger buns.

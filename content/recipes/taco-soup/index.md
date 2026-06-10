@@ -8,6 +8,7 @@ tags = ['soup']
 Adapted from [Paula Deen's recipe](https://www.food.com/recipe/taco-soup-paula-deen-111231).
 
 ## Ingredients
+
 * 4 cups chicken broth
 * 2 lbs ground beef or chicken
 * 2 cups diced onions
@@ -38,8 +39,12 @@ Adapted from [Paula Deen's recipe](https://www.food.com/recipe/taco-soup-paula-d
 * Pickled jalapeños, for garnish
 
 ## Directions
-* Brown the ground beef and onions in a large skillet; drain off excess fat and transfer browned beef and onions to a large slow cooker or stockpot.
-* Add the beans, corn, tomatoes (I like to mash all of the tomato products before I put them in the stockpot -- sometimes there are very large chunks of tomatoes, especially in the stewed tomatoes), green chilies, black olives, green olives, taco seasoning and ranch dressing mix.
+
+* Brown the ground beef and onions in a large skillet; drain off excess fat and transfer browned
+  beef and onions to a large slow cooker or stockpot.
+* Add the beans, corn, tomatoes (I like to mash all of the tomato products before I put them in the
+  stockpot -- sometimes there are very large chunks of tomatoes, especially in the stewed tomatoes),
+  green chilies, black olives, green olives, taco seasoning and ranch dressing mix.
 * Simmer over low heat for about 1 hour (or 6-8 hours on low setting in crock pot).
 * To serve, place a few corn chips in each bowl and ladle soup over them.
 * Top with green onions and jalapeños.

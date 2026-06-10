@@ -30,6 +30,10 @@ From [Eat Your Beets](https://www.eatyourbeets.com/best-vegan-fall-harvest-salad
 * Preheat oven to 400°F.
 * Drain and rinse chickpeas. Place them on a baking sheet. Use a paper towel to pat them dry.
 * Dice the sweet potatoes and place them on the same baking sheet.
-* Drizzle over the olive oil, onion powder, garlic powder and chili powder. Mix to combine and bake for 25 minutes.
-* To make the dressing, start by putting the olive oil into a small bowl. Whisk continuously while adding in the remaining dressing ingredients. If you need to thin out the dressing, add a small amount of warm water.
-* Remove the sweet potatoes and chickpeas from the oven, dice the avocado, plate the salad and enjoy!
+* Drizzle over the olive oil, onion powder, garlic powder and chili powder. Mix to combine and bake
+  for 25 minutes.
+* To make the dressing, start by putting the olive oil into a small bowl. Whisk continuously while
+  adding in the remaining dressing ingredients. If you need to thin out the dressing, add a small
+  amount of warm water.
+* Remove the sweet potatoes and chickpeas from the oven, dice the avocado, plate the salad and
+  enjoy!

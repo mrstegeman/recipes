@@ -6,14 +6,17 @@ archive = true
 tags = ['glaze']
 +++
 
-From [Kitchn](https://www.thekitchn.com/five-3-ingredient-glazes-for-a-whole-ham-tips-from-the-kitchn-217372).
+From
+[Kitchn](https://www.thekitchn.com/five-3-ingredient-glazes-for-a-whole-ham-tips-from-the-kitchn-217372).
 
 ## Ingredients
+
 * ⅔ cup molasses (not blackstrap)
 * ⅓ cup bourbon
 * ¼ teaspoon cloves
 
 ## Directions
+
 * Whisk ingredients together in a medium saucepan over medium heat and bring to a full boil.
 * Continue to cook at a lively simmer for three to five minutes, until thickened slightly.
 * Let cool to room temperature.

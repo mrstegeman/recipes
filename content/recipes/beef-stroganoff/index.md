@@ -7,6 +7,7 @@ tags = ['pasta']
 +++
 
 ## Ingredients
+
 * 2 lbs ground beef
 * 2 tablespoons butter
 * 2 onions, sliced
@@ -24,6 +25,7 @@ tags = ['pasta']
 * noodles of choice
 
 ## Directions
+
 * Combine cocounut milk with lemon juice. Stir. Let sit.
 * In skillet, melt butter over medium-high heat.
 * Sauté onions and brown hamburger with salt and pepper. Drain and set aside.

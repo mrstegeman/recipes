@@ -6,6 +6,7 @@ tags = ['sides']
 +++
 
 ## Ingredients
+
 * ½ cup bacon bits
 * 1 medium onion, chopped
 * 1 cup ketchup
@@ -17,5 +18,6 @@ tags = ['sides']
 * ½ cup water
 
 ## Directions
+
 * Cook onions in skillet in butter over medium heat until tender.
 * In slow cooker, mix together all ingredients. Cook on low for 3-4 hours.

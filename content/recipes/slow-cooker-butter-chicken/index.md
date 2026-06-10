@@ -10,6 +10,7 @@ tags = ['chicken']
 From [The Fitnessista](https://fitnessista.com/slow-cooker-butter-chicken-and-vegan-option/).
 
 ## Ingredients
+
 * 1.5 lbs boneless chicken thighs, washed and cut into bite-sized pieces
 * 1 large sweet onion, diced
 * 1 can tomato sauce (8 oz)
@@ -27,9 +28,13 @@ From [The Fitnessista](https://fitnessista.com/slow-cooker-butter-chicken-and-ve
 * Cilantro, for garnish
 
 ## Directions
-* Brown the chicken on the stove (in butter or olive oil) for about 10 minutes, seasoning well with salt and pepper.
-* While the chicken is browning, add the onion, tomatoes, tomato sauce, green chiles, tomato paste, cinnamon, cumin, coriander, ginger and garlic into the slow cooker.
-* Top the slow cooker ingredients with the browned chicken and stir well. Season with salt and pepper before covering.
+
+* Brown the chicken on the stove (in butter or olive oil) for about 10 minutes, seasoning well with
+  salt and pepper.
+* While the chicken is browning, add the onion, tomatoes, tomato sauce, green chiles, tomato paste,
+  cinnamon, cumin, coriander, ginger and garlic into the slow cooker.
+* Top the slow cooker ingredients with the browned chicken and stir well. Season with salt and
+  pepper before covering.
 * Set the slow cooker to cook on low for 4-6 hours.
 * Before serving, stir in the almond milk and butter, then garnish with chopped cilantro.
 * Enjoy over rice or sautéed veggies!

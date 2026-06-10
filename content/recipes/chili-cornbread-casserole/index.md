@@ -47,10 +47,16 @@ From [Nora Cooks](https://www.noracooks.com/chili-cornbread-casserole/)
 ## Directions
 
 * Preheat oven to 375° and grease a 9×13 inch dish.
-* In a large pot, warm the olive oil over medium heat. Add the diced onion and sauté for about 5 minutes, until translucent. Add the green bell pepper and garlic, and cook for 1-2 more minutes.
-* Now add the chili powder, cumin, smoked paprika, cocoa powder, crushed tomatoes, TVP (or lentils), black beans and 2 cups of the broth. Stir well to combine and bring to a boil.
-* Lower heat and simmer for 20-30 minutes, until the TVP has softened (or lentils are cooked) and the chili has thickened. If it's too thick, add a little more broth, but you want it pretty thick. Add salt to taste.
-* In a medium-sized bowl, combine the flour, cornmeal, sugar, salt and baking powder and stir. Pour the milk and oil into the bowl and stir until well combined.
+* In a large pot, warm the olive oil over medium heat. Add the diced onion and sauté for about 5
+  minutes, until translucent. Add the green bell pepper and garlic, and cook for 1-2 more minutes.
+* Now add the chili powder, cumin, smoked paprika, cocoa powder, crushed tomatoes, TVP (or lentils),
+  black beans and 2 cups of the broth. Stir well to combine and bring to a boil.
+* Lower heat and simmer for 20-30 minutes, until the TVP has softened (or lentils are cooked) and
+  the chili has thickened. If it's too thick, add a little more broth, but you want it pretty thick.
+  Add salt to taste.
+* In a medium-sized bowl, combine the flour, cornmeal, sugar, salt and baking powder and stir. Pour
+  the milk and oil into the bowl and stir until well combined.
 * Transfer the chili to the baking dish. Pour the cornbread batter all over the top of the chili.
-* Bake, uncovered, for 30-40 minutes or until the cornbread is cooked and a toothpick inserted in the middle comes out clean.
+* Bake, uncovered, for 30-40 minutes or until the cornbread is cooked and a toothpick inserted in
+  the middle comes out clean.
 * Serve immediately with toppings of choice. Enjoy!

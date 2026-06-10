@@ -9,13 +9,16 @@ tags = ['pasta']
 From [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/air-fryer-gnocchi/).
 
 ## Ingredients
+
 * 1 lb gnocchi
 * 1 tablespoon olive oil
 * ½ teaspoon salt
 * ½ teaspoon garlic powder
 
 ## Directions
+
 * Heat air fryer to 200°C/390°F.
 * Toss gnocchi with olive oil, salt and garlic powder until evenly coated.
 * Transfer gnocchi to the air fryer basket.
-* Cook for a total time of 13 minutes, shaking 3-4 times during the cooking process. Gnocchi should be golden and crispy.
+* Cook for a total time of 13 minutes, shaking 3-4 times during the cooking process. Gnocchi should
+  be golden and crispy.

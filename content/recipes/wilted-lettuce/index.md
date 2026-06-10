@@ -6,6 +6,7 @@ tags = ['sides']
 +++
 
 ## Ingredients
+
 * Olive oil
 * 1 onion, sliced
 * ¼ cup apple cider vinegar
@@ -15,6 +16,7 @@ tags = ['sides']
 * 8 cups torn lettuce
 
 ## Directions
+
 * Sauté onions in olive oil.
 * Stir in vinegar, water, salt, and pepper.
 * After mixture is hot, pour over lettuce and toss until coated and wilted.

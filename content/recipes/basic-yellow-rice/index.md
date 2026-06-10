@@ -8,6 +8,7 @@ tags = ['sides']
 From [allrecipes](https://www.allrecipes.com/recipe/273232/basic-yellow-rice/).
 
 ## Ingredients
+
 * 2 tablespoons unsalted butter
 * 3 large shallots, chopped (Optional)
 * 2 cups uncooked jasmine rice, rinsed and drained
@@ -20,5 +21,9 @@ From [allrecipes](https://www.allrecipes.com/recipe/273232/basic-yellow-rice/).
 * 3 ½ cups low-sodium chicken broth
 
 ## Directions
-* Heat butter in large, heavy saucepan over medium heat. Add shallots; cook and stir until softened and translucent, about 3 minutes. Pour in rice, garlic, salt, turmeric, coriander, cumin, and bay leaves. Continue to cook and stir for 3 minutes. Add chicken broth and bring to a boil. Reduce heat to low, cover, and cook until broth is absorbed and rice is tender, 20 to 25 minutes.
+
+* Heat butter in large, heavy saucepan over medium heat. Add shallots; cook and stir until softened
+  and translucent, about 3 minutes. Pour in rice, garlic, salt, turmeric, coriander, cumin, and bay
+  leaves. Continue to cook and stir for 3 minutes. Add chicken broth and bring to a boil. Reduce
+  heat to low, cover, and cook until broth is absorbed and rice is tender, 20 to 25 minutes.
 * Remove from heat. Discard bay leaves. Transfer to a bowl.

@@ -9,6 +9,7 @@ tags = ['pasta']
 From [ichi Sushi](https://ichisushi.com/baked-gnocchi-recipe/).
 
 ## Ingredients
+
 * 1 (16-oz) package shelf-stable gnocchi
 * 2 cups marinara sauce
 * 1 cup shredded mozzarella, divided
@@ -22,7 +23,9 @@ From [ichi Sushi](https://ichisushi.com/baked-gnocchi-recipe/).
 * Salt and pepper to taste
 
 ## Directions
-* Preheat oven to 400°F. Mix marinara, cream, garlic, Italian seasoning, red pepper flakes, ½ cup mozzarella, and Parmesan. Season to taste.
+
+* Preheat oven to 400°F. Mix marinara, cream, garlic, Italian seasoning, red pepper flakes, ½ cup
+  mozzarella, and Parmesan. Season to taste.
 * Toss gnocchi with olive oil in a 9×13-inch dish. Pour sauce over and gently combine.
 * Bake 25 minutes until bubbly.
 * Top with remaining mozzarella; broil 2–3 minutes until browned.

@@ -10,6 +10,7 @@ tags = ['meat', 'asian']
 From [Damn Delicious](https://damndelicious.net/2013/07/07/korean-beef-bowl/).
 
 ## Ingredients
+
 * ¼ cup brown sugar, packed
 * ¼ cup reduced sodium soy sauce
 * 2 teaspoons sesame oil
@@ -22,7 +23,11 @@ From [Damn Delicious](https://damndelicious.net/2013/07/07/korean-beef-bowl/).
 * ¼ teaspoon sesame seeds
 
 ## Directions
+
 * In a small bowl, whisk together brown sugar, soy sauce, sesame oil, red pepper flakes and ginger.
-* Heat vegetable oil in a large skillet over medium high heat. Add garlic and cook, stirring constantly, until fragrant, about 1 minute. Add ground beef and cook until browned, about 3-5 minutes, making sure to crumble the beef as it cooks; drain excess fat.
-* Stir in soy sauce mixture and green onions until well combined, allowing to simmer until heated through, about 2 minutes.
+* Heat vegetable oil in a large skillet over medium high heat. Add garlic and cook, stirring
+  constantly, until fragrant, about 1 minute. Add ground beef and cook until browned, about 3-5
+  minutes, making sure to crumble the beef as it cooks; drain excess fat.
+* Stir in soy sauce mixture and green onions until well combined, allowing to simmer until heated
+  through, about 2 minutes.
 * Serve immediately, garnished with green onion and sesame seeds, if desired.

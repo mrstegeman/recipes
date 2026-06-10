@@ -7,9 +7,11 @@ archive = true
 tags = ['meat']
 +++
 
-From [Genius Kitchen](https://www.geniuskitchen.com/recipe/korean-style-short-ribs-crock-pot-266161).
+From
+[Genius Kitchen](https://www.geniuskitchen.com/recipe/korean-style-short-ribs-crock-pot-266161).
 
 ## Ingredients
+
 * ½ cup low sodium soy sauce
 * ½ cup packed light brown sugar
 * 2 tablespoons sesame oil
@@ -25,7 +27,12 @@ From [Genius Kitchen](https://www.geniuskitchen.com/recipe/korean-style-short-ri
 * 3 cups cooked white rice
 
 ## Directions
+
 * Blend soy sauce, sugar, oil, vinegar, ginger, garlic and red pepper in bowl.
-* Place ribs in 5 quart slow cooker, add sauce. Cover, cook on High for 6 hours or Low for 9 hours, until meat is tender.
-* Transfer ribs to a platter. Skim and discard excess fat from liquid. Combine cornstarch and 3 tablespoons water; blend with liquid in a saucepan. Bring to a boil over high heat and cook for 2 minutes, stirring, until thickened. Stir in carrots. Top ribs with sauce, scallions and sesame seeds.
+* Place ribs in 5 quart slow cooker, add sauce. Cover, cook on High for 6 hours or Low for 9 hours,
+  until meat is tender.
+* Transfer ribs to a platter. Skim and discard excess fat from liquid. Combine cornstarch and 3
+  tablespoons water; blend with liquid in a saucepan. Bring to a boil over high heat and cook for 2
+  minutes, stirring, until thickened. Stir in carrots. Top ribs with sauce, scallions and sesame
+  seeds.
 * Serve over cooked rice.

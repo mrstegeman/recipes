@@ -9,6 +9,7 @@ tags = ['condiments']
 From [Fox and Briar](https://www.foxandbriar.com/the-best-thai-peanut-sauce-recipe/).
 
 ## Ingredients
+
 * ½ cup peanut butter natural, unsweetened
 * 2 tablespoons low sodium soy sauce use tamari or coconut aminos for gluten free
 * 1 tablespoon rice vinegar
@@ -20,5 +21,7 @@ From [Fox and Briar](https://www.foxandbriar.com/the-best-thai-peanut-sauce-reci
 * 2-4 tablespoons warm water
 
 ## Directions
-* Combine all ingredients except water.  Whisk to fully combine.
-* Add water, 1 tablespoon at a time, until desired consistency is reached. I normally use 2 tablespoons for a sauce and up to four if using it for a dressing. 
+
+* Combine all ingredients except water. Whisk to fully combine.
+* Add water, 1 tablespoon at a time, until desired consistency is reached. I normally use 2
+  tablespoons for a sauce and up to four if using it for a dressing.

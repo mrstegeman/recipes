@@ -6,6 +6,7 @@ tags = ['drinks']
 +++
 
 ## Ingredients
+
 * 1 oz Leopold Brothers Michigan Tart Cherry Liqueur
 * 2 oz gin
 * ½ oz cointreau
@@ -14,6 +15,7 @@ tags = ['drinks']
 * ¾ oz lime juice
 
 ## Directions
+
 * Combine all ingredients in a cocktail shaker with ice.
 * Shake until cold.
 * Strain into a tall glass with fresh ice.

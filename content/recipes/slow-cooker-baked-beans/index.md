@@ -9,6 +9,7 @@ tags = ['sides']
 From [allrecipes](https://www.allrecipes.com/recipe/222258/slow-cooker-baked-beans/).
 
 ## Ingredients
+
 * 2 (14.5 ounce) cans great Northern beans, drained and rinsed
 * 1 (14.5 ounce) can black beans, drained and rinsed
 * ¼ cup packed brown sugar truvia
@@ -20,5 +21,7 @@ From [allrecipes](https://www.allrecipes.com/recipe/222258/slow-cooker-baked-bea
 * 4 ounces bacon, diced
 
 ## Directions
-* Mix barbeque sauce, ketchup, brown sugar, and mustard together in a 4-quart slow cooker until smooth. Stir beans, green bell pepper, onion, and bacon into barbeque sauce mixture.
+
+* Mix barbeque sauce, ketchup, brown sugar, and mustard together in a 4-quart slow cooker until
+  smooth. Stir beans, green bell pepper, onion, and bacon into barbeque sauce mixture.
 * Cook beans on Low for 8 to 12 hours until thick.

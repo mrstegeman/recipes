@@ -8,6 +8,7 @@ tags = ['sides']
 From [Southern Living](https://www.southernliving.com/culture/chick-fil-a-cole-slaw-recipe).
 
 ## Ingredients
+
 * 4 teaspoons vinegar
 * ¼ cup sugar
 * ¼ teaspoon dry mustard
@@ -17,4 +18,6 @@ From [Southern Living](https://www.southernliving.com/culture/chick-fil-a-cole-s
 * ¼ cup finely chopped carrots
 
 ## Directions
-* Whisk vinegar, sugar, mustard and salt together until sugar is dissolved. Add mayonnaise and whisk to mix. Add cabbage and carrots. Mix to combine. Refrigerate for two hours and serve.
+
+* Whisk vinegar, sugar, mustard and salt together until sugar is dissolved. Add mayonnaise and whisk
+  to mix. Add cabbage and carrots. Mix to combine. Refrigerate for two hours and serve.

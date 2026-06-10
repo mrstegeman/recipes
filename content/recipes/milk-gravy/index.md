@@ -6,6 +6,7 @@ tags = ['condiments']
 +++
 
 ## Ingredients
+
 * 8 tablespoons butter
 * 8 tablespoons Pamela's Artisan Flour
 * 4 cups milk
@@ -13,6 +14,7 @@ tags = ['condiments']
 * ⅓ teaspoon pepper
 
 ## Directions
+
 * Melt butter over medium heat.
 * Mix in flour, salt, and pepper.
 * Continue cooking and stirring until smooth and bubbly.

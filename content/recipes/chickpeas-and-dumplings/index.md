@@ -9,6 +9,7 @@ tags = ['soup']
 From [How Sweet Eats](https://www.howsweeteats.com/2021/01/chickpeas-and-dumplings/).
 
 ## Ingredients
+
 * (soup) 6 tablespoon unsalted butter
 * (soup) 2 small sweet onions, diced
 * (soup) 4 medium carrots, peeled and diced
@@ -30,9 +31,20 @@ From [How Sweet Eats](https://www.howsweeteats.com/2021/01/chickpeas-and-dumplin
 * (dumplings) 1 cup buttermilk
 
 ## Directions
-* Melt the butter in a pot over medium-low heat. Once melted, stir in the onion, carrots, celery and garlic with a big pinch of salt and pepper. Stir in the rosemary and thyme. Cook until the vegetables soften, about 5 minutes.
-* While the veggies soften, make the dumplings. Whisk together the 1 cup of flour, baking powder, salt and poultry seasoning in a large bowl. Combine the milk and the eggs, then stir into the flour until just mixed. Set aside for a few minutes.
-* Stir the 6 tablespoons of flour into the pan, coating the vegetables to create a roux. Cook, stirring often, for 5 minutes, making sure it doesn’t burn. Slowly stream in 8 cups of the stock, stirring while doing so. Cook for another 5 minutes, letting the mixture come to a low boil - it should thicken a bit.
-* Stir in the chickpeas. Stir in the cream. You want the mixture to be lightly bubbling over medium heat. Taste and season with more salt and pepper if needed.
-* Take the dumpling batter and drop spoonfuls of it into the soup. Cook for 7 minutes, then flip the dumplings and cook them for 7 minutes more. If the mixture comes to a full boil, decrease the heat while simmering the dumplings.
+
+* Melt the butter in a pot over medium-low heat. Once melted, stir in the onion, carrots, celery and
+  garlic with a big pinch of salt and pepper. Stir in the rosemary and thyme. Cook until the
+  vegetables soften, about 5 minutes.
+* While the veggies soften, make the dumplings. Whisk together the 1 cup of flour, baking powder,
+  salt and poultry seasoning in a large bowl. Combine the milk and the eggs, then stir into the
+  flour until just mixed. Set aside for a few minutes.
+* Stir the 6 tablespoons of flour into the pan, coating the vegetables to create a roux. Cook,
+  stirring often, for 5 minutes, making sure it doesn’t burn. Slowly stream in 8 cups of the stock,
+  stirring while doing so. Cook for another 5 minutes, letting the mixture come to a low boil - it
+  should thicken a bit.
+* Stir in the chickpeas. Stir in the cream. You want the mixture to be lightly bubbling over medium
+  heat. Taste and season with more salt and pepper if needed.
+* Take the dumpling batter and drop spoonfuls of it into the soup. Cook for 7 minutes, then flip the
+  dumplings and cook them for 7 minutes more. If the mixture comes to a full boil, decrease the heat
+  while simmering the dumplings.
 * Sprinkle with parsley and serve!

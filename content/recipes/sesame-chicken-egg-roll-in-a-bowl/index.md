@@ -7,9 +7,11 @@ archive = true
 tags = ['chicken', 'asian']
 +++
 
-From [Peace, Love, and Low Carb](https://peaceloveandlowcarb.com/sesame-chicken-egg-roll-in-a-bowl/).
+From
+[Peace, Love, and Low Carb](https://peaceloveandlowcarb.com/sesame-chicken-egg-roll-in-a-bowl/).
 
 ## Ingredients
+
 * 3 tablespoons toasted sesame oil
 * 1 small red onion, chopped (about ½ cup)
 * 4 gloves garlic, minced
@@ -25,8 +27,12 @@ From [Peace, Love, and Low Carb](https://peaceloveandlowcarb.com/sesame-chicken-
 * 1 tablespoon toasted sesame seeds
 
 ## Directions
+
 * Heat the sesame oil in a large skillet over medium-high heat.
-* Add the onion, garlic, and white portions of the green onions to the skillet. Sauté until the green onions are translucent and the garlic is fragrant.
-* Add the chicken, ginger, salt, pepper, and Sriracha to the pan. Sauté until the chicken is cooked through.
+* Add the onion, garlic, and white portions of the green onions to the skillet. Sauté until the
+  green onions are translucent and the garlic is fragrant.
+* Add the chicken, ginger, salt, pepper, and Sriracha to the pan. Sauté until the chicken is cooked
+  through.
 * Add the broccoli slaw, soy sauce, and vinegar and sauté until the broccoli is tender.
-* Top with the green parts of the green onions and the sesame seeds before serving. Squirt some additional Sriracha over the top, if desired.
+* Top with the green parts of the green onions and the sesame seeds before serving. Squirt some
+  additional Sriracha over the top, if desired.

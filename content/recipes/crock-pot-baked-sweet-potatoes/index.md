@@ -9,9 +9,11 @@ tags = ['sides']
 From [The Pinning Mama](https://www.thepinningmama.com/crock-pot-baked-sweet-potatoes/).
 
 ## Ingredients
+
 * 1-5 whole sweet potatoes washed
 
 ## Directions
+
 * Wash sweet potatoes and wrap each potato in foil so that it is completely covered.
 * Line your slow cooker with foil so that it is smooth and covering the bottom.
 * Place the wrapped sweet potatoes in the crock pot.
